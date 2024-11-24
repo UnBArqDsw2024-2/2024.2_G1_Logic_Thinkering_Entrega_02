@@ -12,7 +12,7 @@ ou acesse:
 
 
 ## Tecnologia
-
+teste
 A geração do site estático é realizada utilizando o [docsify](https://docsify.js.org/).
 
 ```shell
