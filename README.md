@@ -7,7 +7,7 @@ Repositório que deve ser utilizado como template inicial pelos grupos da matér
 Este repositório traz um template de repo de documentação a ser seguido pelos grupos de arquitetura e desenho de software.
 
 ## Tecnologia
-
+teste
 A geração do site estático é realizada utilizando o [docsify](https://docsify.js.org/).
 
 ```shell
