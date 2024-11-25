@@ -9,9 +9,9 @@
 - Mencione brevemente os principais aspectos que serão abordados no documento.
 -->
 
-O **Diagrama de Implantação** é fundamental na modelagem de aplicações que envolvem diferentes dispositivos, pois permite representar visualmente as características físicas de um sistema e suas necessidades de hardware - como, por exemplo, servidores, estações, topologias e protocolos de comunicação (GUEDES, 2009).
+O **Diagrama de Implantação** é fundamental na modelagem de aplicações que envolvem diferentes dispositivos, pois permite representar visualmente as características físicas de um sistema e suas necessidades de hardware - como, por exemplo, servidores, estações, topologias e protocolos de comunicação (GUEDES, 2009). O diagrama de implantação é uma representação visual das arquiteturas físicas envolvidas na execução do sistema.
 
-Além disso, essa representação demonstra a distribuição dos módulos do sistema utilizando os conceitos de nós e associações, contribuindo para a identificação de possíveis gargalos e conflitos entre componentes. Tal análise facilita o processo de tomada de decisões pela equipe de desenvolvimento ao documentar elementos principais como servidores, APIs e dependências externas, uma vez que se torna possível identificar uma visão geral da organização técnica do sistema o que garante melhor compreensão da estrutura do projeto para toda a equipe (GUEDES, 2009; PAIVA, 2021).
+Além disso, essa representação demonstra a distribuição dos módulos do sistema utilizando os conceitos de nós e associações, contribuindo para a identificação de possíveis gargalos e conflitos entre componentes. Tal análise facilita o processo de tomada de decisões pela equipe de desenvolvimento ao documentar elementos principais como servidores, APIs e dependências externas, uma vez que se torna possível identificar uma visão geral da organização técnica do sistema o que garante melhor compreensão da estrutura do projeto para toda a equipe (GUEDES, 2009; PAIVA, 2021). Este tipo de diagrama é essencial para entender como o mod será hospedado, testado e distribuído, e como ele interage com o cliente do Minecraft e servidores.
 
 ## Objetivo
 
@@ -21,6 +21,8 @@ Além disso, essa representação demonstra a distribuição dos módulos do sis
 - **Destaque os resultados esperados, como soluções para problemas, melhorias no entendimento ou suporte à tomada de decisões.**
 -->
 
+O objetivo do diagrama de implantação é mapear como o projeto será integrado ao cliente do Minecraft, descrevendo as relações entre os componentes internos e externos. Para a equipe de desenvolvimento, o diagrama fornece clareza sobre as dependências de hardware e software, facilitando a tomada de decisões sobre compatibilidade, configuração de servidores e ambientes de teste. Ele também destaca os fluxos de comunicação e a alocação de recursos, garantindo que a arquitetura física do sistema suporte as funcionalidades previstas no diagrama de classes.
+
 ## Metodologia
 
 <!--
@@ -28,6 +30,8 @@ Além disso, essa representação demonstra a distribuição dos módulos do sis
 - **Descreva as ferramentas, técnicas ou referências utilizadas na construção do diagrama ou solução. Se houver alguma ferramenta específica determinada pela professora, a sugestão é usá-la sendo em qualquer etapa do processo. Podem começar com uma ferramenta que já são familiarizados e depois explorar outras ferramentas.**
 - Se desejarem, podem citar os desafios encontrados seguindo a metodologia, propostas de melhoria, etc.
 -->
+
+O diagrama foi desenvolvido com base nos requisitos não funcionais que especificam compatibilidade e desempenho. Ferramentas UML foram empregadas para modelar a relação entre servidores de Minecraft, o cliente do jogo e os módulos do mod. A estrutura física foi analisada, considerando o impacto da implementação do projeto no desempenho do sistema.
 
 ## Resultados
 
@@ -38,6 +42,8 @@ Além disso, essa representação demonstra a distribuição dos módulos do sis
 - Destaque os pontos principais ou insights obtidos durante o processo.
 - **APRESENTE AS VERSÕES DO DIAGRAMA!! Podem usar o formato abaixo para poluir menos a página**
 -->
+
+O diagrama de implantação demonstra como o mod interage com o cliente do Minecraft e com servidores multiplayer. Ele destaca o papel dos módulos na gestão dos sinais de redstone e a interação com o hardware do jogador. Componentes como o servidor de Minecraft são mostrados hospedando instâncias do mod, enquanto o cliente é responsável pela execução das interfaces gráficas e elementos visuais, como o minimapa. A representação também ilustra o uso de bibliotecas externas e APIs de Minecraft para integrar as funcionalidades do mod ao jogo.
 
 ### Versões Anteriores
 
@@ -65,6 +71,8 @@ Primeira versão do Diagrama de Implantação pode ser vista na Figura 1.
 -   **Apresente perspectivas para melhorias ou trabalhos futuros.**
 -->
 
+Portanto, O diagrama garante que a arquitetura física do projeto é compatível com os requisitos funcionais e não funcionais, abordando questões de desempenho, compatibilidade e escalabilidade. Ele fornece uma base sólida para testes em diferentes ambientes e simplifica o diagnóstico de problemas relacionados à execução do mod. O trabalho futuro pode incluir a modelagem de configurações avançadas de servidores e a avaliação de tecnologias adicionais que possam otimizar a experiência do usuário em ambientes multiplayer.
+
 ## Bibliografia
 
 <!-- - **Altere!**-->
@@ -85,6 +93,7 @@ Primeira versão do Diagrama de Implantação pode ser vista na Figura 1.
 
 | Matrícula | Aluno                      | Git                                           |
 | --------- | -------------------------- | --------------------------------------------- |
+| 221007869 | Artur Henrique Holz Bartz  | [H0lzz](https://github.com/H0lzz)             |
 | 170010872 | Gabriela de Oliveira Lemos | [heylisten64](https://github.com/heylisten64) |
 
 </div>
@@ -103,7 +112,8 @@ Primeira versão do Diagrama de Implantação pode ser vista na Figura 1.
 
 | Versão | Data da alteração |                         Alteração                          |                   Responsável                    | Revisor | Data de revisão |
 | :----: | :---------------: | :--------------------------------------------------------: | :----------------------------------------------: | :-----: | :-------------: |
-|  1.0   |       21/11       | Criação do documento e adição de Introdução e Bibliografia | [Gabriela Lemos](https://github.com/heylisten64) |
+|  1.0   |       21/11       | Criação do documento e adição de Introdução e Bibliografia | [Gabriela Lemos](https://github.com/heylisten64) | [Artur Bartz](https://github.com/H0lzz) | 25/11/2024 |
+|  2.0   |       25/11       | Adição de Objetivos, Metodologia, Resultados e Conclusão   | [Artur Bartz](https://github.com/H0lzz)          |
 
 </div>
 
@@ -111,4 +121,4 @@ Primeira versão do Diagrama de Implantação pode ser vista na Figura 1.
 
 |       Revisor(es)       | O que foi realizado |
 | :---------------------: | :-----------------: |
-| [](https://github.com/) |                     |
+| [Artur Bartz](https://github.com/H0lzz) | Foi revisada a Introdução e adicionado informações que o diagrama reflete na hospedagem, testagem e distribuição do mod, assim como sua interação com o cliente do Minecraft e servidores. |
