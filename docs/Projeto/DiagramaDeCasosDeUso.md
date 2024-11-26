@@ -62,7 +62,7 @@ Primeira versão do Diagrama de Casos de Uso visto na Figura 2.
 
 <center><b>Figura 2 -</b> Diagrama de Casos de Uso do Logic Thinkering</center>
 
-![Versão 1.0](../assets/casosdeuso1.png)
+![Versão 1.0](../assets/diagramadecasosdeuso.drawio.png)
 
 <center><b>Fonte:</b> </center>
 
@@ -97,8 +97,17 @@ O diagrama de casos de uso proporciona uma visão abrangente das interações es
 
 | Matrícula | Aluno                                 | Git                                                           |
 | --------- | ------------------------------------- | ------------------------------------------------------------- |
-| 221007869 | Artur henrique Holz Bartz             | [H0lzz](https://github.com/H0lzz)                             |
+| 221007813 | André Emanuel Bispo da Silva          | [Hunter104](https://github.com/Hunter104)                     |
+| 221007869 | Artur Henrique Holz Bartz             | [H0lzz](https://github.com/H0lzz)                             |
+| 221021886 | Cássio Sousa dos Reis                 | [csreis72](https://github.com/csreis72)                       |
+| 221008024 | Eduardo Matheus dos Santos Sandes     | [DiceRunner714](https://github.com/DiceRunner714)             |
 | 170010872 | Gabriela de Oliveira Lemos            | [heylisten64](https://github.com/heylisten64)                 |
+| 221008150 | João Antonio Ginuino Carvalho         | [joaoseisei](https://github.com/joaoseisei)                   |
+| 221008445 | Samara Letícia Alves dos Santos       | [samarawwleticia](https://github.com/samarawwleticia)         |
+| 221008697 | Sunamita Vitória Rodrigues dos Santos | [sunamit](https://github.com/sunamit)                         |
+| 211062526 | Thomas Queiroz Souza Alves            | [thmasq](https://github.com/thmasq)                           |
+| 202017263 | Vinicius de Oliveira Santos           | [ViniciussdeOliveira](https://github.com/ViniciussdeOliveira) |
+
 
 </div>
 
@@ -117,7 +126,8 @@ O diagrama de casos de uso proporciona uma visão abrangente das interações es
 | Versão | Data da alteração |            Alteração            |                  Responsável                  |                      Revisor                       | Data de revisão |
 | :----: | :---------------: | :-----------------------------: | :-------------------------------------------: | :------------------------------------------------: | :-------------: |
 |  1.0   |       23/11       |      Criação do documento e adição de Introdução e Bibliografia       |  [Gabriela Lemos](https://github.com/heylisten64) | [Artur Bartz](https://github.com/H0lzz) | 25/11/2024 |  
-|  2.0   |       25/11       |      Adição de Objetivos, Metodologia, Resultados e Conclusão         |  [Artur Bartz](https://github.com/H0lzz)          |       
+|  2.0   |       25/11       |      Adição de Objetivos, Metodologia, Resultados e Conclusão         |  [Artur Bartz](https://github.com/H0lzz)          |    
+|  3.0   |       26/11       |      Adição da Primeira Versão do diagrama         |  [Hunter104](https://github.com/Hunter104), [Artur Bartz](https://github.com/H0lzz), [csreis72](https://github.com/csreis72), [DiceRunner714](https://github.com/DiceRunner714), [heylisten64](https://github.com/heylisten64), [joaoseisei](https://github.com/joaoseisei), [samarawwleticia](https://github.com/samarawwleticia), [sunamit](https://github.com/sunamit), [thmasq](https://github.com/thmasq), [ViniciussdeOliveira](https://github.com/ViniciussdeOliveira)          |     
 
 </div>
 
