@@ -7,18 +7,33 @@
 - Destaque a relevância do diagrama ou abordagem para a área de aplicação.
 - Mencione brevemente os principais aspectos que serão abordados no documento.
 -->
+
+<div align="justify">&emsp;&emsp;
+COLOCAR O TEXTO AQUI DENTRO
+</div>
+
 ## Objetivo
 <!--  
 - **Declare o que se pretende alcançar com o diagrama em projetos no geral; Busque referenciar!**
 - **Declare o que se pretende alcançar com o diagrama para equipe neste contexto;**
 - **Destaque os resultados esperados, como soluções para problemas, melhorias no entendimento ou suporte à tomada de decisões.**
 -->
+
+<div align="justify">&emsp;&emsp;
+COLOCAR O TEXTO AQUI DENTRO
+</div>
+
 ## Metodologia
 <!--  
 - **Explique o processo utilizado para desenvolver o trabalho. COMO foi feito?**
 - **Descreva as ferramentas, técnicas ou referências utilizadas na construção do diagrama ou solução. Se houver alguma ferramenta específica determinada pela professora, a sugestão é usá-la sendo em qualquer etapa do processo. Podem começar com uma ferramenta que já são familiarizados e depois explorar outras ferramentas.**
 - Se desejarem, podem citar os desafios encontrados seguindo a metodologia, propostas de melhoria, etc.
 -->
+
+<div align="justify">&emsp;&emsp;
+COLOCAR O TEXTO AQUI DENTRO
+</div>
+
 ## Resultados
 <!--  
 - **Apresente o produto final, como o diagrama ou solução desenvolvida.** 
@@ -27,6 +42,10 @@
 - Destaque os pontos principais ou insights obtidos durante o processo.
 - **APRESENTE AS VERSÕES DO DIAGRAMA!! Podem usar o formato abaixo para poluir menos a página**
 -->
+
+<div align="justify">&emsp;&emsp;
+COLOCAR O TEXTO AQUI DENTRO
+</div>
 
 ### Versões Anteriores
 
@@ -86,11 +105,9 @@ Primeira adaptação ao Bizagi pode ser vista na Figura 3.
 
 <!-- - **Altere!**-->
 
- [1] SERRANO, Milene. Videoaula: [03b - VídeoAula - DSW - Metodologia - RUP](https://unbbr-my.sharepoint.com/:v:/g/personal/mileneserrano_unb_br/EcEx3UfhmvlAliVpLUlXelQBfaD1EFsNIpL32EMWqRptYg?e=qeIjLP). [Online]. Disponível em: [https://unbbr-my.sharepoint.com/:v:/g/personal/mileneserrano_unb_br/EcEx3UfhmvlAliVpLUlXelQBfaD1EFsNIpL32EMWqRptYg?e=qeIjLP](https://unbbr-my.sharepoint.com/:v:/g/personal/mileneserrano_unb_br/EcEx3UfhmvlAliVpLUlXelQBfaD1EFsNIpL32EMWqRptYg?e=qeIjLP) . Acesso em: 02 nov. 2024.
+> [1] SERRANO, Milene. Videoaula: [03b - VídeoAula - DSW - Metodologia - RUP](https://unbbr-my.sharepoint.com/:v:/g/personal/mileneserrano_unb_br/EcEx3UfhmvlAliVpLUlXelQBfaD1EFsNIpL32EMWqRptYg?e=qeIjLP). [Online]. Disponível em: [https://unbbr-my.sharepoint.com/:v:/g/personal/mileneserrano_unb_br/EcEx3UfhmvlAliVpLUlXelQBfaD1EFsNIpL32EMWqRptYg?e=qeIjLP](https://unbbr-my.sharepoint.com/:v:/g/personal/mileneserrano_unb_br/EcEx3UfhmvlAliVpLUlXelQBfaD1EFsNIpL32EMWqRptYg?e=qeIjLP) . Acesso em: 02 nov. 2024.
 
-  
-
- [2] SERRANO, Milene. Videoaula: [03c - VídeoAula - DSW - Metodologia - OpenUp](https://unbbr-my.sharepoint.com/:v:/g/personal/mileneserrano_unb_br/Ea3mcLH9TMpDt5h3OqZJCrgBErMwxkLl_bKKCvuFKUKtqg?e=v51Pll). [Online]. Disponível em: [https://unbbr-my.sharepoint.com/:v:/g/personal/mileneserrano_unb_br/Ea3mcLH9TMpDt5h3OqZJCrgBErMwxkLl_bKKCvuFKUKtqg?e=v51Pll](https://unbbr-my.sharepoint.com/:v:/g/personal/mileneserrano_unb_br/Ea3mcLH9TMpDt5h3OqZJCrgBErMwxkLl_bKKCvuFKUKtqg?e=v51Pll) . Acesso em: 02 nov. 2024.
+> [2] SERRANO, Milene. Videoaula: [03c - VídeoAula - DSW - Metodologia - OpenUp](https://unbbr-my.sharepoint.com/:v:/g/personal/mileneserrano_unb_br/Ea3mcLH9TMpDt5h3OqZJCrgBErMwxkLl_bKKCvuFKUKtqg?e=v51Pll). [Online]. Disponível em: [https://unbbr-my.sharepoint.com/:v:/g/personal/mileneserrano_unb_br/Ea3mcLH9TMpDt5h3OqZJCrgBErMwxkLl_bKKCvuFKUKtqg?e=v51Pll](https://unbbr-my.sharepoint.com/:v:/g/personal/mileneserrano_unb_br/Ea3mcLH9TMpDt5h3OqZJCrgBErMwxkLl_bKKCvuFKUKtqg?e=v51Pll) . Acesso em: 02 nov. 2024.
 
 
 <center>
