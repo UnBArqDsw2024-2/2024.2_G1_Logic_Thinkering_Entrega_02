@@ -85,6 +85,12 @@ Para realizar o **Diagrama de Atividades** nos organizamos da seguinte forma: re
 
 </div>
 
+<div align="justify">
+
+&emsp;&emsp;
+Nos baseamos na bibliografia encontrada **UML2 - Uma Abordagem Prática** Usamos a ferramenta Draw.io e trabalhamos de forma síncrona utilizando o Discord para debater questões da notação. [Aqui](https://ibb.co/Cwh9KQW) podemos ver parte da equipe trabalhando.
+</div>
+
 ## Legenda de Símbolos
 
 <div align="justify">
@@ -109,15 +115,7 @@ Na tabela 2 a seguir estão dispostos os símbolos utilizados nos Diagramas de A
 | <img src="/assets/atividades/alfinete.png" style="width: 7vw;" alt="Símbolo de decisão">      | Símbolo de alfinete   | Representa um nó de entrada ou saída de uma ação, responsável por fornecer ou receber dados. |
 | <img src="/assets/atividades/fim.png" style="width: 7vw;" alt="Símbolo de término">           | Símbolo de término    | Indica o fim de um processo ou atividade.                                                    |
 
-
-
 </div>
-
-![Versão 1.0](/assets/atividades/inicio.png)
-
-![aaa](../assets/atividades/inicio.png)
-
-Nos baseamos na bibliografia encontrada **UML2 - Uma Abordagem Prática** Usamos a ferramenta Draw.io e trabalhamos de forma síncrona utilizando o Discord para debater questões da notação. [Aqui](https://ibb.co/Cwh9KQW) podemos ver parte da equipe trabalhando.
 
 ## Resultados
 
@@ -162,9 +160,18 @@ A Figura 2 representa o Diagrama de Atividade proposto pela equipe.
 -   **Apresente perspectivas para melhorias ou trabalhos futuros.**
 -->
 
-Os diagramas de atividades desenvolvido apresentou uma visão clara e estruturada dos processos relacionados as funcionalidades a serem implementadas, destacando os principais passos, decisões e interações envolvidas. Por meio dele, foi possível identificar problemas e dificuldades relativos a futura implementação de alguns requisitos permitindo a equipe abordar e resolver esses conflitos sem gastar muito tempo com retrabalho, comprovando portanto sua utilidade para a análise e comunicação entre os envolvidos no projeto. Um exemplo disso foi a decisão de simplificar a implementação dos fios de cobre, uma vez que o planejamento da equipe ia além do requisito correspondente, o que dificultaria muito a implementação. Os objetivos propostos foram plenamente alcançados, pois o diagrama facilitou o entendimento das atividades e promoveu alinhamento entre os membros em diversos aspectos, como por exemplo em como a transmissão de sinais sem fio estava contida nos requisitos ligados às antenas de redstone.
+<div align="justify">
 
+&emsp;&emsp;
+Os diagramas de atividades desenvolvido apresentou uma visão clara e estruturada dos processos relacionados as funcionalidades a serem implementadas, destacando os principais passos, decisões e interações envolvidas. Por meio dele, foi possível identificar problemas e dificuldades relativos a futura implementação de alguns requisitos permitindo a equipe abordar e resolver esses conflitos sem gastar muito tempo com retrabalho, comprovando portanto sua utilidade para a análise e comunicação entre os envolvidos no projeto. Um exemplo disso foi a decisão de simplificar a implementação dos fios de cobre, uma vez que o planejamento da equipe ia além do requisito correspondente, o que dificultaria muito a implementação. Os objetivos propostos foram plenamente alcançados, pois o diagrama facilitou o entendimento das atividades e promoveu alinhamento entre os membros em diversos aspectos, como por exemplo em como a transmissão de sinais sem fio estava contida nos requisitos ligados às antenas de redstone.
+</div>
+
+
+<div align="justify">
+
+&emsp;&emsp;
 Ademais, os diagramas de atividades construídos consolidaram a visão coletiva da equipe, superando possíveis discordâncias entre os subgrupos e promovendo uma integração mais eficiente. A fragmentação dos requisitos em fluxos, estados e processos detalhados não apenas tornou mais claro o entendimento para as fases de desenvolvimento e teste, mas também proporcionou uma base sólida para futuras iterações do projeto. Esse nível de detalhamento garante que todos os envolvidos tenham uma compreensão uniforme dos objetivos e desafios do sistema, o que potencializa a qualidade das entregas bem como sua fidelidade aos requisitos elicitados. Além disso, os diagramas abrem caminho para melhorias contínuas, como a inclusão de métricas de desempenho e a validação cruzada com outros artefatos, garantindo que o processo de desenvolvimento seja ágil e eficaz.
+</div>
 
 ## Bibliografia
 
@@ -184,9 +191,16 @@ Ademais, os diagramas de atividades construídos consolidaram a visão coletiva 
 
 <div style="margin: 0 auto; width: fit-content;">
 
-| Matrícula | Aluno                      | Git                                           |
-| --------- | -------------------------- | --------------------------------------------- |
-| 170010872 | Gabriela de Oliveira Lemos | [heylisten64](https://github.com/heylisten64) |
+| Matrícula | Aluno                                 | Git                                                           |
+|-----------|---------------------------------------|---------------------------------------------------------------|
+| 221021886 | Cássio Sousa dos Reis                 | [csreis72](https://github.com/csreis72)                       |
+| 221008024 | Eduardo Matheus dos Santos Sandes     | [DiceRunner714](https://github.com/DiceRunner714)             |
+| 170010872 | Gabriela de Oliveira Lemos            | [heylisten64](https://github.com/heylisten64)                 |
+| 221008150 | João Antonio Ginuino Carvalho         | [joaoseisei](https://github.com/joaoseisei)                   |
+| 221008697 | Sunamita Vitória Rodrigues dos Santos | [sunamit](https://github.com/sunamit)                         |
+| 211062526 | Thomas Queiroz Souza Alves            | [thmasq](https://github.com/thmasq)                           |
+| 202017263 | Vinicius de Oliveira Santos           | [ViniciussdeOliveira](https://github.com/ViniciussdeOliveira) |
+
 
 </div>
 
@@ -202,10 +216,12 @@ Ademais, os diagramas de atividades construídos consolidaram a visão coletiva 
 
 <div style="margin: 0 auto; width: fit-content;">
 
-| Versão | Data da alteração |                         Alteração                          |                   Responsável                    | Revisor | Data de revisão |
-| :----: | :---------------: | :--------------------------------------------------------: | :----------------------------------------------: | :-----: | :-------------: |
-|  1.0   |       25/11       | Criação do documento e adição de introdução e bibliografia | [Gabriela Lemos](https://github.com/heylisten64) |
-|  1.0   |       26/11       | Adição de metodologia | [Gabriela Lemos](https://github.com/heylisten64) |
+| Versão | Data da alteração |                         Alteração                          |                                        Responsável                                         | Revisor | Data de revisão |
+|:------:|:-----------------:|:----------------------------------------------------------:|:------------------------------------------------------------------------------------------:|:-------:|:---------------:|
+|  1.0   |       25/11       | Criação do documento e adição de introdução e bibliografia |                      [Gabriela Lemos](https://github.com/heylisten64)                      |
+|  1.0   |       26/11       |                   Adição de metodologia                    |                      [Gabriela Lemos](https://github.com/heylisten64)                      |
+|  1.0   |       27/11       |                     Adiciona conclusão                     |                     [DiceRunner714](https://github.com/DiceRunner714)                      |
+|  1.0   |       27/11       |              Adiciona legenda e contribuição               | [joaoseisei](https://github.com/joaoseisei), [heylisten64](https://github.com/heylisten64) |
 
 </div>
 
