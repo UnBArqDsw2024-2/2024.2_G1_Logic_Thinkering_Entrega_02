@@ -114,6 +114,10 @@ A Figura 2 representa o Diagrama de Atividade proposto pela equipe.
 -   **Apresente perspectivas para melhorias ou trabalhos futuros.**
 -->
 
+Os diagramas de atividades desenvolvido apresentou uma visão clara e estruturada dos processos relacionados as funcionalidades a serem implementadas, destacando os principais passos, decisões e interações envolvidas. Por meio dele, foi possível identificar problemas e dificuldades relativos a futura implementação de alguns requisitos permitindo a equipe abordar e resolver esses conflitos sem gastar muito tempo com retrabalho, comprovando portanto sua utilidade para a análise e comunicação entre os envolvidos no projeto. Um exemplo disso foi a decisão de simplificar a implementação dos fios de cobre, uma vez que o planejamento da equipe ia além do requisito correspondente, o que dificultaria muito a implementação. Os objetivos propostos foram plenamente alcançados, pois o diagrama facilitou o entendimento das atividades e promoveu alinhamento entre os membros em diversos aspectos, como por exemplo em como a transmissão de sinais sem fio estava contida nos requisitos ligados às antenas de redstone.
+
+Ademais, os diagramas de atividades construídos consolidaram a visão coletiva da equipe, superando possíveis discordâncias entre os subgrupos e promovendo uma integração mais eficiente. A fragmentação dos requisitos em fluxos, estados e processos detalhados não apenas tornou mais claro o entendimento para as fases de desenvolvimento e teste, mas também proporcionou uma base sólida para futuras iterações do projeto. Esse nível de detalhamento garante que todos os envolvidos tenham uma compreensão uniforme dos objetivos e desafios do sistema, o que potencializa a qualidade das entregas bem como sua fidelidade aos requisitos elicitados. Além disso, os diagramas abrem caminho para melhorias contínuas, como a inclusão de métricas de desempenho e a validação cruzada com outros artefatos, garantindo que o processo de desenvolvimento seja ágil e eficaz.
+
 ## Bibliografia
 
 <!-- - **Altere!**-->
