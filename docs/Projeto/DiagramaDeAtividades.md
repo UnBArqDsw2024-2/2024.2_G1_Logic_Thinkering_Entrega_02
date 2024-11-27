@@ -35,11 +35,23 @@ Este diagrama possui um formato que se assemelha à notação BPMN por possuir n
 - definir prioridades>
 -->
 
+<div align="justify">
+
+&emsp;&emsp;
 O **Diagrama de Atividade** foi utilizado com o objetivo de modelar e facilitar a vizualização do funcionamento de componententes do mod, descrevendo comportamentos dinâmicos e a interação entre o jogo, o mod, seus compontentes e o jogador em diferentes cenários.
+</div>
 
-Essa notação é utilizada para representar fluxos de trabalho ou tarefas, identificar pontos de decisão e atividades que podem ocorrer de forma sequencial, simultânea ou condicional. Além disso, serve para facilitar o entendimento e a comunicação entre a equipe de desenvolvimento, de modo que as funcionalidades envolvidas sejam de fácil compreensão para os membros do grupo. 
+<div align="justify">
 
+&emsp;&emsp;
+Essa notação é utilizada para representar fluxos de trabalho ou tarefas, identificar pontos de decisão e atividades que podem ocorrer de forma sequencial, simultânea ou condicional. Além disso, serve para facilitar o entendimento e a comunicação entre a equipe de desenvolvimento, de modo que as funcionalidades envolvidas sejam de fácil compreensão para os membros do grupo.
+</div>
+
+<div align="justify">
+
+&emsp;&emsp;
 Por fim, também contribui para a análise e otimização de processos, ajudando a identificar oportunidades de melhora. Amplamente aplicado na modelagem de casos de uso, automação de processos e design de sistemas, esse diagrama é uma base importante tanto na fase de levantamento de requisitos quanto no design, garantindo que os fluxos sejam bem compreendidos e implementados corretamente.
+</div>
 
 ## Metodologia
 
@@ -49,7 +61,11 @@ Por fim, também contribui para a análise e otimização de processos, ajudando
 - Se desejarem, podem citar os desafios encontrados seguindo a metodologia, propostas de melhoria, etc.
 -->
 
+<div align="justify">
+
+&emsp;&emsp;
 Para realizar o **Diagrama de Atividades** nos organizamos da seguinte forma: revisamos o documento do **Backward From** e agrupamos requisitos funcionais de forma que juntos formassem uma das partições do diagrama. Nomeamos em um grupo e agrupamos os requisitos e geramos os seguintes conjuntos em que cada um da tarefa ficou responsável por realizar, que pode ser visto na Tabela 1.
+</div>
 
 <center>
 <b>Tabela 1 -</b> Divisão de Tarefas
@@ -57,17 +73,49 @@ Para realizar o **Diagrama de Atividades** nos organizamos da seguinte forma: re
 <br>
 <div style="margin: 0 auto; width: fit-content;">
 
-|Nome|Requisito Funcional  | Responsável|
-|--|--|--|
-| Minérios          | RF01, RF02, RF03 | Thomas |
-| Portas Lógicas    | RF06, RF19 | João |
-| Antena            | RF07, RF08, RF09, RF12 | Eduardo |
-| Minimapa          | RF10, RF11, RF24  | Gabriela |
-| Livro             | RF14, RF15, RF23 | Cássio |
-| Robôs             | RF16, RF18 | Vinícius |
-| Circuitos Lógicos | RF17 | Sunamita |
+| Nome              | Requisito Funcional    | Responsável |
+|-------------------|------------------------|-------------|
+| Minérios          | RF01, RF02, RF03       | Thomas      |
+| Portas Lógicas    | RF06, RF19             | João        |
+| Antena            | RF07, RF08, RF09, RF12 | Eduardo     |
+| Minimapa          | RF10, RF11, RF24       | Gabriela    |
+| Livro             | RF14, RF15, RF23       | Cássio      |
+| Robôs             | RF16, RF18             | Vinícius    |
+| Circuitos Lógicos | RF17                   | Sunamita    |
 
 </div>
+
+## Legenda de Símbolos
+
+<div align="justify">
+
+&emsp;&emsp;
+Na tabela 2 a seguir estão dispostos os símbolos utilizados nos Diagramas de Atividades desenvolvidos
+</div>
+
+<center>
+<b>Tabela 2 -</b> Divisão de Tarefas
+</center>
+<br>
+<div style="margin: 0 auto; width: fit-content;">
+
+| Símbolo                                                                                       | Nome                  | Descrição                                                                                    |
+|-----------------------------------------------------------------------------------------------|-----------------------|----------------------------------------------------------------------------------------------|
+| <img src="/assets/atividades/inicio.png" style="width: 7vw;" alt="Símbolo de início">         | Símbolo de início     | Representa o início de um processo ou atividade.                                             |
+| <img src="/assets/atividades/atividades.png" style="width: 7vw;" alt="Símbolo de atividade">  | Símbolo de atividade  | Indica uma etapa de execução ou uma tarefa no processo.                                      |
+| <img src="/assets/atividades/bifurcacao.png" style="width: 7vw;" alt="Símbolo de bifurcação"> | Símbolo de bifurcação | Representa um ponto de decisão que divide o fluxo em dois ou mais caminhos.                  |
+| <img src="/assets/atividades/juncao.png" style="width: 7vw;" alt="Símbolo de junção">         | Símbolo de junção     | Indica a convergência de múltiplos fluxos em um único caminho.                               |
+| <img src="/assets/atividades/decisao.png" style="width: 7vw;" alt="Símbolo de decisão">       | Símbolo de decisão    | Representa um ponto em que uma escolha é feita, geralmente entre opções "sim" ou "não".      |
+| <img src="/assets/atividades/alfinete.png" style="width: 7vw;" alt="Símbolo de decisão">      | Símbolo de alfinete   | Representa um nó de entrada ou saída de uma ação, responsável por fornecer ou receber dados. |
+| <img src="/assets/atividades/fim.png" style="width: 7vw;" alt="Símbolo de término">           | Símbolo de término    | Indica o fim de um processo ou atividade.                                                    |
+
+
+
+</div>
+
+![Versão 1.0](/assets/atividades/inicio.png)
+
+![aaa](../assets/atividades/inicio.png)
 
 Nos baseamos na bibliografia encontrada **UML2 - Uma Abordagem Prática** Usamos a ferramenta Draw.io e trabalhamos de forma síncrona utilizando o Discord para debater questões da notação. [Aqui](https://ibb.co/Cwh9KQW) podemos ver parte da equipe trabalhando.
 
