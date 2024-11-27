@@ -127,30 +127,127 @@ Na tabela 2 a seguir estão dispostos os símbolos utilizados nos Diagramas de A
 - **APRESENTE AS VERSÕES DO DIAGRAMA!! Podem usar o formato abaixo para poluir menos a página**
 -->
 
-A Figura 1 representa o Diagrama de Atividade proposto pela equipe.
+A Figura 1 representa o Diagrama de Atividade de livro.
 
-<center><b>Figura 1 -</b> Diagrama de Atividade atual da equipe</center>
+<center><b>Figura 1 -</b> Diagrama de Atividade de Livro</center>
 
-![Versão 1.0](../assets/diagramaatividade.png)
+<center>
 
-<center><b>Fonte:</b> </center>
+<img src="/assets/diagramaAtividades/cassio.jpeg"> 
+</center>
 
-### Versões Anteriores
+<center><b>Fonte: Reis, 2024</b> </center>
 
-<details>
-<summary>Visualizar versão 1.0</summary>
+<!--                               -->
+A Figura 2 representa o Diagrama de Atividade de antena.
 
-### Versão 1.0
+<center><b>Figura 2 -</b> Diagrama de Atividade de Antena</center>
 
-A Figura 2 representa o Diagrama de Atividade proposto pela equipe.
+<center>
 
-<center><b>Figura 2 -</b> Diagrama de Atividade versão 1.0</center>
+<img src="/assets/diagramaAtividades/dado.jpeg"> 
+</center>
 
-![Versão 1.0](../assets/diagramaatividade.png)
+<center><b>Fonte: Sandes, 2024</b> </center>
 
-<center><b>Fonte:</b> </center>
+<!--                               -->
+A Figura 3 representa o Diagrama de Atividade de minimapa.
 
-</details>
+<center><b>Figura 3 -</b> Diagrama de Atividade de Minimapa</center>
+
+<center>
+
+<img src="/assets/diagramaAtividades/gabi.jpeg"> 
+</center>
+
+<center><b>Fonte: Lemos, 2024</b> </center>
+
+<!--                               -->
+A Figura 4 representa o Diagrama de Atividade da Porta Lógica.
+
+<center><b>Figura 4 -</b> Diagrama de Atividade atual da Porta Lógica</center>
+
+<center>
+
+<img src="/assets/diagramaAtividades/joao.jpeg"> 
+</center>
+
+<center><b>Fonte: Carvalho, 2024</b> </center>
+
+<!--                               -->
+A Figura 5 representa o Diagrama de Atividade de CI.
+
+<center><b>Figura 5 -</b> Diagrama de Atividade de CI</center>
+
+<center>
+
+<img src="/assets/diagramaAtividades/sunamita.jpeg" alt="Símbolo de término"> 
+</center>
+
+<center><b>Fonte: Santos, 2024</b> </center>
+
+
+<!--                               -->
+A Figura 6 representa o Diagrama de Atividade de espada com carga.
+
+<center><b>Figura 6 -</b> Diagrama de Atividade da Espada com Carga</center>
+
+<center>
+
+<img src="/assets/diagramaAtividades/thomas1.jpeg" alt="Símbolo de término"> 
+</center>
+
+<center><b>Fonte: Alves, 2024</b> </center>
+
+<!--                               -->
+A Figura 7 representa o Diagrama de Atividade de escudo com carga.
+
+<center><b>Figura 7 -</b> Diagrama de Atividade de Escudo com Carga</center>
+
+<center>
+
+<img src="/assets/diagramaAtividades/thomas2.jpeg" alt="Símbolo de término"> 
+</center>
+
+<center><b>Fonte: Alves, 2024</b> </center>
+
+<!--                               -->
+A Figura 8 representa o Diagrama de Atividade de bloco de mineração.
+
+<center><b>Figura 8 -</b> Diagrama de Atividade de Bloco de Mineração</center>
+
+<center>
+
+<img src="/assets/diagramaAtividades/vine.jpeg" alt="Símbolo de término"> 
+</center>
+
+
+<center><b>Fonte: Santos, 2024</b> </center>
+
+[//]: # (### Versões Anteriores)
+
+[//]: # ()
+[//]: # (<details>)
+
+[//]: # (<summary>Visualizar versão 1.0</summary>)
+
+[//]: # ()
+[//]: # (### Versão 1.0)
+
+[//]: # ()
+[//]: # (A Figura 2 representa o Diagrama de Atividade proposto pela equipe.)
+
+[//]: # ()
+[//]: # (<center><b>Figura 2 -</b> Diagrama de Atividade versão 1.0</center>)
+
+[//]: # ()
+[//]: # (![Versão 1.0]&#40;../assets/diagramaatividade.png&#41;)
+
+[//]: # ()
+[//]: # (<center><b>Fonte:</b> </center>)
+
+[//]: # ()
+[//]: # (</details>)
 
 ## Conclusão
 
@@ -216,12 +313,13 @@ Ademais, os diagramas de atividades construídos consolidaram a visão coletiva 
 
 <div style="margin: 0 auto; width: fit-content;">
 
-| Versão | Data da alteração |                         Alteração                          |                                        Responsável                                         | Revisor | Data de revisão |
-|:------:|:-----------------:|:----------------------------------------------------------:|:------------------------------------------------------------------------------------------:|:-------:|:---------------:|
-|  1.0   |       25/11       | Criação do documento e adição de introdução e bibliografia |                      [Gabriela Lemos](https://github.com/heylisten64)                      |
-|  1.0   |       26/11       |                   Adição de metodologia                    |                      [Gabriela Lemos](https://github.com/heylisten64)                      |
-|  1.0   |       27/11       |                     Adiciona conclusão                     |                     [DiceRunner714](https://github.com/DiceRunner714)                      |
-|  1.0   |       27/11       |              Adiciona legenda e contribuição               | [joaoseisei](https://github.com/joaoseisei), [heylisten64](https://github.com/heylisten64) |
+| Versão | Data da alteração |                         Alteração                          |                                                                                                                                                            Responsável                                                                                                                                                            | Revisor | Data de revisão |
+|:------:|:-----------------:|:----------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:-------:|:---------------:|
+|  1.0   |       25/11       | Criação do documento e adição de introdução e bibliografia |                                                                                                                                         [Gabriela Lemos](https://github.com/heylisten64)                                                                                                                                          |
+|  1.0   |       26/11       |                   Adição de metodologia                    |                                                                                                                                         [Gabriela Lemos](https://github.com/heylisten64)                                                                                                                                          |
+|  1.0   |       27/11       |                     Adiciona conclusão                     |                                                                                                                                         [DiceRunner714](https://github.com/DiceRunner714)                                                                                                                                         |
+|  1.0   |       27/11       |              Adiciona legenda e contribuição               |                                                                                                                    [joaoseisei](https://github.com/joaoseisei), [heylisten64](https://github.com/heylisten64)                                                                                                                     |
+|  1.0   |       27/11       |                     Adiciona diagramas                     | [csreis72](https://github.com/csreis72), [DiceRunner714](https://github.com/DiceRunner714), [heylisten64](https://github.com/heylisten64), [joaoseisei](https://github.com/joaoseisei), [sunamit](https://github.com/sunamit), [thmasq](https://github.com/thmasq), [ViniciussdeOliveira](https://github.com/ViniciussdeOliveira) |
 
 </div>
 
