@@ -45,6 +45,28 @@ Este diagrama possui um formato que se assemelha à notação BPMN por possuir n
 - Se desejarem, podem citar os desafios encontrados seguindo a metodologia, propostas de melhoria, etc.
 -->
 
+Para realizar o **Diagrama de Atividades** nos organizamos da seguinte forma: revisamos o documento do **Backward From** e agrupamos requisitos funcionais de forma que juntos formassem uma das partições do diagrama. Nomeamos em um grupo e agrupamos os requisitos e geramos os seguintes conjuntos em que cada um da tarefa ficou responsável por realizar, que pode ser visto na Tabela 1.
+
+<center>
+<b>Tabela 1 -</b> Divisão de Tarefas
+</center>
+<br>
+<div style="margin: 0 auto; width: fit-content;">
+
+|Nome|Requisito Funcional  | Responsável|
+|--|--|--|
+| Minérios          | RF01, RF02, RF03 | Thomas |
+| Portas Lógicas    | RF06, RF19 | João |
+| Antena            | RF07, RF08, RF09, RF12 | Eduardo |
+| Minimapa          | RF10, RF11, RF24  | Gabriela |
+| Livro             | RF14, RF15, RF23 | Cássio |
+| Robôs             | RF16, RF18 | Vinícius |
+| Circuitos Lógicos | RF17 | Sunamita |
+
+</div>
+
+Nos baseamos na bibliografia encontrada **UML2 - Uma Abordagem Prática** Usamos a ferramenta Draw.io e trabalhamos de forma síncrona utilizando o Discord para debater questões da notação. [Aqui](https://ibb.co/Cwh9KQW) podemos ver parte da equipe trabalhando.
+
 ## Resultados
 
 <!--
@@ -127,6 +149,7 @@ A Figura 2 representa o Diagrama de Atividade proposto pela equipe.
 | Versão | Data da alteração |                         Alteração                          |                   Responsável                    | Revisor | Data de revisão |
 | :----: | :---------------: | :--------------------------------------------------------: | :----------------------------------------------: | :-----: | :-------------: |
 |  1.0   |       25/11       | Criação do documento e adição de introdução e bibliografia | [Gabriela Lemos](https://github.com/heylisten64) |
+|  1.0   |       26/11       | Adição de metodologia | [Gabriela Lemos](https://github.com/heylisten64) |
 
 </div>
 
