@@ -35,7 +35,11 @@ Este diagrama possui um formato que se assemelha à notação BPMN por possuir n
 - definir prioridades>
 -->
 
+O **Diagrama de Atividade** foi utilizado com o objetivo de modelar e facilitar a vizualização do funcionamento de componententes do mod, descrevendo comportamentos dinâmicos e a interação entre o jogo, o mod, seus compontentes e o jogador em diferentes cenários.
 
+Essa notação é utilizada para representar fluxos de trabalho ou tarefas, identificar pontos de decisão e atividades que podem ocorrer de forma sequencial, simultânea ou condicional. Além disso, serve para facilitar o entendimento e a comunicação entre a equipe de desenvolvimento, de modo que as funcionalidades envolvidas sejam de fácil compreensão para os membros do grupo. 
+
+Por fim, também contribui para a análise e otimização de processos, ajudando a identificar oportunidades de melhora. Amplamente aplicado na modelagem de casos de uso, automação de processos e design de sistemas, esse diagrama é uma base importante tanto na fase de levantamento de requisitos quanto no design, garantindo que os fluxos sejam bem compreendidos e implementados corretamente.
 
 ## Metodologia
 
