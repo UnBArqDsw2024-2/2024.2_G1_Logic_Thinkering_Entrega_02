@@ -105,15 +105,15 @@ Na tabela 2 a seguir estão dispostos os símbolos utilizados nos Diagramas de A
 <br>
 <div style="margin: 0 auto; width: fit-content;">
 
-| Símbolo                                                                                       | Nome                  | Descrição                                                                                    |
-|-----------------------------------------------------------------------------------------------|-----------------------|----------------------------------------------------------------------------------------------|
-| <img src="/assets/atividades/inicio.png" style="width: 7vw;" alt="Símbolo de início">         | Símbolo de início     | Representa o início de um processo ou atividade.                                             |
-| <img src="/assets/atividades/atividades.png" style="width: 7vw;" alt="Símbolo de atividade">  | Símbolo de atividade  | Indica uma etapa de execução ou uma tarefa no processo.                                      |
-| <img src="/assets/atividades/bifurcacao.png" style="width: 7vw;" alt="Símbolo de bifurcação"> | Símbolo de bifurcação | Representa um ponto de decisão que divide o fluxo em dois ou mais caminhos.                  |
-| <img src="/assets/atividades/juncao.png" style="width: 7vw;" alt="Símbolo de junção">         | Símbolo de junção     | Indica a convergência de múltiplos fluxos em um único caminho.                               |
-| <img src="/assets/atividades/decisao.png" style="width: 7vw;" alt="Símbolo de decisão">       | Símbolo de decisão    | Representa um ponto em que uma escolha é feita, geralmente entre opções "sim" ou "não".      |
-| <img src="/assets/atividades/alfinete.png" style="width: 7vw;" alt="Símbolo de decisão">      | Símbolo de alfinete   | Representa um nó de entrada ou saída de uma ação, responsável por fornecer ou receber dados. |
-| <img src="/assets/atividades/fim.png" style="width: 7vw;" alt="Símbolo de término">           | Símbolo de término    | Indica o fim de um processo ou atividade.                                                    |
+| Símbolo                                                                                                                                                                 | Nome                  | Descrição                                                                                    |
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------|----------------------------------------------------------------------------------------------|
+| <img src="https://raw.githubusercontent.com/UnBArqDsw2024-2/2024.2_G1_Logic_Thinkering_Entrega_02/refs/heads/main/assets/atividades/inicio.png" style="width:7vw"/>     | Símbolo de início     | Representa o início de um processo ou atividade.                                             |
+| <img src="https://raw.githubusercontent.com/UnBArqDsw2024-2/2024.2_G1_Logic_Thinkering_Entrega_02/refs/heads/main/assets/atividades/atividades.png" style="width:7vw"/> | Símbolo de atividade  | Indica uma etapa de execução ou uma tarefa no processo.                                      |
+| <img src="https://raw.githubusercontent.com/UnBArqDsw2024-2/2024.2_G1_Logic_Thinkering_Entrega_02/refs/heads/main/assets/atividades/bifurcacao.png" style="width:7vw"/> | Símbolo de bifurcação | Representa um ponto de decisão que divide o fluxo em dois ou mais caminhos.                  |
+| <img src="https://raw.githubusercontent.com/UnBArqDsw2024-2/2024.2_G1_Logic_Thinkering_Entrega_02/refs/heads/main/assets/atividades/juncao.png" style="width:7vw"/>     | Símbolo de junção     | Indica a convergência de múltiplos fluxos em um único caminho.                               |
+| <img src="https://raw.githubusercontent.com/UnBArqDsw2024-2/2024.2_G1_Logic_Thinkering_Entrega_02/refs/heads/main/assets/atividades/desicao.png" style="width:7vw"/>    | Símbolo de decisão    | Representa um ponto em que uma escolha é feita, geralmente entre opções "sim" ou "não".      |
+| <img src="https://raw.githubusercontent.com/UnBArqDsw2024-2/2024.2_G1_Logic_Thinkering_Entrega_02/refs/heads/main/assets/atividades/alfinete.png" style="width:7vw"/>   | Símbolo de alfinete   | Representa um nó de entrada ou saída de uma ação, responsável por fornecer ou receber dados. |
+| <img src="https://raw.githubusercontent.com/UnBArqDsw2024-2/2024.2_G1_Logic_Thinkering_Entrega_02/refs/heads/main/assets/atividades/fim.png" style="width:7vw"/>        | Símbolo de término    | Indica o fim de um processo ou atividade.                                                    |
 
 </div>
 
@@ -133,7 +133,7 @@ A Figura 1 representa o Diagrama de Atividade de livro.
 
 <center>
 
-<img src="/assets/diagramaAtividades/cassio.jpeg"> 
+![](../../assets/diagramaAtividades/cassio.jpeg)
 </center>
 
 <center><b>Fonte: Reis, 2024</b> </center>
@@ -145,7 +145,7 @@ A Figura 2 representa o Diagrama de Atividade de antena.
 
 <center>
 
-<img src="/assets/diagramaAtividades/dado.jpeg"> 
+![](../../assets/diagramaAtividades/dado.jpeg)
 </center>
 
 <center><b>Fonte: Sandes, 2024</b> </center>
@@ -157,7 +157,7 @@ A Figura 3 representa o Diagrama de Atividade de minimapa.
 
 <center>
 
-<img src="/assets/diagramaAtividades/gabi.jpeg"> 
+![](../../assets/diagramaAtividades/gabi.jpeg)
 </center>
 
 <center><b>Fonte: Lemos, 2024</b> </center>
@@ -169,7 +169,7 @@ A Figura 4 representa o Diagrama de Atividade da Porta Lógica.
 
 <center>
 
-<img src="/assets/diagramaAtividades/joao.jpeg"> 
+![](../../assets/diagramaAtividades/joao.jpeg)
 </center>
 
 <center><b>Fonte: Carvalho, 2024</b> </center>
@@ -181,7 +181,7 @@ A Figura 5 representa o Diagrama de Atividade de CI.
 
 <center>
 
-<img src="/assets/diagramaAtividades/sunamita.jpeg" alt="Símbolo de término"> 
+![](../../assets/diagramaAtividades/sunamita.jpeg)
 </center>
 
 <center><b>Fonte: Santos, 2024</b> </center>
@@ -194,7 +194,7 @@ A Figura 6 representa o Diagrama de Atividade de espada com carga.
 
 <center>
 
-<img src="/assets/diagramaAtividades/thomas1.jpeg" alt="Símbolo de término"> 
+![](../../assets/diagramaAtividades/thomas1.jpeg)
 </center>
 
 <center><b>Fonte: Alves, 2024</b> </center>
@@ -206,7 +206,7 @@ A Figura 7 representa o Diagrama de Atividade de escudo com carga.
 
 <center>
 
-<img src="/assets/diagramaAtividades/thomas2.jpeg" alt="Símbolo de término"> 
+![](../../assets/diagramaAtividades/thomas2.jpeg)
 </center>
 
 <center><b>Fonte: Alves, 2024</b> </center>
@@ -218,7 +218,7 @@ A Figura 8 representa o Diagrama de Atividade de bloco de mineração.
 
 <center>
 
-<img src="/assets/diagramaAtividades/vine.jpeg" alt="Símbolo de término"> 
+![](../../assets/diagramaAtividades/vine.jpeg)
 </center>
 
 
