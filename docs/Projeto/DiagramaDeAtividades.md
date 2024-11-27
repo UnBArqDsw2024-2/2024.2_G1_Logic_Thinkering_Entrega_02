@@ -88,7 +88,9 @@ Para realizar o **Diagrama de Atividades** nos organizamos da seguinte forma: re
 <div align="justify">
 
 &emsp;&emsp;
-Nos baseamos na bibliografia encontrada **UML2 - Uma Abordagem Prática** Usamos a ferramenta Draw.io e trabalhamos de forma síncrona utilizando o Discord para debater questões da notação. [Aqui](https://ibb.co/Cwh9KQW) podemos ver parte da equipe trabalhando.
+Nos baseamos na bibliografia encontrada **UML2 - Uma Abordagem Prática** Usamos a ferramenta Draw.io e trabalhamos de forma síncrona utilizando o Discord para debater questões da notação e decisões de projeto. [Aqui](https://ibb.co/Cwh9KQW) podemos ver parte da equipe trabalhando no [documento geral](https://viewer.diagrams.net/?tags=%7B%7D&lightbox=1&highlight=0000ff&layers=1&nav=1&title=DiagramaAtividades.drawio#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1RdgCcKi4X1J8R0oyN5DspG5pXIzoNTzr%26export%3Ddownload).
+
+Alguns requisitos foram descartados no Diagrama de Atividades por não se adequarem ao formato da modelagem, na concepção da equipe - por exemplo, RF13, RF20, RF21 E RF22. Outros foram retirados do escopo devido a sua complexidade de implementação - no caso dos RF04 e RF05. 
 </div>
 
 ## Legenda de Símbolos
@@ -96,7 +98,7 @@ Nos baseamos na bibliografia encontrada **UML2 - Uma Abordagem Prática** Usamos
 <div align="justify">
 
 &emsp;&emsp;
-Na tabela 2 a seguir estão dispostos os símbolos utilizados nos Diagramas de Atividades desenvolvidos
+Na Tabela 2 a seguir estão dispostos os símbolos utilizados nos Diagramas de Atividades desenvolvidos
 </div>
 
 <center>
@@ -111,7 +113,7 @@ Na tabela 2 a seguir estão dispostos os símbolos utilizados nos Diagramas de A
 | <img src="https://raw.githubusercontent.com/UnBArqDsw2024-2/2024.2_G1_Logic_Thinkering_Entrega_02/refs/heads/main/assets/atividades/atividades.png" style="width:7vw"/> | Símbolo de atividade  | Indica uma etapa de execução ou uma tarefa no processo.                                      |
 | <img src="https://raw.githubusercontent.com/UnBArqDsw2024-2/2024.2_G1_Logic_Thinkering_Entrega_02/refs/heads/main/assets/atividades/bifurcacao.png" style="width:7vw"/> | Símbolo de bifurcação | Representa um ponto de decisão que divide o fluxo em dois ou mais caminhos.                  |
 | <img src="https://raw.githubusercontent.com/UnBArqDsw2024-2/2024.2_G1_Logic_Thinkering_Entrega_02/refs/heads/main/assets/atividades/juncao.png" style="width:7vw"/>     | Símbolo de junção     | Indica a convergência de múltiplos fluxos em um único caminho.                               |
-| <img src="https://raw.githubusercontent.com/UnBArqDsw2024-2/2024.2_G1_Logic_Thinkering_Entrega_02/refs/heads/main/assets/atividades/desicao.png" style="width:7vw"/>    | Símbolo de decisão    | Representa um ponto em que uma escolha é feita, geralmente entre opções "sim" ou "não".      |
+| <img src="https://raw.githubusercontent.com/UnBArqDsw2024-2/2024.2_G1_Logic_Thinkering_Entrega_02/refs/heads/main/assets/atividades/decisao.png" style="width:7vw"/>    | Símbolo de decisão    | Representa um ponto em que uma escolha é feita, geralmente entre opções "sim" ou "não".      |
 | <img src="https://raw.githubusercontent.com/UnBArqDsw2024-2/2024.2_G1_Logic_Thinkering_Entrega_02/refs/heads/main/assets/atividades/alfinete.png" style="width:7vw"/>   | Símbolo de alfinete   | Representa um nó de entrada ou saída de uma ação, responsável por fornecer ou receber dados. |
 | <img src="https://raw.githubusercontent.com/UnBArqDsw2024-2/2024.2_G1_Logic_Thinkering_Entrega_02/refs/heads/main/assets/atividades/fim.png" style="width:7vw"/>        | Símbolo de término    | Indica o fim de um processo ou atividade.                                                    |
 
@@ -133,7 +135,7 @@ A Figura 1 representa o Diagrama de Atividade de livro.
 
 <center>
 
-![](../../assets/diagramaAtividades/cassio.jpeg)
+![Livro](../../assets/diagramaAtividades/cassio.jpeg)
 </center>
 
 <center><b>Fonte: Reis, 2024</b> </center>
@@ -157,7 +159,7 @@ A Figura 3 representa o Diagrama de Atividade de minimapa.
 
 <center>
 
-![](../../assets/diagramaAtividades/gabi.jpeg)
+![Minimapa](../../assets/diagramaAtividades/gabi.jpeg)
 </center>
 
 <center><b>Fonte: Lemos, 2024</b> </center>
@@ -169,7 +171,7 @@ A Figura 4 representa o Diagrama de Atividade da Porta Lógica.
 
 <center>
 
-![](../../assets/diagramaAtividades/joao.jpeg)
+![PortaLogica](../../assets/diagramaAtividades/joao.jpeg)
 </center>
 
 <center><b>Fonte: Carvalho, 2024</b> </center>
@@ -181,7 +183,7 @@ A Figura 5 representa o Diagrama de Atividade de CI.
 
 <center>
 
-![](../../assets/diagramaAtividades/sunamita.jpeg)
+![AtividadeCI](../../assets/diagramaAtividades/sunamita.jpeg)
 </center>
 
 <center><b>Fonte: Santos, 2024</b> </center>
@@ -194,7 +196,7 @@ A Figura 6 representa o Diagrama de Atividade de espada com carga.
 
 <center>
 
-![](../../assets/diagramaAtividades/thomas1.jpeg)
+![EspadaCarga](../../assets/diagramaAtividades/thomas1.jpeg)
 </center>
 
 <center><b>Fonte: Alves, 2024</b> </center>
@@ -206,7 +208,7 @@ A Figura 7 representa o Diagrama de Atividade de escudo com carga.
 
 <center>
 
-![](../../assets/diagramaAtividades/thomas2.jpeg)
+![EscudoCarga](../../assets/diagramaAtividades/thomas2.jpeg)
 </center>
 
 <center><b>Fonte: Alves, 2024</b> </center>
@@ -218,7 +220,7 @@ A Figura 8 representa o Diagrama de Atividade de bloco de mineração.
 
 <center>
 
-![](../../assets/diagramaAtividades/vine.jpeg)
+![Bloco](../../assets/diagramaAtividades/vine.jpeg)
 </center>
 
 
@@ -260,7 +262,7 @@ A Figura 8 representa o Diagrama de Atividade de bloco de mineração.
 <div align="justify">
 
 &emsp;&emsp;
-Os diagramas de atividades desenvolvido apresentou uma visão clara e estruturada dos processos relacionados as funcionalidades a serem implementadas, destacando os principais passos, decisões e interações envolvidas. Por meio dele, foi possível identificar problemas e dificuldades relativos a futura implementação de alguns requisitos permitindo a equipe abordar e resolver esses conflitos sem gastar muito tempo com retrabalho, comprovando portanto sua utilidade para a análise e comunicação entre os envolvidos no projeto. Um exemplo disso foi a decisão de simplificar a implementação dos fios de cobre, uma vez que o planejamento da equipe ia além do requisito correspondente, o que dificultaria muito a implementação. Os objetivos propostos foram plenamente alcançados, pois o diagrama facilitou o entendimento das atividades e promoveu alinhamento entre os membros em diversos aspectos, como por exemplo em como a transmissão de sinais sem fio estava contida nos requisitos ligados às antenas de redstone.
+Os diagramas de atividades desenvolvidos apresentaram uma visão clara e estruturada dos processos relacionados as funcionalidades a serem implementadas, destacando os principais passos, decisões e interações envolvidas. Por meio dele, foi possível identificar problemas e dificuldades relativos a futura implementação de alguns requisitos permitindo a equipe abordar e resolver esses conflitos sem gastar muito tempo com retrabalho, comprovando portanto sua utilidade para a análise e comunicação entre os envolvidos no projeto. Um exemplo disso foi a decisão de simplificar a implementação dos fios de cobre, uma vez que o planejamento da equipe ia além do requisito correspondente, o que dificultaria muito a implementação. Os objetivos propostos foram plenamente alcançados, pois o diagrama facilitou o entendimento das atividades e promoveu alinhamento entre os membros em diversos aspectos, como por exemplo em como a transmissão de sinais sem fio estava contida nos requisitos ligados às antenas de redstone.
 </div>
 
 
@@ -317,9 +319,10 @@ Ademais, os diagramas de atividades construídos consolidaram a visão coletiva 
 |:------:|:-----------------:|:----------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:-------:|:---------------:|
 |  1.0   |       25/11       | Criação do documento e adição de introdução e bibliografia |                                                                                                                                         [Gabriela Lemos](https://github.com/heylisten64)                                                                                                                                          |
 |  1.0   |       26/11       |                   Adição de metodologia                    |                                                                                                                                         [Gabriela Lemos](https://github.com/heylisten64)                                                                                                                                          |
-|  1.0   |       27/11       |                     Adiciona conclusão                     |                                                                                                                                         [DiceRunner714](https://github.com/DiceRunner714)                                                                                                                                         |
-|  1.0   |       27/11       |              Adiciona legenda e contribuição               |                                                                                                                    [joaoseisei](https://github.com/joaoseisei), [heylisten64](https://github.com/heylisten64)                                                                                                                     |
-|  1.0   |       27/11       |                     Adiciona diagramas                     | [csreis72](https://github.com/csreis72), [DiceRunner714](https://github.com/DiceRunner714), [heylisten64](https://github.com/heylisten64), [joaoseisei](https://github.com/joaoseisei), [sunamit](https://github.com/sunamit), [thmasq](https://github.com/thmasq), [ViniciussdeOliveira](https://github.com/ViniciussdeOliveira) |
+|  1.0   |       27/11       |                     Adiciona conclusão                     |                                                                                                                                         [Eduardo Sandes](https://github.com/DiceRunner714)                                                                                                                                         |
+|  1.0   |       27/11       |              Adiciona legenda e contribuição               |                                                                                                                    [João Carvalho](https://github.com/joaoseisei), [Gabriela Lemos](https://github.com/heylisten64)                                                                                                                     |
+|  1.0   |       27/11       |                     Adiciona diagramas                     | [Cássio Reis](https://github.com/csreis72), [Eduardo Sandes](https://github.com/DiceRunner714), [Gabriela Lemos](https://github.com/heylisten64), [João Carvalho](https://github.com/joaoseisei), [Sunamita Santos](https://github.com/sunamit), [Thomas Alves](https://github.com/thmasq), [Vinicius Santos](https://github.com/ViniciussdeOliveira) |
+|  1.0   |       27/11       |                     Realiza pequenos ajustes                    | [Gabriela Lemos](https://github.com/heylisten64) |
 
 </div>
 
