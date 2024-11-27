@@ -9,9 +9,17 @@
 - Mencione brevemente os principais aspectos que serão abordados no documento.
 -->
 
-O **Diagrama de Atividade** é responsável por representar visualmente o fluxo de atividades que envolve sequência de ações, decisões e interações em um determinado contexto. Essa estrutura de modelagem delineia os passos necessários a serem seguidos para a conclusão de uma atividade específica, com foco nos procedimentos, processos de negócio e fluxo de trabalho. Isso possibilita a melhor compreensão dos processos para a equipe de desenvolvimento bem como para as partes interessadas, o que viabiliza uma melhor comunicação sobre como atividades e comportamentos são organizados e executados (GUEDES, 2009; SERRANO, 2020).
+<div align="justify">
 
+&emsp;&emsp;
+O **Diagrama de Atividade** é responsável por representar visualmente o fluxo de atividades que envolve sequência de ações, decisões e interações em um determinado contexto. Essa estrutura de modelagem delineia os passos necessários a serem seguidos para a conclusão de uma atividade específica, com foco nos procedimentos, processos de negócio e fluxo de trabalho. Isso possibilita a melhor compreensão dos processos para a equipe de desenvolvimento bem como para as partes interessadas, o que viabiliza uma melhor comunicação sobre como atividades e comportamentos são organizados e executados (GUEDES, 2009; SERRANO, 2020).
+</div>
+
+<div align="justify">
+
+&emsp;&emsp;
 Este diagrama possui um formato que se assemelha à notação BPMN por possuir nós de ação, fluxo de controle, nós inicial e final e nós de decisão. Além disso, a notação conta com uma série de outros recursos como: **(1)** nós de bifurcação/união; **(2)** nós de objeto; **(3)** nós de parâmetro; **(4)** nós de buffer central; **(5)** nós de repositório de dados; **(6)** nós de atividade estruturada; **(7)** alfinetes; **(8)** exceções; **(9)** ações de envio de sinal; **(10)** ações de de evento de aceitação; **(11)** ações de evento de tempo de aceitação; **(12)** ações de chamada de comportamento; **(13)** ações de chamada de operação; **(14)** partições de atividade; **(15)** regiões de atividade interrompível; **(16)** regiões de expansão; **(17)** nós condicionais; **(18)** nós de laço; **(19)** conectores; **(20)** final de fluxo e **(21)** fluxo de objetos. Dessa forma, a ideia é do desenvolvimento de um diagrama simples a primeiro momento mas que posteriormente possa sofrer adições de demais recursos desta modelagem (GUEDES, 2009; SERRANO, 2020).
+</div>
 
 ## Objetivo
 
@@ -26,6 +34,8 @@ Este diagrama possui um formato que se assemelha à notação BPMN por possuir n
 - identificar gargalos
 - definir prioridades>
 -->
+
+
 
 ## Metodologia
 
@@ -82,9 +92,9 @@ A Figura 2 representa o Diagrama de Atividade proposto pela equipe.
 
 <!-- - **Altere!**-->
 
-[1] SERRANO, Milene. Videoaula: [06c - VídeoAula - DSW - Modelagem - Diagrama de Atividades](https://unbbr-my.sharepoint.com/:v:/g/personal/mileneserrano_unb_br/Ed9k-OvMH7hMlNMj6CGVenMBSyeVrDBOdg84Czx_aHI9gw?e=ZzFF4A). [Online]. Disponível em: [https://unbbr-my.sharepoint.com/:v:/g/personal/mileneserrano_unb_br/Ed9k-OvMH7hMlNMj6CGVenMBSyeVrDBOdg84Czx_aHI9gw?e=ZzFF4A](https://unbbr-my.sharepoint.com/:v:/g/personal/mileneserrano_unb_br/EcEx3UfhmvlAliVpLUlXelQBfaD1EFsNIpL32EMWqRptYg?e=qeIjLP). 2020. Acesso em: 25 nov. 2024.
+> [1] SERRANO, Milene. Videoaula: [06c - VídeoAula - DSW - Modelagem - Diagrama de Atividades](https://unbbr-my.sharepoint.com/:v:/g/personal/mileneserrano_unb_br/Ed9k-OvMH7hMlNMj6CGVenMBSyeVrDBOdg84Czx_aHI9gw?e=ZzFF4A). [Online]. Disponível em: [https://unbbr-my.sharepoint.com/:v:/g/personal/mileneserrano_unb_br/Ed9k-OvMH7hMlNMj6CGVenMBSyeVrDBOdg84Czx_aHI9gw?e=ZzFF4A](https://unbbr-my.sharepoint.com/:v:/g/personal/mileneserrano_unb_br/EcEx3UfhmvlAliVpLUlXelQBfaD1EFsNIpL32EMWqRptYg?e=qeIjLP). 2020. Acesso em: 25 nov. 2024.
 
-[2] GUEDES, Gilleanes TA. UML 2. **Uma Abordagem Prática”, São Paulo, Novatec**. 2009.
+> [2] GUEDES, Gilleanes TA. UML 2. **Uma Abordagem Prática”, São Paulo, Novatec**. 2009.
 
 <center>
 
