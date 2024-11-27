@@ -135,7 +135,7 @@ A Figura 1 representa o Diagrama de Atividade de livro.
 
 <center>
 
-![Livro](../../assets/diagramaAtividades/cassio.jpeg)
+![Livro](https://raw.githubusercontent.com/UnBArqDsw2024-2/2024.2_G1_Logic_Thinkering_Entrega_02/refs/heads/main/assets/diagramaAtividades/cassio.jpeg)
 </center>
 
 <center><b>Fonte: Reis, 2024</b> </center>
@@ -147,7 +147,7 @@ A Figura 2 representa o Diagrama de Atividade de antena.
 
 <center>
 
-![](../../assets/diagramaAtividades/dado.jpeg)
+![](https://raw.githubusercontent.com/UnBArqDsw2024-2/2024.2_G1_Logic_Thinkering_Entrega_02/refs/heads/main/assets/diagramaAtividades/dado.jpeg)
 </center>
 
 <center><b>Fonte: Sandes, 2024</b> </center>
@@ -159,7 +159,7 @@ A Figura 3 representa o Diagrama de Atividade de minimapa.
 
 <center>
 
-![Minimapa](../../assets/diagramaAtividades/gabi.jpeg)
+![Minimapa](https://raw.githubusercontent.com/UnBArqDsw2024-2/2024.2_G1_Logic_Thinkering_Entrega_02/refs/heads/main/assets/diagramaAtividades/gabi.jpeg)
 </center>
 
 <center><b>Fonte: Lemos, 2024</b> </center>
@@ -171,7 +171,7 @@ A Figura 4 representa o Diagrama de Atividade da Porta Lógica.
 
 <center>
 
-![PortaLogica](../../assets/diagramaAtividades/joao.jpeg)
+![PortaLogica](https://raw.githubusercontent.com/UnBArqDsw2024-2/2024.2_G1_Logic_Thinkering_Entrega_02/refs/heads/main/assets/diagramaAtividades/joao.jpeg)
 </center>
 
 <center><b>Fonte: Carvalho, 2024</b> </center>
@@ -196,7 +196,7 @@ A Figura 6 representa o Diagrama de Atividade de espada com carga.
 
 <center>
 
-![EspadaCarga](../../assets/diagramaAtividades/thomas1.jpeg)
+![EspadaCarga](https://raw.githubusercontent.com/UnBArqDsw2024-2/2024.2_G1_Logic_Thinkering_Entrega_02/refs/heads/main/assets/diagramaAtividades/thomas1.jpeg)
 </center>
 
 <center><b>Fonte: Alves, 2024</b> </center>
@@ -208,7 +208,7 @@ A Figura 7 representa o Diagrama de Atividade de escudo com carga.
 
 <center>
 
-![EscudoCarga](../../assets/diagramaAtividades/thomas2.jpeg)
+![EscudoCarga](https://raw.githubusercontent.com/UnBArqDsw2024-2/2024.2_G1_Logic_Thinkering_Entrega_02/refs/heads/main/assets/diagramaAtividades/thomas2.jpeg)
 </center>
 
 <center><b>Fonte: Alves, 2024</b> </center>
@@ -220,7 +220,7 @@ A Figura 8 representa o Diagrama de Atividade de bloco de mineração.
 
 <center>
 
-![Bloco](../../assets/diagramaAtividades/vine.jpeg)
+![Bloco](https://raw.githubusercontent.com/UnBArqDsw2024-2/2024.2_G1_Logic_Thinkering_Entrega_02/refs/heads/main/assets/diagramaAtividades/vine.jpeg)
 </center>
 
 
@@ -322,7 +322,7 @@ Ademais, os diagramas de atividades construídos consolidaram a visão coletiva 
 |  1.0   |       27/11       |                     Adiciona conclusão                     |                                                                                                                                         [Eduardo Sandes](https://github.com/DiceRunner714)                                                                                                                                         |
 |  1.0   |       27/11       |              Adiciona legenda e contribuição               |                                                                                                                    [João Carvalho](https://github.com/joaoseisei), [Gabriela Lemos](https://github.com/heylisten64)                                                                                                                     |
 |  1.0   |       27/11       |                     Adiciona diagramas                     | [Cássio Reis](https://github.com/csreis72), [Eduardo Sandes](https://github.com/DiceRunner714), [Gabriela Lemos](https://github.com/heylisten64), [João Carvalho](https://github.com/joaoseisei), [Sunamita Santos](https://github.com/sunamit), [Thomas Alves](https://github.com/thmasq), [Vinicius Santos](https://github.com/ViniciussdeOliveira) |
-|  1.0   |       27/11       |                     Realiza pequenos ajustes                    | [Gabriela Lemos](https://github.com/heylisten64) |
+|  1.0   |       27/11       |                     Realiza pequenos ajustes                    | [Gabriela Lemos](https://github.com/heylisten64), [Eduardo Sandes](https://github.com/DiceRunner714)  |
 
 </div>
 
