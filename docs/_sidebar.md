@@ -1,12 +1,14 @@
 <!-- docs/_sidebar.md -->
 
-- [Home](/docs)
-- [Projetos](/docs/Projetos/Projetos.md)
+- [Home](README.md)
+- [Projetos](Projeto/Projeto.md)
 
 - **Modelagem**
   - [2. Desenho de Software (Modelagem)](Modelagem/2.Modelagem.md)
   - [2.1. Modelagem UML Estática](Modelagem/2.1.ModelagemEstatica.md)
-    - [2.1.3 Diagrama de Implantação](Projeto/DiagramaDeImplantacao.md)  
+    - [2.1.1 Diagrama de Classes](Projeto/DiagramaDeClasses.md)
+    - [2.1.2 Diagrama de Componentes](Projeto/DiagramaComponente.md)
+    - [2.1.3 Diagrama de Implantação](Projeto/DiagramaDeImplantacao.md)
   - [2.2. Modelagem UML Dinâmica](Modelagem/2.2.ModelagemDinamica.md)
     - [2.2.1 Diagrama de Atividades](Projeto/DiagramaDeAtividades.md)
     - [2.2.2 Diagrama de Comunicação/Colaboração](Projeto/DiagramadeComunicacao.md)
