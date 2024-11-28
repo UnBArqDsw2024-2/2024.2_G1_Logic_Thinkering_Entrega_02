@@ -10,8 +10,7 @@
 
 <div align="justify">
 &emsp;&emsp;
-
-O *Diagrama de Comunicação*, também conhecido como Diagrama de Colaboração, faz parte do grupo de diagramas dinâmicos da notação UML. É um diagrama dinâmico que mostra a interação entre objetos e/ou partes, usando mensagens sequenciais. Dá ênfase à ordem das mensagens, normalmente com foco em um cenário de uso. (SERRANO, 2020)
+O <b>Diagrama de Comunicação</b>, também conhecido como Diagrama de Colaboração, faz parte do grupo de diagramas dinâmicos da notação UML. É um diagrama dinâmico que mostra a interação entre objetos e/ou partes, usando mensagens sequenciais. Dá ênfase à ordem das mensagens, normalmente com foco em um cenário de uso. (SERRANO, 2020)
  
 </div>
 
@@ -23,9 +22,8 @@ O *Diagrama de Comunicação*, também conhecido como Diagrama de Colaboração,
 -->
 
 <div align="justify">
-
 &emsp;&emsp;
-O *diagrama de comunicação* em UML tem como objetivo representar a *interação entre objetos ou componentes de um sistema* durante a execução de um processo específico. Ele destaca como as mensagens são trocadas entre os elementos participantes, permitindo *visualizar as conexões diretas e compreender a lógica das interações*. Esse recurso é essencial para identificar a estrutura de comunicação necessária para atender aos requisitos do sistema e garantir que os fluxos de trabalho estejam bem definidos.
+O diagrama de comunicação em UML tem como objetivo representar a interação entre objetos ou componentes de um sistema durante a execução de um processo específico. Ele destaca como as mensagens são trocadas entre os elementos participantes, permitindo visualizar as conexões diretas e compreender a lógica das interações. Esse recurso é essencial para identificar a estrutura de comunicação necessária para atender aos requisitos do sistema e garantir que os fluxos de trabalho estejam bem definidos.
 </div>
 
 ## Metodologia
@@ -37,7 +35,7 @@ O *diagrama de comunicação* em UML tem como objetivo representar a *interaçã
 
 <div align="justify">
 &emsp;&emsp;
-Para a confecção do diagrama foi realizada reuniões no [Teams](https://teams.microsoft.com/), gravações disponíveis ao final, utilizando a ferramenta [Draw.io](https://app.diagrams.net), pois fornece meios de realizar a modelagem UML, por ser gratuita e permitir a interação de várias pessoas ao mesmo tempo.
+Para a confecção do diagrama foi realizada reuniões no <a href="https://teams.microsoft.com/">Teams</a>, gravações disponíveis ao final, utilizando a ferramenta <a href="https://app.diagrams.net">Draw.io</a>, pois fornece meios de realizar a modelagem UML, por ser gratuita e permitir a interação de várias pessoas ao mesmo tempo.
 Foi feita uma divisão em 6 fluxos totais, sendo eles:
 
 - Fluxo itens reforçados
@@ -127,8 +125,10 @@ A Figura 3 apresenta a versão 1.0 do diagrama de comunicação.
 -   *Apresente perspectivas para melhorias ou trabalhos futuros.*
 -->
 
-O uso do *diagrama de comunicação* é fundamental para mapear e visualizar as interações entre os diferentes objetos ou componentes dentro de um sistema. Ele proporciona uma visão clara da ordem e de como as mensagens são trocadas e como os processos se comunicam ao longo da execução do sistema. Esse diagrama auxilia na identificação de possíveis problemas de comunicação ou redundâncias e permite melhorar a eficiência e a coesão do sistema. Ele também é útil para documentação e comunicação entre as equipes de desenvolvimento, promovendo um entendimento comum das funcionalidades e da arquitetura do sistema.
-
+<div align="justify">
+&emsp;&emsp;
+O uso do diagrama de comunicação é fundamental para mapear e visualizar as interações entre os diferentes objetos ou componentes dentro de um sistema. Ele proporciona uma visão clara da ordem e de como as mensagens são trocadas e como os processos se comunicam ao longo da execução do sistema. Esse diagrama auxilia na identificação de possíveis problemas de comunicação ou redundâncias e permite melhorar a eficiência e a coesão do sistema. Ele também é útil para documentação e comunicação entre as equipes de desenvolvimento, promovendo um entendimento comum das funcionalidades e da arquitetura do sistema.
+</div>
 
 ## Bibliografia 
 
