@@ -48,7 +48,7 @@ Na versão 1.1, foram feitos ajustes no diagrama inicial para que fosse respeita
 
 <center><b>Figura 1 -</b> Diagrama de Componentes versão 1.1</center>
 
-![Versao 1.1](https://raw.githubusercontent.com/UnBArqDsw2024-2/2024.2_G1_Logic_Thinkering_Entrega_02/refs/heads/feat-diagramadecomponente/assets/componentes2.png)
+![Versao 1.1](https://raw.githubusercontent.com/UnBArqDsw2024-2/2024.2_G1_Logic_Thinkering_Entrega_02/refs/heads/main/assets/componentes2.png)
 
 <center><b>Fonte:</b> Rodrigues,Reis,Melo,Silva,Santos,Santos, 2024.</center>
 </div>
