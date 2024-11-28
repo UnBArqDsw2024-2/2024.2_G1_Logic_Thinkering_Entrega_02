@@ -67,7 +67,7 @@ A Figura 1 apresenta a versão 1.2 do diagrama de comunicação, que está repre
 
 <center><b>Figura 1 -</b> Diagrama comunicação versão 1.2</center>
 
-![Versao 1.0](../../assets/DiagramaComunicacao/comunicacaoV3.png)
+![Versao 1.0](https://raw.githubusercontent.com/UnBArqDsw2024-2/2024.2_G1_Logic_Thinkering_Entrega_02/refs/heads/main/assets/DiagramaComunicacao/comunicacaoV3.png)
 
 <center><b>Fonte:</b> Rodrigues, Reis, Melo, Silva, Santos, Santos, 2024.</center>
 
@@ -85,7 +85,7 @@ A Figura 2 apresenta a versão 1.1 do diagrama de comunicação.
 
 <center><b>Figura 2 -</b> Diagrama comunicação versão 1.1</center>
 
-![Versao 1.1](../../assets/DiagramaComunicacao/DiagramaComunicacaoV2.png)
+![Versao 1.1](https://raw.githubusercontent.com/UnBArqDsw2024-2/2024.2_G1_Logic_Thinkering_Entrega_02/refs/heads/main/assets/DiagramaComunicacao/DiagramaComunicacaoV2.png)
 
 <center><b>Fonte:</b> Rodrigues, Melo, Silva 2024.</center>
 
@@ -102,7 +102,7 @@ A Figura 3 apresenta a versão 1.0 do diagrama de comunicação.
 
 <center><b>Figura 3 -</b> Diagrama comunicação versão 1.0</center>
 
-![Versao 1.0](../../assets/DiagramaComunicacao/DiagramaComunicacaoV1.png)
+![Versao 1.0](https://raw.githubusercontent.com/UnBArqDsw2024-2/2024.2_G1_Logic_Thinkering_Entrega_02/refs/heads/main/assets/DiagramaComunicacao/DiagramaComunicacaoV1.png)
 
 <center><b>Fonte:</b> Rodrigues, Reis, Melo, Silva, Santos, Santos, 2024.</center>
 
