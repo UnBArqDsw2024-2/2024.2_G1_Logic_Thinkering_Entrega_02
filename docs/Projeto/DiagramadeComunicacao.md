@@ -59,12 +59,20 @@ Nos baseamos na bibliografia encontrada UML2 - Uma Abordagem Prática
 - Destaque os pontos principais ou insights obtidos durante o processo.
 - *APRESENTE AS VERSÕES DO DIAGRAMA!! Podem usar o formato abaixo para poluir menos a página*
 -->
+### Versão final
 
 <div align="justify">
 
 &emsp;&emsp;
 
-Versão final
+A Figura 1 apresenta a versão 1.2 do diagrama de comunicação, que está representando as interações possíveis em cada componente de acordo com o diagrama de classes.
+
+<center><b>Figura 1 -</b> Diagrama comunicação versão 1.2</center>
+
+![Versao 1.0](../../assets/DiagramaComunicacao/comunicacaoV3.png)
+
+<center><b>Fonte:</b> Rodrigues,Reis,Melo,Silva,Santos,Santos, 2024.</center>
+
 </div>
 
 ### Versões Anteriores
@@ -75,11 +83,11 @@ Versão final
 ### Versão 1.1
 
 <!-- Aqui documente as mudanças de uma versão para a outra -->
-A Figura 1 apresenta a versão 1.1 do diagrama de comunicação.
+A Figura 2 apresenta a versão 1.1 do diagrama de comunicação.
 
-<center><b>Figura 1 -</b> Diagrama comunicação versão 1.1</center>
+<center><b>Figura 2 -</b> Diagrama comunicação versão 1.1</center>
 
-![Versao 1.1](//assets/DiagramaComunicacao/DiagramaComunicacao1.1.png)
+![Versao 1.1](../../assets/DiagramaComunicacao/DiagramaComunicacaoV2.png)
 
 <center><b>Fonte:</b> Rodrigues,,Melo,Silva 2024.</center>
 
@@ -92,11 +100,11 @@ A Figura 1 apresenta a versão 1.1 do diagrama de comunicação.
 ### Versão 1.0
 
 <!-- Aqui documente as mudanças de uma versão para a outra -->
-A Figura 1 apresenta a versão 1.0 do diagrama de comunicação.
+A Figura 3 apresenta a versão 1.0 do diagrama de comunicação.
 
-<center><b>Figura 1 -</b> Diagrama comunicação versão 1.0</center>
+<center><b>Figura 3 -</b> Diagrama comunicação versão 1.0</center>
 
-![Versao 1.0](//assets/DiagramaComunicacao/DiagramaComunicacao1.0.png)
+![Versao 1.0](../../assets/DiagramaComunicacao/DiagramaComunicacaoV1.png)
 
 <center><b>Fonte:</b> Rodrigues,Reis,Melo,Silva,Santos,Santos, 2024.</center>
 
@@ -118,6 +126,10 @@ A Figura 1 apresenta a versão 1.0 do diagrama de comunicação.
 -   *Avalie se os objetivos foram alcançados e o impacto do trabalho.*
 -   *Apresente perspectivas para melhorias ou trabalhos futuros.*
 -->
+
+O uso do *diagrama de comunicação* é fundamental para mapear e visualizar as interações entre os diferentes objetos ou componentes dentro de um sistema. Ele proporciona uma visão clara da ordem e de como as mensagens são trocadas e como os processos se comunicam ao longo da execução do sistema. Esse diagrama auxilia na identificação de possíveis problemas de comunicação ou redundâncias e permite melhorar a eficiência e a coesão do sistema. Ele também é útil para documentação e comunicação entre as equipes de desenvolvimento, promovendo um entendimento comum das funcionalidades e da arquitetura do sistema.
+
+
 ## Bibliografia 
 
 <!-- - *Altere!*-->
@@ -164,6 +176,7 @@ A Figura 1 apresenta a versão 1.0 do diagrama de comunicação.
 | :----: | :---------------: | :-----------------------------: | :-------------------------------------------: | :------------------------------------------------: | :-------------: |
 |  1.0   |       26/11       |      Criação do documento       | [ViniciussdeOliveira](https://github.com/ViniciussdeOliveira)  |
 |  1.1   |       27/11       |      Complemento da introdução,objetivo e metodologia, adição das versões e adição dos videos       | [patyhelenaa](https://github.com/patyhelenaa)  |       
+|  1.2   |       28/11       |      Adição da versão final e conclusão       | [ViniciussdeOliveira](https://github.com/ViniciussdeOliveira)  |
 
 </div>
 
