@@ -50,7 +50,7 @@ Essa notação é utilizada para representar fluxos de trabalho ou tarefas, iden
 <div align="justify">
 
 &emsp;&emsp;
-Por fim, também contribui para a análise e otimização de processos, ajudando a identificar oportunidades de melhora. Amplamente aplicado na modelagem de casos de uso, automação de processos e design de sistemas, esse diagrama é uma base importante tanto na fase de levantamento de requisitos quanto no design, garantindo que os fluxos sejam bem compreendidos e implementados corretamente.
+Por fim, também contribui para a análise e otimização de processos, ajudando a identificar oportunidades de melhoria. Amplamente aplicado na modelagem de casos de uso, automação de processos e design de sistemas, esse diagrama é uma base importante tanto na fase de levantamento de requisitos quanto no design, garantindo que os fluxos sejam bem compreendidos e implementados corretamente.
 </div>
 
 ## Metodologia
@@ -88,7 +88,7 @@ Para realizar o **Diagrama de Atividades** nos organizamos da seguinte forma: re
 <div align="justify">
 
 &emsp;&emsp;
-Nos baseamos na bibliografia encontrada **UML2 - Uma Abordagem Prática** Usamos a ferramenta Draw.io e trabalhamos de forma síncrona utilizando o Discord para debater questões da notação e decisões de projeto. [Aqui](https://ibb.co/Cwh9KQW) podemos ver parte da equipe trabalhando no [documento geral](https://viewer.diagrams.net/?tags=%7B%7D&lightbox=1&highlight=0000ff&layers=1&nav=1&title=DiagramaAtividades.drawio#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1RdgCcKi4X1J8R0oyN5DspG5pXIzoNTzr%26export%3Ddownload).
+Nos baseamos na bibliografia encontrada em **UML2 - Uma Abordagem Prática**. Usamos a ferramenta Draw.io e trabalhamos de forma síncrona utilizando o Discord para debater questões da notação e decisões de projeto. [Aqui](https://ibb.co/Cwh9KQW) podemos ver parte da equipe trabalhando no [documento geral](https://viewer.diagrams.net/?tags=%7B%7D&lightbox=1&highlight=0000ff&layers=1&nav=1&title=DiagramaAtividades.drawio#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1RdgCcKi4X1J8R0oyN5DspG5pXIzoNTzr%26export%3Ddownload).
 
 Alguns requisitos foram descartados no Diagrama de Atividades por não se adequarem ao formato da modelagem, na concepção da equipe - por exemplo, RF13, RF20, RF21 E RF22. Outros foram retirados do escopo devido a sua complexidade de implementação - no caso dos RF04 e RF05. 
 </div>
@@ -98,7 +98,7 @@ Alguns requisitos foram descartados no Diagrama de Atividades por não se adequa
 <div align="justify">
 
 &emsp;&emsp;
-Na Tabela 2 a seguir estão dispostos os símbolos utilizados nos Diagramas de Atividades desenvolvidos
+Na Tabela 2 a seguir estão dispostos os símbolos utilizados nos Diagramas de Atividades desenvolvidos.
 </div>
 
 <center>
@@ -183,7 +183,7 @@ A Figura 5 representa o Diagrama de Atividade de CI.
 
 <center>
 
-![AtividadeCI](../../assets/diagramaAtividades/sunamita.jpeg)
+![AtividadeCI](https://raw.githubusercontent.com/UnBArqDsw2024-2/2024.2_G1_Logic_Thinkering_Entrega_02/refs/heads/main/assets/diagramaAtividades/sunamita.jpeg)
 </center>
 
 <center><b>Fonte: Santos, 2024</b> </center>
@@ -330,4 +330,4 @@ Ademais, os diagramas de atividades construídos consolidaram a visão coletiva 
 
 | Revisor(es) | O que foi realizado |
 | :---------: | :-----------------: |
-|             |                     |
+| [Vinicius Santos](https://github.com/ViniciussdeOliveira)   | Ajustes pequenos e correção no link referente ao diagrama de atividade de CI   |
