@@ -37,9 +37,9 @@ O *diagrama de comunicação* em UML tem como objetivo representar a *interaçã
 
 <div align="justify">
 &emsp;&emsp;
-
 Para a confecção do diagrama foi realizada reuniões no [Teams](https://teams.microsoft.com/), gravações disponíveis ao final, utilizando a ferramenta [Draw.io](https://app.diagrams.net), pois fornece meios de realizar a modelagem UML, por ser gratuita e permitir a interação de várias pessoas ao mesmo tempo.
 Foi feita uma divisão em 6 fluxos totais, sendo eles:
+
 - Fluxo itens reforçados
 - Fluxo bloco da maquina mineradora
 - Fluxo minimapa
@@ -71,7 +71,7 @@ A Figura 1 apresenta a versão 1.2 do diagrama de comunicação, que está repre
 
 ![Versao 1.0](../../assets/DiagramaComunicacao/comunicacaoV3.png)
 
-<center><b>Fonte:</b> Rodrigues,Reis,Melo,Silva,Santos,Santos, 2024.</center>
+<center><b>Fonte:</b> Rodrigues, Reis, Melo, Silva, Santos, Santos, 2024.</center>
 
 </div>
 
@@ -89,7 +89,7 @@ A Figura 2 apresenta a versão 1.1 do diagrama de comunicação.
 
 ![Versao 1.1](../../assets/DiagramaComunicacao/DiagramaComunicacaoV2.png)
 
-<center><b>Fonte:</b> Rodrigues,,Melo,Silva 2024.</center>
+<center><b>Fonte:</b> Rodrigues, Melo, Silva 2024.</center>
 
 </details>
 
@@ -106,7 +106,7 @@ A Figura 3 apresenta a versão 1.0 do diagrama de comunicação.
 
 ![Versao 1.0](../../assets/DiagramaComunicacao/DiagramaComunicacaoV1.png)
 
-<center><b>Fonte:</b> Rodrigues,Reis,Melo,Silva,Santos,Santos, 2024.</center>
+<center><b>Fonte:</b> Rodrigues, Reis, Melo, Silva, Santos, Santos, 2024.</center>
 
 </details>
 
@@ -136,7 +136,7 @@ O uso do *diagrama de comunicação* é fundamental para mapear e visualizar as 
 
 > [1] SERRANO, Milene. Videoaula: [06b - VideoAula - DSW-Modelagem - Comunicacao - Somente visualização](https://unbbr-my.sharepoint.com/:v:/g/personal/mileneserrano_unb_br/EWMy259ZJ7tGl78GcwMtbFcB75NvMoPphK3LHZ_-5D3-8Q?e=FwwxaL&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D). [Online]. Disponível em: [https://unbbr-my.sharepoint.com/:v:/g/personal/mileneserrano_unb_br/EWMy259ZJ7tGl78GcwMtbFcB75NvMoPphK3LHZ_-5D3-8Q?e=FwwxaL&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D](https://unbbr-my.sharepoint.com/:v:/g/personal/mileneserrano_unb_br/EWMy259ZJ7tGl78GcwMtbFcB75NvMoPphK3LHZ_-5D3-8Q?e=FwwxaL&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D) . Acesso em: 26 nov. 2024.
 
-> [2] UML Communication Diagrams. Disponível em: [https://www.uml-diagrams.org/communication-diagrams.html] . Acesso em: 26 nov. 2024.
+> [2] UML Communication Diagrams. Disponível em: https://www.uml-diagrams.org/communication-diagrams.html. Acesso em: 26 nov. 2024.
 
 
 <center>
