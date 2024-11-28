@@ -137,12 +137,13 @@ Primeira adaptação ao Bizagi pode ser vista na Figura 3.
 </center>
 
 <!-- Lembre de alterar a data -->
+<!-- É PRA POR O NOME, NÃO O USER DO GITHUB -->
 
 <div style="margin: 0 auto; width: fit-content;">
 
 | Versão | Data da alteração |            Alteração            |                  Responsável                  |                      Revisor                       | Data de revisão |
 | :----: | :---------------: | :-----------------------------: | :-------------------------------------------: | :------------------------------------------------: | :-------------: |
-|  1.0   |       03/11       |      Criação do documento       | [DiceRunner714](https://github.com/DiceRunner714), [Gabriela Lemos](https://github.com/heylisten64), [joaoseisei](https://github.com/joaoseisei)  |      
+|  1.0   |       03/11       |      Criação do documento       | [Eduardo Sandes](https://github.com/DiceRunner714), [Gabriela Lemos](https://github.com/heylisten64), [João Antonio G. Carvalho](https://github.com/joaoseisei)  |      
 
 </div>
 
