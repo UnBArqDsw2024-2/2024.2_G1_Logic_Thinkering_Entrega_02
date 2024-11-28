@@ -75,7 +75,8 @@ A última versão do Diagrama de Implantação pode ser vista na Figura 1.
 <center><b>Figura 1 -</b> Diagrama de Implantação Versão 2.0</center>
 <center>
 
-![](https://raw.githubusercontent.com/UnBArqDsw2024-2/2024.2_G1_Logic_Thinkering_Entrega_02/refs/heads/main/assets/diagamaImplantacao/DIv1.png)
+<!-- ![versão_final](https://raw.githubusercontent.com/UnBArqDsw2024-2/2024.2_G1_Logic_Thinkering_Entrega_02/refs/heads/main/assets/diagamaImplantacao/DIv2.png) -->
+![versão_final](https://raw.githubusercontent.com/UnBArqDsw2024-2/2024.2_G1_Logic_Thinkering_Entrega_02/refs/heads/main/assets/diagramaImplantacao/DIv2.png)
 
 </center>
 <center><b>Fonte: Queioz, Carvalho, Lemos, 2024</b></center>
@@ -93,7 +94,7 @@ Primeira versão do Diagrama de Implantação pode ser vista na Figura 2.
 <center><b>Figura 2 -</b> Diagrama de Implantação Versão 1.0</center>
 <center>
 
-![](https://raw.githubusercontent.com/UnBArqDsw2024-2/2024.2_G1_Logic_Thinkering_Entrega_02/refs/heads/main/assets/diagamaImplantacao/DIv1.png)
+![versão_1.0](https://raw.githubusercontent.com/UnBArqDsw2024-2/2024.2_G1_Logic_Thinkering_Entrega_02/refs/heads/main/assets/diagramaImplantacao/DIv1.png)
 
 </center>
 <center><b>Fonte: Lemos, 2024</b></center>
@@ -167,5 +168,6 @@ Portanto, O diagrama garante que a arquitetura física do projeto é compatível
 |                 Revisor(es)                 |                                                                                    O que foi realizado                                                                                     |
 | :-----------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 |   [Artur Bartz](https://github.com/H0lzz)   | Foi revisada a Introdução e adicionado informações que o diagrama reflete na hospedagem, testagem e distribuição do mod, assim como sua interação com o cliente do Minecraft e servidores. |
-| [joaoseisei](https://github.com/joaoseisei) |                                                             Corrige a identação dos parágrafos e adiciona versões anteriores.                                                              |
-|                 [Thomas Q]                  |                                                                    Clarificação nos Objetivos; Formatação do documento                                                                     |
+| [joaoseisei](https://github.com/joaoseisei) |  Corrige a identação dos parágrafos e adiciona versões anteriores.    |
+|  [Thomas Q](https://github.com/thmasq)      |  Clarificação nos Objetivos; Formatação do documento    |
+|  [ViniciussdeOliveira](https://github.com/ViniciussdeOliveira)  |  Corrige o link das imagens  |
