@@ -4,7 +4,7 @@
 - [Projetos](/docs/Projetos/Projetos.md)
 
 - **Modelagem**
-  - [2. Desenho de Software (Modelagem)](/docs/Modelagem/2.Modelagem.md)
+  - [2. Desenho de Software (Modelagem)](Modelagem/2.Modelagem.md)
   - [2.1. Modelagem UML Estática](Modelagem/2.1.ModelagemEstatica.md)
     - [2.1.3 Diagrama de Implantação](Projeto/DiagramaDeImplantacao.md)  
   - [2.2. Modelagem UML Dinâmica](Modelagem/2.2.ModelagemDinamica.md)
