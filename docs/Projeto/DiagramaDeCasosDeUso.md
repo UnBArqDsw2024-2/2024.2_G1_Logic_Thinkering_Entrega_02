@@ -77,7 +77,7 @@ A versão atual do Diagrama de Casos de Uso da equipe pode ser vista na Figura 1
 ![](https://raw.githubusercontent.com/UnBArqDsw2024-2/2024.2_G1_Logic_Thinkering_Entrega_02/refs/heads/main/assets/diagramaCasoUso/DCUv2.png)
 </center>
 
-<center><b>Fonte:</b> </center>
+<center><b>Fonte: Silva, Lemos, Carvalho, 2024</b> </center>
 
 
 ### Versões Anteriores
@@ -95,7 +95,7 @@ Primeira versão do Diagrama de Casos de Uso visto na Figura 2.
 
 ![](https://raw.githubusercontent.com/UnBArqDsw2024-2/2024.2_G1_Logic_Thinkering_Entrega_02/refs/heads/main/assets/diagramaCasoUso/DCUv1.png)
 </center>
-<center><b>Fonte: Silva, Bartz, Reis, Sandes, Lemos, Carvalho, Santos, Santos, Alves, Santos</b> </center>
+<center><b>Fonte: Silva, Bartz, Reis, Sandes, Lemos, Carvalho, Santos, Santos, Alves, Santos, 2024</b> </center>
 
 </details>
 
