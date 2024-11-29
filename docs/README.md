@@ -52,25 +52,25 @@ Logic Thinkering é um mod para Minecraft que possui o objetivo de introduzir me
 
 ## Screenshots da Segunda Entrega
 
-![Diagrama de Classes](assets/diagramaClasse/DCv3.0.png)
+![Diagrama de Classes](https://raw.githubusercontent.com/UnBArqDsw2024-2/2024.2_G1_Logic_Thinkering_Entrega_02/refs/heads/main/assets/diagramaClasse/DCv3.0.png)
 <p style="text-align: center">Figura 1: Diagrama de Classes</p>
 
-![Diagrama de Componente](assets/componentes2.png)
+![Diagrama de Componente](https://raw.githubusercontent.com/UnBArqDsw2024-2/2024.2_G1_Logic_Thinkering_Entrega_02/refs/heads/main/assets/componentes2.png)
 <p style="text-align: center">Figura 2: Diagrama de Componente</p>
 
-![Diagrama de Implantação](assets/diagramaImplantacao/Div2.png)
+![Diagrama de Implantação](https://raw.githubusercontent.com/UnBArqDsw2024-2/2024.2_G1_Logic_Thinkering_Entrega_02/refs/heads/main/assets/diagramaImplantacao/DIv2.png)
 <p style="text-align: center">Figura 3: Diagrama de Implantação</p>
 
-![Diagrama de Atividades](assets/diagramaAtividades/screenshot.png)
+![Diagrama de Atividades](https://raw.githubusercontent.com/UnBArqDsw2024-2/2024.2_G1_Logic_Thinkering_Entrega_02/refs/heads/main/assets/diagramaAtividades/screenshot.png)
 <p style="text-align: center">Figura 4: Diagrama de Atividades</p>
 
-![Diagrama de Comunicação/Colaboração](assets/DiagramaComunicacao/comunicacaoV3.png)
+![Diagrama de Comunicação/Colaboração](https://raw.githubusercontent.com/UnBArqDsw2024-2/2024.2_G1_Logic_Thinkering_Entrega_02/refs/heads/main/assets/DiagramaComunicacao/comunicacaoV3.png)
 <p style="text-align: center">Figura 5: Diagrama de Comunicação/Colaboração</p>
 
 <!-- ![Diagrama de Sequência]()
 <p style="text-align: center">Figura 6: Diagrama de Sequência</p> -->
 
-![Diagrama de Casos de Uso](assets/diagramaCasoUso/DCUv2.png)
+![Diagrama de Casos de Uso](https://raw.githubusercontent.com/UnBArqDsw2024-2/2024.2_G1_Logic_Thinkering_Entrega_02/refs/heads/main/assets/diagramaCasoUso/DCUv2.png)
 <p style="text-align: center">Figura 6: Diagrama de Casos de Uso</p>
 
 ## Há algo a ser executado?
