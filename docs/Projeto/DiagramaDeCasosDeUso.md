@@ -1,6 +1,6 @@
 # Diagrama de Casos de Uso
 
-## Introdução 
+## Introdução
 <!--  
 - **Apresente o tema do projeto ou estudo;**
 - **Busque trazer referências no decorrer do texto;**
@@ -112,7 +112,7 @@ Primeira versão do Diagrama de Casos de Uso visto na Figura 2.
 O diagrama de casos de uso proporciona uma visão abrangente das interações esperadas entre os usuários e o mod. Ele ajuda a validar os requisitos funcionais e a garantir que o escopo do projeto está alinhado com as necessidades dos jogadores e administradores. O uso desse diagrama simplifica a transição para as etapas de design e implementação, servindo como guia para o desenvolvimento de interfaces e fluxos. Futuramente, ele pode ser expandido para incluir novos casos de uso ou cenários baseados em feedback dos usuários.
 </div>
 
-## Bibliografia 
+## Bibliografia
 
 <!-- - **Altere!**-->
 

@@ -1,6 +1,6 @@
 # Diagrama de Componente
 
-## Introdução 
+## Introdução
 <!--  
 - **Apresente o tema do projeto ou estudo;**
 - **Busque trazer referências no decorrer do texto;**
@@ -42,7 +42,7 @@ Para a confecção do diagrama foi realizada reuniões no Teams, gravações dis
 - Destaque os pontos principais ou insights obtidos durante o processo.
 - **APRESENTE AS VERSÕES DO DIAGRAMA!! Podem usar o formato abaixo para poluir menos a página**
 -->
-### Versão 1.1 - Final
+
 <div align="justify">&emsp;&emsp;
 Na versão 1.1, foram feitos ajustes no diagrama inicial para que fosse respeitado o diagrama de classe. Sendo assim, o subsistema de itens reforçados foi remodelado, uma nova comunicação entre o subsistema de redstone e portas lógicas foi criada, para que seja possível identificar a interação entre os componentes e foi desenvolvido um novo subsistema de livro guia.
 
@@ -57,13 +57,23 @@ Na versão 1.1, foram feitos ajustes no diagrama inicial para que fosse respeita
 
 ### Versão 1.0
 
+
+<details>
+<summary>Visualizar versão 1.0</summary>
+
+### Versão 1.0
+
 Na versão 1.0, foi feita a arquitetura estática do sistema do Mod, com componentes principais, interfaces e conexões. O diagrama inclui os subsistemas e seu conjunto específico de tarefas. Ele também representa as requisições e interações entre eles e uma simulação do fluxo do sistema.
 
-<center><b>Figura 2 -</b> Diagrama de Componentes versão 1.0</center>
+<center><b>Figura 2 -</b> Diagrama de Casos de Uso do Logic Thinkering</center>
 
-![Versão 1.0](https://raw.githubusercontent.com/UnBArqDsw2024-2/2024.2_G1_Logic_Thinkering_Entrega_02/refs/heads/main/assets/componentes.png)
+<center>
 
-<center><b>Fonte:</b> Rodrigues,Reis,Melo,Silva,Santos,Santos, 2024.</center>
+![](https://raw.githubusercontent.com/UnBArqDsw2024-2/2024.2_G1_Logic_Thinkering_Entrega_02/refs/heads/main/assets/diagramaCasoUso/DCUv1.png)
+</center>
+<center><b>Fonte: Silva, Bartz, Reis, Sandes, Lemos, Carvalho, Santos, Santos, Alves, Santos, 2024</b> </center>
+
+</details>
 
 ### Gravações do Diagrama de Componentes
 
@@ -83,7 +93,7 @@ Na versão 1.0, foi feita a arquitetura estática do sistema do Mod, com compone
 
 O **diagrama de componentes** permite visualizar e organizar as partes estruturais do sistema de maneira clara e lógica, facilitando a compreensão das dependências e comunicações entre os diferentes componentes. Dessa forma foi possível representar os componentes de maneira que toda a equipe possa entender as comunicações e quais partes do código são possíveis de ter reutilização, permitindo melhores tomadas de decisão para priorização e organização da equipe. 
 
-## Bibliografia 
+## Bibliografia
 
 <!-- - **Altere!**-->
 

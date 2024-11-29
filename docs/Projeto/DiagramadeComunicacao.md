@@ -1,6 +1,6 @@
 # Diagrama de Comunicação/Colaboração
 
-## Introdução 
+## Introdução
 <!--  
 - *Apresente o tema do projeto ou estudo;*
 - *Busque trazer referências no decorrer do texto;*
@@ -130,7 +130,7 @@ A Figura 3 apresenta a versão 1.0 do diagrama de comunicação.
 O uso do diagrama de comunicação é fundamental para mapear e visualizar as interações entre os diferentes objetos ou componentes dentro de um sistema. Ele proporciona uma visão clara da ordem e de como as mensagens são trocadas e como os processos se comunicam ao longo da execução do sistema. Esse diagrama auxilia na identificação de possíveis problemas de comunicação ou redundâncias e permite melhorar a eficiência e a coesão do sistema. Ele também é útil para documentação e comunicação entre as equipes de desenvolvimento, promovendo um entendimento comum das funcionalidades e da arquitetura do sistema.
 </div>
 
-## Bibliografia 
+## Bibliografia
 
 <!-- - *Altere!*-->
 
