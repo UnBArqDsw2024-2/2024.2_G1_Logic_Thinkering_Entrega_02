@@ -63,7 +63,7 @@ O diagrama de sequência apresenta cenários como a ativação de uma porta lóg
 </div>
 
 ### LOGIC GATE
-<!-- Alterar para o Diagrama de Sequência>
+<!-- Alterar para o Diagrama de Sequência> -->
 <!-- Aqui documente as mudanças de uma versão para a outra -->
 A Figura 1 apresenta Diagrama de Sequência do LogicGate
 
@@ -72,70 +72,63 @@ A Figura 1 apresenta Diagrama de Sequência do LogicGate
 ![LogicGate](https://raw.githubusercontent.com/UnBArqDsw2024-2/2024.2_G1_Logic_Thinkering_Entrega_02/refs/heads/main/assets/diagramaSequencia/LogicGate.png)
 
 <center><b>Fonte:</b> Silva,Bartz,Rodrigues,Melo,Silva,Santos, 2024.</center>
-</details>
 
 ### REDSTONE +
-<!-- Alterar para o Diagrama de Sequência>
+<!-- Alterar para o Diagrama de Sequência> -->
 <!-- Aqui documente as mudanças de uma versão para a outra -->
-A Figura 1 apresenta Diagrama de Sequência do Redstone + .
+A Figura 2 apresenta Diagrama de Sequência do Redstone + .
 <center><b>Figura 2 -</b> Redstone +</center>
 
 ![Redstone + ](https://raw.githubusercontent.com/UnBArqDsw2024-2/2024.2_G1_Logic_Thinkering_Entrega_02/refs/heads/main/assets/diagramaSequencia/Redstone.png)
 
 <center><b>Fonte:</b> Silva,Bartz,Rodrigues,Melo,Silva,Santos, 2024.</center>
-</details>
 
-### REINFORCED ITEMS
-<!-- Alterar para o Diagrama de Sequência>
+### REINFORCED ITEMS 
+<!-- Alterar para o Diagrama de Sequência> -->
 <!-- Aqui documente as mudanças de uma versão para a outra -->
-A Figura 1 apresenta Diagrama de Sequência do itens reforçados
+A Figura 3 apresenta Diagrama de Sequência do itens reforçados
 
-<center><b>Figura 1 -</b> itens reforçados</center>
+<center><b>Figura 3 -</b> itens reforçados</center>
 
 ![itens reforçados](https://raw.githubusercontent.com/UnBArqDsw2024-2/2024.2_G1_Logic_Thinkering_Entrega_02/refs/heads/main/assets/diagramaSequencia/Reinforceditems.png)
 
 <center><b>Fonte:</b> Silva,Bartz,Rodrigues,Melo,Silva,Santos, 2024.</center>
-</details>
 
 ### GUIDE BOOK
-<!-- Alterar para o Diagrama de Sequência>
+<!-- Alterar para o Diagrama de Sequência> -->
 <!-- Aqui documente as mudanças de uma versão para a outra -->
-A Figura 1 apresenta Diagrama de Sequência do Livro guia
+A Figura 4 apresenta Diagrama de Sequência do Livro guia
 
-<center><b>Figura 1 -</b> Livro guia</center>
+<center><b>Figura 4 -</b> Livro guia</center>
 
 ![Livro guia](https://raw.githubusercontent.com/UnBArqDsw2024-2/2024.2_G1_Logic_Thinkering_Entrega_02/refs/heads/main/assets/diagramaSequencia/Book.png)
 
 <center><b>Fonte:</b> Silva,Bartz,Rodrigues,Melo,Silva,Santos, 2024.</center>
-</details>
 
 ### MINING MACHINE BLOCK
-<!-- Alterar para o Diagrama de Sequência>
+<!-- Alterar para o Diagrama de Sequência> -->
 <!-- Aqui documente as mudanças de uma versão para a outra -->
-A Figura 1 apresenta Diagrama de Sequência do bloco de maquina mineradora.
+A Figura 5 apresenta Diagrama de Sequência do bloco de maquina mineradora.
 
-<center><b>Figura 1 -</b> bloco de maquina mineradora</center>
+<center><b>Figura 5 -</b> bloco de maquina mineradora</center>
 
 ![bloco de maquina mineradora](https://raw.githubusercontent.com/UnBArqDsw2024-2/2024.2_G1_Logic_Thinkering_Entrega_02/refs/heads/main/assets/diagramaSequencia/Miningmachine.png)
 
 <center><b>Fonte:</b> Silva,Bartz,Rodrigues,Melo,Silva,Santos, 2024.</center>
-</details>
-
-
-
-
-
 
 
 ## Conclusão
 <!--  
--   **Resuma os pontos principais do trabalho.**
+-   **Resuma os pontos principais do trabalho.** 
 -   **Avalie se os objetivos foram alcançados e o impacto do trabalho.**
 -   **Apresente perspectivas para melhorias ou trabalhos futuros.**
 -->
 
-Portanto, o diagrama de sequência proporciona uma visão detalhada das interações dinâmicas do sistema, alcançando os objetivos de clareza e alinhamento do comportamento esperado das novas funcionalidades. A representação gráfica revela pontos críticos de comunicação, permitindo ajustes no design antes da implementação. Este trabalho destaca a importância dos diagramas de sequência na antecipação de problemas de integração e promove uma base sólida para testes dinâmicos no futuro.
+<div align="justify">
 
+&emsp;&emsp;
+Portanto, o diagrama de sequência proporciona uma visão detalhada das interações dinâmicas do sistema, alcançando os objetivos de clareza e alinhamento do comportamento esperado das novas funcionalidades. A representação gráfica revela pontos críticos de comunicação, permitindo ajustes no design antes da implementação. Este trabalho destaca a importância dos diagramas de sequência na antecipação de problemas de integração e promove uma base sólida para testes dinâmicos no futuro.
+</div>
 
 ## Gravações
 
@@ -147,7 +140,7 @@ Gravação do segundo encontro:
 
 ## Bibliografia 
 
- [1] SERRANO, Milene. Videoaula: [06a - VideoAula - DSW - Modelagem - Diagrama de Sequência](https://unbbr-my.sharepoint.com/personal/mileneserrano_unb_br/_layouts/15/stream.aspx?id=%2Fpersonal%2Fmileneserrano%5Funb%5Fbr%2FDocuments%2FArqDSW%20%2D%20V%C3%ADdeosOriginais%2F06a%20%2D%20VideoAula%20%2D%20DSW%2DModelagem%20%2D%20Sequencia%2Emp4&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E38edf876%2D6926%2D48a6%2Db2e2%2Da2d94557d96e). [Online]. Disponível em: [https://unbbr-my.sharepoint.com/personal/mileneserrano_unb_br/_layouts/15/stream.aspx?id=%2Fpersonal%2Fmileneserrano%5Funb%5Fbr%2FDocuments%2FArqDSW%20%2D%20V%C3%ADdeosOriginais%2F06a%20%2D%20VideoAula%20%2D%20DSW%2DModelagem%20%2D%20Sequencia%2Emp4&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E38edf876%2D6926%2D48a6%2Db2e2%2Da2d94557d96e](https://unbbr-my.sharepoint.com/personal/mileneserrano_unb_br/_layouts/15/stream.aspx?id=%2Fpersonal%2Fmileneserrano%5Funb%5Fbr%2FDocuments%2FArqDSW%20%2D%20V%C3%ADdeosOriginais%2F06a%20%2D%20VideoAula%20%2D%20DSW%2DModelagem%20%2D%20Sequencia%2Emp4&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E38edf876%2D6926%2D48a6%2Db2e2%2Da2d94557d96e) . Acesso em: 23 nov. 2024.
+> [1] SERRANO, Milene. Videoaula: [06a - VideoAula - DSW - Modelagem - Diagrama de Sequência](https://unbbr-my.sharepoint.com/personal/mileneserrano_unb_br/_layouts/15/stream.aspx?id=%2Fpersonal%2Fmileneserrano%5Funb%5Fbr%2FDocuments%2FArqDSW%20%2D%20V%C3%ADdeosOriginais%2F06a%20%2D%20VideoAula%20%2D%20DSW%2DModelagem%20%2D%20Sequencia%2Emp4&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E38edf876%2D6926%2D48a6%2Db2e2%2Da2d94557d96e). [Online]. Disponível em: [https://unbbr-my.sharepoint.com/personal/mileneserrano_unb_br/_layouts/15/stream.aspx?id=%2Fpersonal%2Fmileneserrano%5Funb%5Fbr%2FDocuments%2FArqDSW%20%2D%20V%C3%ADdeosOriginais%2F06a%20%2D%20VideoAula%20%2D%20DSW%2DModelagem%20%2D%20Sequencia%2Emp4&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E38edf876%2D6926%2D48a6%2Db2e2%2Da2d94557d96e](https://unbbr-my.sharepoint.com/personal/mileneserrano_unb_br/_layouts/15/stream.aspx?id=%2Fpersonal%2Fmileneserrano%5Funb%5Fbr%2FDocuments%2FArqDSW%20%2D%20V%C3%ADdeosOriginais%2F06a%20%2D%20VideoAula%20%2D%20DSW%2DModelagem%20%2D%20Sequencia%2Emp4&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E38edf876%2D6926%2D48a6%2Db2e2%2Da2d94557d96e) . Acesso em: 23 nov. 2024.
 
 <center>
 
@@ -159,15 +152,14 @@ Gravação do segundo encontro:
 
 <div style="margin: 0 auto; width: fit-content;">
 
-| Matrícula | Aluno                                 | Git                                                           |
-| --------- | ------------------------------------- | ------------------------------------------------------------- |
-| 221007813 | André Emanuel Bispo da Silva          | [Hunter104](https://github.com/Hunter104)                     |
-| 221007869 | Artur Henrique Holz Bartz             | [H0lzz](https://github.com/H0lzz)                             |
-| 221931265 | Carlos Eduardo Rodrigues              | [carlos-kadu](https://github.com/carlos-kadu)                 |
-| 221031149 | Danilo César Tertuliano Melo          | [DaniloCTM](https://github.com/DaniloCTM)                     |
-| 221037993 | Patrícia Helena Macedo da Silva       | [patyhelenaa](https://github.com/patyhelenaa)                 |
-| 221008445 | Samara Letícia Alves dos Santos       | [samarawwleticia](https://github.com/samarawwleticia)         |
-
+| Matrícula | Aluno                           | Git                                                   |
+|-----------|---------------------------------|-------------------------------------------------------|
+| 221007813 | André Emanuel Bispo da Silva    | [Hunter104](https://github.com/Hunter104)             |
+| 221007869 | Artur Henrique Holz Bartz       | [H0lzz](https://github.com/H0lzz)                     |
+| 221931265 | Carlos Eduardo Rodrigues        | [carlos-kadu](https://github.com/carlos-kadu)         |
+| 221031149 | Danilo César Tertuliano Melo    | [DaniloCTM](https://github.com/DaniloCTM)             |
+| 221037993 | Patrícia Helena Macedo da Silva | [patyhelenaa](https://github.com/patyhelenaa)         |
+| 221008445 | Samara Letícia Alves dos Santos | [samarawwleticia](https://github.com/samarawwleticia) |
 
 </div>
 
@@ -181,17 +173,17 @@ Gravação do segundo encontro:
 
 <div style="margin: 0 auto; width: fit-content;">
 
-| Versão | Data da alteração |            Alteração            |                  Responsável                  |                      Revisor                       | Data de revisão |
-| :----: | :---------------: | :-----------------------------: | :-------------------------------------------: | :------------------------------------------------: | :-------------: |
-|  1.0   |       23/11       |      Criação do documento       | [Artur Henrique](https://github.com/H0lzz)             |                                                    |                 |
-| 1.1 | 27/11 | Adição das gravações das reuniões | [Carlos Eduardo](https://github.com/carlos-kadu) | |  |
-| 1.2 | 28/11 | Adição dos diagramas, correção no nome dos responsaveis e complemento na metodologia | [Patricia Helena](https://github.com/patyhelenaa) | |  |
+| Versão | Data da alteração |                                      Alteração                                       |                    Responsável                    |                    Revisor                     | Data de revisão |
+|:------:|:-----------------:|:------------------------------------------------------------------------------------:|:-------------------------------------------------:|:----------------------------------------------:|:---------------:|
+|  1.0   |       23/11       |                                 Criação do documento                                 |    [Artur Henrique](https://github.com/H0lzz)     | [João Carvalho](https://github.com/joaoseisei) |      28/11      |
+|  1.1   |       27/11       |                          Adição das gravações das reuniões                           | [Carlos Eduardo](https://github.com/carlos-kadu)  | [João Carvalho](https://github.com/joaoseisei) |      28/11      |
+|  1.2   |       28/11       | Adição dos diagramas, correção no nome dos responsaveis e complemento na metodologia | [Patricia Helena](https://github.com/patyhelenaa) | [João Carvalho](https://github.com/joaoseisei) |      28/11      |
 
 
 </div>
 
 ## Controle de Revisão
 
-|                        Revisor(es)                        |                                             O que foi realizado                                             |
-|:---------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------:|
-|                                                           |                                                                                                             |
+|                  Revisor(es)                   |                                   O que foi realizado                                   |
+|:----------------------------------------------:|:---------------------------------------------------------------------------------------:|
+| [João Carvalho](https://github.com/joaoseisei) | Corrige conclusão com incoêrencias e erros no html e corrige nome das figuras repetidas |
