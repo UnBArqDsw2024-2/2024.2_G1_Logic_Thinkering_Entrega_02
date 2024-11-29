@@ -57,17 +57,14 @@ Nos baseamos na bibliografia encontrada UML2 - Uma Abordagem Prática
 - Destaque os pontos principais ou insights obtidos durante o processo.
 - *APRESENTE AS VERSÕES DO DIAGRAMA!! Podem usar o formato abaixo para poluir menos a página*
 -->
-### Versão final
 
 <div align="justify">
-
 &emsp;&emsp;
-
 A Figura 1 apresenta a versão 1.2 do diagrama de comunicação, que está representando as interações possíveis em cada componente de acordo com o diagrama de classes.
 
 <center><b>Figura 1 -</b> Diagrama comunicação versão 1.2</center>
 
-![Versao 1.0](https://raw.githubusercontent.com/UnBArqDsw2024-2/2024.2_G1_Logic_Thinkering_Entrega_02/refs/heads/main/assets/DiagramaComunicacao/comunicacaoV3.png)
+![Versão 1.0](https://raw.githubusercontent.com/UnBArqDsw2024-2/2024.2_G1_Logic_Thinkering_Entrega_02/refs/heads/main/assets/DiagramaComunicacao/comunicacaoV3.png)
 
 <center><b>Fonte:</b> Rodrigues, Reis, Melo, Silva, Santos, Santos, 2024.</center>
 
@@ -85,7 +82,7 @@ A Figura 2 apresenta a versão 1.1 do diagrama de comunicação.
 
 <center><b>Figura 2 -</b> Diagrama comunicação versão 1.1</center>
 
-![Versao 1.1](https://raw.githubusercontent.com/UnBArqDsw2024-2/2024.2_G1_Logic_Thinkering_Entrega_02/refs/heads/main/assets/DiagramaComunicacao/DiagramaComunicacaoV2.png)
+![Versão 1.1](https://raw.githubusercontent.com/UnBArqDsw2024-2/2024.2_G1_Logic_Thinkering_Entrega_02/refs/heads/main/assets/DiagramaComunicacao/DiagramaComunicacaoV2.png)
 
 <center><b>Fonte:</b> Rodrigues, Melo, Silva 2024.</center>
 
@@ -102,7 +99,7 @@ A Figura 3 apresenta a versão 1.0 do diagrama de comunicação.
 
 <center><b>Figura 3 -</b> Diagrama comunicação versão 1.0</center>
 
-![Versao 1.0](https://raw.githubusercontent.com/UnBArqDsw2024-2/2024.2_G1_Logic_Thinkering_Entrega_02/refs/heads/main/assets/DiagramaComunicacao/DiagramaComunicacaoV1.png)
+![Versão 1.0](https://raw.githubusercontent.com/UnBArqDsw2024-2/2024.2_G1_Logic_Thinkering_Entrega_02/refs/heads/main/assets/DiagramaComunicacao/DiagramaComunicacaoV1.png)
 
 <center><b>Fonte:</b> Rodrigues, Reis, Melo, Silva, Santos, Santos, 2024.</center>
 
@@ -111,10 +108,10 @@ A Figura 3 apresenta a versão 1.0 do diagrama de comunicação.
 
 ### Gravações do Diagrama de Comunicação
 
-#### Primeira reunião | Versao 1.0 
+#### Primeira reunião | Versão 1.0 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/e51ww0hznWE?si=GYKQxkJgj7HfDFNK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-#### Segunda reunião | Versao 1.1
+#### Segunda reunião | Versão 1.1
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lCqaTQR7EwQ?si=XqObCQ6m8y8M7Wyr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
@@ -172,16 +169,16 @@ O uso do diagrama de comunicação é fundamental para mapear e visualizar as in
 
 <div style="margin: 0 auto; width: fit-content;">
 
-| Versão | Data da alteração |            Alteração            |                  Responsável                  |                      Revisor                       | Data de revisão |
-| :----: | :---------------: | :-----------------------------: | :-------------------------------------------: | :------------------------------------------------: | :-------------: |
-|  1.0   |       26/11       |      Criação do documento       | [ViniciussdeOliveira](https://github.com/ViniciussdeOliveira)  |
-|  1.1   |       27/11       |      Complemento da introdução,objetivo e metodologia, adição das versões e adição dos videos       | [patyhelenaa](https://github.com/patyhelenaa)  |       
-|  1.2   |       28/11       |      Adição da versão final e conclusão       | [ViniciussdeOliveira](https://github.com/ViniciussdeOliveira)  |
+| Versão | Data da alteração |                                        Alteração                                         |                          Responsável                          |                  Revisor                   | Data de revisão |
+| :----: | :---------------: | :--------------------------------------------------------------------------------------: | :-----------------------------------------------------------: | :----------------------------------------: | :-------------: |
+|  1.0   |       26/11       |                                   Criação do documento                                   | [ViniciussdeOliveira](https://github.com/ViniciussdeOliveira) | [Cássio Reis](https://github.com/csreis72) |      28/11      |
+|  1.1   |       27/11       | Complemento da introdução,objetivo e metodologia, adição das versões e adição dos videos |         [patyhelenaa](https://github.com/patyhelenaa)         | [Cássio Reis](https://github.com/csreis72) |      28/11      |
+|  1.2   |       28/11       |                            Adição da versão final e conclusão                            | [ViniciussdeOliveira](https://github.com/ViniciussdeOliveira) | [Cássio Reis](https://github.com/csreis72) |      28/11      |
 
 </div>
 
 ## Controle de Revisão
 
-|                        Revisor(es)                        |                                             O que foi realizado                                             |
-|:---------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------:|
-| --- | --- |
+|                Revisor(es)                 |              O que foi realizado               |
+| :----------------------------------------: | :--------------------------------------------: |
+| [Cássio Reis](https://github.com/csreis72) | Correção ortográfica e formatação do documento |
