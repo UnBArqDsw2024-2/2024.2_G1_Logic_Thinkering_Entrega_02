@@ -8,7 +8,7 @@
 
 
 <center>
-<iframe src="../../assets/LOGICTHINKERING.pdf" width="100%" height="600px"></iframe>
+<iframe src="../assets/LOGICTHINKERING.pdf" width="100%" height="600px"></iframe>
 Documento 1 - Slide de apresentação do logic thinkering
 </center>
 
