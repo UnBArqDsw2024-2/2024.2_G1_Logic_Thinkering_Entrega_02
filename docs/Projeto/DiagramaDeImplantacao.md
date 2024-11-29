@@ -49,7 +49,11 @@ O objetivo do diagrama de implantação é mapear como o projeto será integrado
 <div align="justify">
 
 &emsp;&emsp;
-O diagrama foi desenvolvido com base nos requisitos não funcionais que especificam compatibilidade e desempenho. Ferramentas UML foram empregadas para modelar a relação entre servidores de Minecraft, o cliente do jogo e os módulos do mod. A estrutura física foi analisada, considerando o impacto da implementação do projeto no desempenho do sistema.
+O desenvolvimento do diagrama foi baseado nos requisitos não funcionais de compatibilidade e desempenho, buscando garantir a integração eficaz entre diferentes versões do Minecraft e servidores, enquanto minimiza impactos negativos no desempenho do sistema.
+</div>
+
+<div align="justify"> &emsp;&emsp;
+Para representar as interações entre os componentes, ferramentas UML foram utilizadas, resultando em um diagrama que demonstra como o mod interage com as instâncias do servidor, o cliente do jogo e outros. O modelo foi estruturado de forma a destacar as dependências entre os elementos, como o arquivo principal do mod (Logic-Thinking.jar), módulos auxiliares como AlmostUnified.jar e JEI.jar, para garantir compatibilidade com outros mod's, e o framework Fabric Loader.
 
 </div>
 
@@ -134,12 +138,13 @@ Portanto, O diagrama garante que a arquitetura física do projeto é compatível
 
 <div style="margin: 0 auto; width: fit-content;">
 
-| Matrícula | Aluno                         | Git                                           |
-| --------- | ----------------------------- | --------------------------------------------- |
-| 221007869 | Artur Henrique Holz Bartz     | [H0lzz](https://github.com/H0lzz)             |
-| 170010872 | Gabriela de Oliveira Lemos    | [heylisten64](https://github.com/heylisten64) |
-| 211062526 | Thomas Queiroz Souza Alves    | [thmasq](https://github.com/thmasq)           |
-| 221008150 | João Antonio Ginuino Carvalho | [joaoseisei](https://github.com/joaoseisei)   |
+| Matrícula | Aluno                             | Git                                               |
+| --------- | --------------------------------- | ------------------------------------------------- |
+| 221007869 | Artur Henrique Holz Bartz         | [H0lzz](https://github.com/H0lzz)                 |
+| 170010872 | Gabriela de Oliveira Lemos        | [heylisten64](https://github.com/heylisten64)     |
+| 211062526 | Thomas Queiroz Souza Alves        | [thmasq](https://github.com/thmasq)               |
+| 221008150 | João Antonio Ginuino Carvalho     | [joaoseisei](https://github.com/joaoseisei)       |
+| 221008024 | Eduardo Matheus dos Santos Sandes | [DiceRunner714](https://github.com/DiceRunner714) |
 
 </div>
 
@@ -155,19 +160,20 @@ Portanto, O diagrama garante que a arquitetura física do projeto é compatível
 
 <div style="margin: 0 auto; width: fit-content;">
 
-| Versão | Data da alteração |                         Alteração                          |                                                               Responsável                                                               |                   Revisor                   | Data de revisão |
-| :----: | :---------------: | :--------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------: | :-------------: |
-|  1.0   |       21/11       | Criação do documento e adição de Introdução e Bibliografia |                                            [Gabriela Lemos](https://github.com/heylisten64)                                             |   [Artur Bartz](https://github.com/H0lzz)   |   25/11/2024    |
-|  2.0   |       25/11       |  Adição de Objetivos, Metodologia, Resultados e Conclusão  |                                                 [Artur Bartz](https://github.com/H0lzz)                                                 | [joaoseisei](https://github.com/joaoseisei) |   27/11/2024    |
-|  2.1   |       25/11       |           Adiciona versão melhorada do diagrama            | [Gabriela Lemos](https://github.com/heylisten64), [Thomas Q](https://github.com/thmasq), [João Carvalho](https://github.com/joaoseisei) |                                             |                 |
+| Versão | Data da alteração |                         Alteração                          |                                                               Responsável                                                               |                      Revisor                       | Data de revisão |
+| :----: | :---------------: | :--------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------: | :-------------: |
+|  1.0   |       21/11       | Criação do documento e adição de Introdução e Bibliografia |                                            [Gabriela Lemos](https://github.com/heylisten64)                                             |      [Artur Bartz](https://github.com/H0lzz)       |   25/11/2024    |
+|  2.0   |       25/11       |  Adição de Objetivos, Metodologia, Resultados e Conclusão  |                                                 [Artur Bartz](https://github.com/H0lzz)                                                 |    [joaoseisei](https://github.com/joaoseisei)     |   27/11/2024    |
+|  2.1   |       25/11       |           Adiciona versão melhorada do diagrama            | [Gabriela Lemos](https://github.com/heylisten64), [Thomas Q](https://github.com/thmasq), [João Carvalho](https://github.com/joaoseisei) | [Eduardo Sandes](https://github.com/DiceRunner714) | 27/11/2024                |
 
 </div>
 
 ## Controle de Revisão
 
-|                 Revisor(es)                 |                                                                                    O que foi realizado                                                                                     |
-| :-----------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|   [Artur Bartz](https://github.com/H0lzz)   | Foi revisada a Introdução e adicionado informações que o diagrama reflete na hospedagem, testagem e distribuição do mod, assim como sua interação com o cliente do Minecraft e servidores. |
-| [joaoseisei](https://github.com/joaoseisei) |  Corrige a identação dos parágrafos e adiciona versões anteriores.    |
-|  [Thomas Q](https://github.com/thmasq)      |  Clarificação nos Objetivos; Formatação do documento    |
-|  [ViniciussdeOliveira](https://github.com/ViniciussdeOliveira)  |  Corrige o link das imagens  |
+|                          Revisor(es)                          |                                                                                    O que foi realizado                                                                                     |
+| :-----------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|            [Artur Bartz](https://github.com/H0lzz)            | Foi revisada a Introdução e adicionado informações que o diagrama reflete na hospedagem, testagem e distribuição do mod, assim como sua interação com o cliente do Minecraft e servidores. |
+|          [joaoseisei](https://github.com/joaoseisei)          |                                                             Corrige a identação dos parágrafos e adiciona versões anteriores.                                                              |
+|             [Thomas Q](https://github.com/thmasq)             |                                                                    Clarificação nos Objetivos; Formatação do documento                                                                     |
+| [ViniciussdeOliveira](https://github.com/ViniciussdeOliveira) |                                                                                 Corrige o link das imagens                                                                                 |
+|      [Eduardo Sandes](https://github.com/DiceRunner714)       |                                                                                   Incrementa metodologia                                                                                   |
