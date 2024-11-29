@@ -1,5 +1,6 @@
 ## Introdução
-<!--  
+
+<!--
 - **Apresente o tema do projeto ou estudo;**
 - **Busque trazer referências no decorrer do texto;**
 - Destaque a relevância do diagrama ou abordagem para a área de aplicação.
@@ -10,7 +11,8 @@ O uso de diagramas de classes é fundamental em engenharia de software, pois pro
 </div>
 
 ## Objetivo
-<!--  
+
+<!--
 - **Declare o que se pretende alcançar com o diagrama em projetos no geral; Busque referenciar!**
 - **Declare o que se pretende alcançar com o diagrama para equipe neste contexto;**
 - **Destaque os resultados esperados, como soluções para problemas, melhorias no entendimento ou suporte à tomada de decisões.**
@@ -20,7 +22,8 @@ O diagrama de classes visa facilitar a compreensão e implementação das funcio
 </div>
 
 ## Metodologia
-<!--  
+
+<!--
 - **Explique o processo utilizado para desenvolver o trabalho. COMO foi feito?**
 - **Descreva as ferramentas, técnicas ou referências utilizadas na construção do diagrama ou solução. Se houver alguma ferramenta específica determinada pela professora, a sugestão é usá-la sendo em qualquer etapa do processo. Podem começar com uma ferramenta que já são familiarizados e depois explorar outras ferramentas.**
 - Se desejarem, podem citar os desafios encontrados seguindo a metodologia, propostas de melhoria, etc.
@@ -42,7 +45,7 @@ Ademais foi analisando a arquitetura de componentes do jogo original foi possív
 <div style="margin: 0 auto; width: fit-content;">
 
 | **Nome**         | **Requisito Funcional**                               | **Responsável**                                         |
-|------------------|-------------------------------------------------------|---------------------------------------------------------|
+| ---------------- | ----------------------------------------------------- | ------------------------------------------------------- |
 | Itens Comuns     | RFO1,                                                 | Gabriela Lemos, João Carvalho, Thomas Alves             |
 | Itens Complexos  | RF02, RF03                                            | João Carvalho, Thomas Alves, André Silva                |
 | Blocos Comuns    | RF04                                                  | Eduardo Sandes, João Carvalho                           |
@@ -53,14 +56,14 @@ Ademais foi analisando a arquitetura de componentes do jogo original foi possív
 </div>
 
 ## Resultados
-<!--  
-- **Apresente o produto final, como o diagrama ou solução desenvolvida.** 
+
+<!--
+- **Apresente o produto final, como o diagrama ou solução desenvolvida.**
 - **Desenvolva ao menos um parágrafo referenciando a figura**
 - **Adicione "Figura 1 - Título da Figura/Quadro/Tabela" acima e "Fonte: " abaixo dela**
 - Destaque os pontos principais ou insights obtidos durante o processo.
 - **APRESENTE AS VERSÕES DO DIAGRAMA!! Podem usar o formato abaixo para poluir menos a página**
 -->
-
 
 <div align="justify">&emsp;&emsp;
 O diagrama final inclui classes que implementam portas lógicas no sistema de redstone, que descrevem novos materiais reforçados, que automatizam tarefas de mineração. As classes de novos itens, como ferramentas e armaduras reforçadas, estão integradas com uma interface que centraliza funcionalidades de carga. Além disso, o minimapa interage com classes de sinal para fornecer detecção em tempo real de atividades redstone. Essa modelagem permite escalabilidade e flexibilidade para futuras iterações.
@@ -75,7 +78,6 @@ A Figura 1 apresenta o diagrama de classe final com todas os requisitos do backw
 <center><b>Fonte:</b> Lemos, Alves, Silva, Carvalho, Sandes, Santos, 2024.</center>
 
 ### Versões Anteriores
-
 
 <details>
 <summary>Visualizar versão 2.0</summary>
@@ -116,12 +118,12 @@ Primeiro rascunho do Diagrama de Classes pode ser vista na Figura 4.
 </details>
 
 ## Conclusão
-<!--  
+
+<!--
 -   **Resuma os pontos principais do trabalho.**
 -   **Avalie se os objetivos foram alcançados e o impacto do trabalho.**
 -   **Apresente perspectivas para melhorias ou trabalhos futuros.**
 -->
-
 
 <div align="justify">&emsp;&emsp;
 O diagrama de classes atinge o objetivo de estruturar os requisitos do mod, promovendo clareza e integração com o código original do Minecraft. Ele é essencial para alinhar a visão da equipe, identificando dependências e promovendo a modularidade do sistema. Melhorias podem ser feitas para garantir maior consistência durante as implementações subsequentes.
@@ -146,7 +148,7 @@ O diagrama de classes atinge o objetivo de estruturar os requisitos do mod, prom
 <div style="margin: 0 auto; width: fit-content;">
 
 | Matrícula | Aluno                             | Git                                                   |
-|-----------|-----------------------------------|-------------------------------------------------------|
+| --------- | --------------------------------- | ----------------------------------------------------- |
 | 221007813 | André Emanuel Bispo da Silva      | [Hunter104](https://github.com/Hunter104)             |
 | 221007869 | Artur Henrique Holz Bartz         | [H0lzz](https://github.com/H0lzz)                     |
 | 221008024 | Eduardo Matheus dos Santos Sandes | [DiceRunner714](https://github.com/DiceRunner714)     |
@@ -154,7 +156,6 @@ O diagrama de classes atinge o objetivo de estruturar os requisitos do mod, prom
 | 221008150 | João Antonio Ginuino Carvalho     | [joaoseisei](https://github.com/joaoseisei)           |
 | 221008445 | Samara Letícia Alves dos Santos   | [samarawwleticia](https://github.com/samarawwleticia) |
 | 211062526 | Thomas Queiroz Souza Alves        | [thmasq](https://github.com/thmasq)                   |
-
 
 </div>
 
@@ -169,7 +170,7 @@ O diagrama de classes atinge o objetivo de estruturar os requisitos do mod, prom
 <div style="margin: 0 auto; width: fit-content;">
 
 | Versão | Data da alteração |                     Alteração                     |                                                                                                                                                                Responsável                                                                                                                                                                |                    Revisor                     | Data de revisão |
-|:------:|:-----------------:|:-------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:----------------------------------------------:|:---------------:|
+| :----: | :---------------: | :-----------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------: | :-------------: |
 |  1.0   |       21/11       |               Criação do documento                |                                                                                                                                                  [Artur Barlz](https://github.com/H0lzz)                                                                                                                                                  | [João Carvalho](https://github.com/joaoseisei) |      28/11      |
 |  2.0   |       23/11       | Adição da Primeira versão do Diagrama de Classes  | [André Silva](https://github.com/Hunter104), [Artur Barlz](https://github.com/H0lzz), [Euardo Sandes](https://github.com/DiceRunner714), [Gabriela Lemos](https://github.com/heylisten64), [João Carvalho](https://github.com/joaoseisei), [Samara Santos](https://github.com/samarawwleticia), [Thomas Alves](https://github.com/thmasq) | [João Carvalho](https://github.com/joaoseisei) |      28/11      |
 |  2.1   |       24/11       | Adiciona referências e estudo do minecraft fabric |                                                  [Artur Barlz](https://github.com/H0lzz), [Euardo Sandes](https://github.com/DiceRunner714), [Gabriela Lemos](https://github.com/heylisten64), [João Carvalho](https://github.com/joaoseisei), [Thomas Alves](https://github.com/thmasq)                                                  | [João Carvalho](https://github.com/joaoseisei) |      28/11      |
@@ -180,5 +181,5 @@ O diagrama de classes atinge o objetivo de estruturar os requisitos do mod, prom
 ## Controle de Revisão
 
 |                  Revisor(es)                   |                                        O que foi realizado                                         |
-|:----------------------------------------------:|:--------------------------------------------------------------------------------------------------:|
+| :--------------------------------------------: | :------------------------------------------------------------------------------------------------: |
 | [João Carvalho](https://github.com/joaoseisei) | Adiciona detalhamento na metodologia e corrige o diagrama de acordo com o matérial na bibliografia |

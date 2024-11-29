@@ -50,6 +50,7 @@ O objetivo do diagrama de implantação é mapear como o projeto será integrado
 
 &emsp;&emsp;
 O desenvolvimento do diagrama foi baseado nos requisitos não funcionais de compatibilidade e desempenho, buscando garantir a integração eficaz entre diferentes versões do Minecraft e servidores, enquanto minimiza impactos negativos no desempenho do sistema.
+
 </div>
 
 <div align="justify"> &emsp;&emsp;
@@ -80,6 +81,7 @@ A última versão do Diagrama de Implantação pode ser vista na Figura 1.
 <center>
 
 <!-- ![versão_final](https://raw.githubusercontent.com/UnBArqDsw2024-2/2024.2_G1_Logic_Thinkering_Entrega_02/refs/heads/main/assets/diagamaImplantacao/DIv2.png) -->
+
 ![versão_final](https://raw.githubusercontent.com/UnBArqDsw2024-2/2024.2_G1_Logic_Thinkering_Entrega_02/refs/heads/main/assets/diagramaImplantacao/DIv2.png)
 
 </center>
@@ -162,9 +164,9 @@ Portanto, O diagrama garante que a arquitetura física do projeto é compatível
 
 | Versão | Data da alteração |                         Alteração                          |                                                               Responsável                                                               |                      Revisor                       | Data de revisão |
 | :----: | :---------------: | :--------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------: | :-------------: |
-|  1.0   |       21/11       | Criação do documento e adição de Introdução e Bibliografia |                                            [Gabriela Lemos](https://github.com/heylisten64)                                             |      [Artur Bartz](https://github.com/H0lzz)       |   25/11    |
-|  2.0   |       25/11       |  Adição de Objetivos, Metodologia, Resultados e Conclusão  |                                                 [Artur Bartz](https://github.com/H0lzz)                                                 |    [joaoseisei](https://github.com/joaoseisei)     |   27/11    |
-|  2.1   |       25/11       |           Adiciona versão melhorada do diagrama            | [Gabriela Lemos](https://github.com/heylisten64), [Thomas Q](https://github.com/thmasq), [João Carvalho](https://github.com/joaoseisei) | [Eduardo Sandes](https://github.com/DiceRunner714) | 27/11               |
+|  1.0   |       21/11       | Criação do documento e adição de Introdução e Bibliografia |                                            [Gabriela Lemos](https://github.com/heylisten64)                                             |      [Artur Bartz](https://github.com/H0lzz)       |      25/11      |
+|  2.0   |       25/11       |  Adição de Objetivos, Metodologia, Resultados e Conclusão  |                                                 [Artur Bartz](https://github.com/H0lzz)                                                 |    [joaoseisei](https://github.com/joaoseisei)     |      27/11      |
+|  2.1   |       25/11       |           Adiciona versão melhorada do diagrama            | [Gabriela Lemos](https://github.com/heylisten64), [Thomas Q](https://github.com/thmasq), [João Carvalho](https://github.com/joaoseisei) | [Eduardo Sandes](https://github.com/DiceRunner714) |      27/11      |
 
 </div>
 

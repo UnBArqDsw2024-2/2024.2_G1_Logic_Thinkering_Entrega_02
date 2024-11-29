@@ -1,7 +1,8 @@
 # Diagrama de Componente
 
 ## Introdução
-<!--  
+
+<!--
 - **Apresente o tema do projeto ou estudo;**
 - **Busque trazer referências no decorrer do texto;**
 - Destaque a relevância do diagrama ou abordagem para a área de aplicação.
@@ -13,7 +14,8 @@ O Diagrama de Componentes é um tipo de diagrama da UML (Linguagem de Modelagem 
 </div>
 
 ## Objetivo
-<!--  
+
+<!--
 - **Declare o que se pretende alcançar com o diagrama em projetos no geral; Busque referenciar!**
 - **Declare o que se pretende alcançar com o diagrama para equipe neste contexto;**
 - **Destaque os resultados esperados, como soluções para problemas, melhorias no entendimento ou suporte à tomada de decisões.**
@@ -24,7 +26,8 @@ A diagramação de componentes tem como objetivo não tornar uma solução gener
 </div>
 
 ## Metodologia
-<!--  
+
+<!--
 - **Explique o processo utilizado para desenvolver o trabalho. COMO foi feito?**
 - **Descreva as ferramentas, técnicas ou referências utilizadas na construção do diagrama ou solução. Se houver alguma ferramenta específica determinada pela professora, a sugestão é usá-la sendo em qualquer etapa do processo. Podem começar com uma ferramenta que já são familiarizados e depois explorar outras ferramentas.**
 - Se desejarem, podem citar os desafios encontrados seguindo a metodologia, propostas de melhoria, etc.
@@ -35,8 +38,9 @@ Para a confecção do diagrama foi realizada reuniões no Teams, gravações dis
 </div>
 
 ## Resultados
-<!--  
-- **Apresente o produto final, como o diagrama ou solução desenvolvida.** 
+
+<!--
+- **Apresente o produto final, como o diagrama ou solução desenvolvida.**
 - **Desenvolva ao menos um parágrafo referenciando a figura**
 - **Adicione "Figura 1 - Título da Figura/Quadro/Tabela" acima e "Fonte: " abaixo dela**
 - Destaque os pontos principais ou insights obtidos durante o processo.
@@ -57,7 +61,6 @@ Na versão 1.1, foram feitos ajustes no diagrama inicial para que fosse respeita
 
 ### Versão 1.0
 
-
 <details>
 <summary>Visualizar versão 1.0</summary>
 
@@ -70,6 +73,7 @@ Na versão 1.0, foi feita a arquitetura estática do sistema do Mod, com compone
 <center>
 
 ![](https://raw.githubusercontent.com/UnBArqDsw2024-2/2024.2_G1_Logic_Thinkering_Entrega_02/refs/heads/main/assets/diagramaCasoUso/DCUv1.png)
+
 </center>
 <center><b>Fonte: Silva, Bartz, Reis, Sandes, Lemos, Carvalho, Santos, Santos, Alves, Santos, 2024</b> </center>
 
@@ -77,21 +81,23 @@ Na versão 1.0, foi feita a arquitetura estática do sistema do Mod, com compone
 
 ### Gravações do Diagrama de Componentes
 
-#### Primeira reunião | Versao 1.0 
+#### Primeira reunião | Versao 1.0
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/AZiR3iqjQsk?si=ZCp7ScixGuM7auxQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 #### Segunda reunião | Versao 1.1
-<iframe width="560" height="315" src="https://www.youtube.com/embed/76bxn7KmrtU?si=m-EVh4Z-bvblzEcv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> 
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/76bxn7KmrtU?si=m-EVh4Z-bvblzEcv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Conclusão
-<!--  
+
+<!--
 -   **Resuma os pontos principais do trabalho.**
 -   **Avalie se os objetivos foram alcançados e o impacto do trabalho.**
 -   **Apresente perspectivas para melhorias ou trabalhos futuros.**
 -->
 
-O **diagrama de componentes** permite visualizar e organizar as partes estruturais do sistema de maneira clara e lógica, facilitando a compreensão das dependências e comunicações entre os diferentes componentes. Dessa forma foi possível representar os componentes de maneira que toda a equipe possa entender as comunicações e quais partes do código são possíveis de ter reutilização, permitindo melhores tomadas de decisão para priorização e organização da equipe. 
+O **diagrama de componentes** permite visualizar e organizar as partes estruturais do sistema de maneira clara e lógica, facilitando a compreensão das dependências e comunicações entre os diferentes componentes. Dessa forma foi possível representar os componentes de maneira que toda a equipe possa entender as comunicações e quais partes do código são possíveis de ter reutilização, permitindo melhores tomadas de decisão para priorização e organização da equipe.
 
 ## Bibliografia
 
@@ -100,7 +106,6 @@ O **diagrama de componentes** permite visualizar e organizar as partes estrutura
 > [1] SERRANO, Milene. Videoaula: [05h - VideoAula - DSW-Modelagem - Componentes - Somente visualização](https://unbbr-my.sharepoint.com/:v:/g/personal/mileneserrano_unb_br/EQGv8dOdqHBBgYP4-KWzBD8BhDoWlC1zq0wInZIZcOm5Fg?e=SoOqG3&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D). [Online]. Disponível em: [https://unbbr-my.sharepoint.com/:v:/g/personal/mileneserrano_unb_br/EQGv8dOdqHBBgYP4-KWzBD8BhDoWlC1zq0wInZIZcOm5Fg?e=SoOqG3&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D](https://unbbr-my.sharepoint.com/:v:/g/personal/mileneserrano_unb_br/EQGv8dOdqHBBgYP4-KWzBD8BhDoWlC1zq0wInZIZcOm5Fg?e=SoOqG3&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D) . Acesso em: 26 nov. 2024.
 
 > [2] UML Component Diagrams. Disponível em: [https://www.uml-diagrams.org/component-diagrams.html] . Acesso em: 26 nov. 2024.
-
 
 <center>
 
@@ -113,7 +118,7 @@ O **diagrama de componentes** permite visualizar e organizar as partes estrutura
 <div style="margin: 0 auto; width: fit-content;">
 
 | Matrícula | Aluno                                 | Git                                                           |
-|-----------|---------------------------------------|---------------------------------------------------------------|
+| --------- | ------------------------------------- | ------------------------------------------------------------- |
 | 221931265 | Carlos Eduardo Rodrigues              | [carlos-kadu](https://github.com/carlos-kadu)                 |
 | 221021886 | Cássio Sousa dos Reis                 | [csreis72](https://github.com/csreis72)                       |
 | 221031149 | Danilo César Tertuliano Melo          | [DaniloCTM](https://github.com/DaniloCTM)                     |
@@ -121,7 +126,6 @@ O **diagrama de componentes** permite visualizar e organizar as partes estrutura
 | 221008445 | Samara Letícia Alves dos Santos       | [samarawwleticia](https://github.com/samarawwleticia)         |
 | 221008697 | Sunamita Vitória Rodrigues dos Santos | [sunamit](https://github.com/sunamit)                         |
 | 202017263 | Vinicius de Oliveira Santos           | [ViniciussdeOliveira](https://github.com/ViniciussdeOliveira) |
-
 
 </div>
 
@@ -138,7 +142,7 @@ O **diagrama de componentes** permite visualizar e organizar as partes estrutura
 <div style="margin: 0 auto; width: fit-content;">
 
 | Versão | Data da alteração |                                            Alteração                                             |                          Responsável                           |                    Revisor                     | Data de revisão |
-|:------:|:-----------------:|:------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------:|:----------------------------------------------:|:---------------:|
+| :----: | :---------------: | :----------------------------------------------------------------------------------------------: | :------------------------------------------------------------: | :--------------------------------------------: | :-------------: |
 |  1.0   |       26/11       |                                       Criação do documento                                       | [Vinicius de Oliveira](https://github.com/ViniciussdeOliveira) | [João Carvalho](https://github.com/joaoseisei) |      28/11      |
 |  1.1   |       27/11       |                                          Add versão 1.0                                          |      [Samara Letícia](https://github.com/samarawwleticia)      | [João Carvalho](https://github.com/joaoseisei) |      28/11      |
 |  1.2   |       28/11       |                                 Adição da versão 1.1 e conclusão                                 | [Vinicius de Oliveira](https://github.com/ViniciussdeOliveira) | [João Carvalho](https://github.com/joaoseisei) |      28/11      |
@@ -149,6 +153,6 @@ O **diagrama de componentes** permite visualizar e organizar as partes estrutura
 
 ## Controle de Revisão
 
-|                   Revisor(es)                   |                                                 O que foi realizado                                                 |
-|:-----------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------:|
-| [João Carvalho](https://github.com/joaoseisei)  | Corrigi as versões anteriores do projeto e adequei as identações e parágrafos além de alinhar objetivo e introdução |
+|                  Revisor(es)                   |                                                 O que foi realizado                                                 |
+| :--------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------: |
+| [João Carvalho](https://github.com/joaoseisei) | Corrigi as versões anteriores do projeto e adequei as identações e parágrafos além de alinhar objetivo e introdução |

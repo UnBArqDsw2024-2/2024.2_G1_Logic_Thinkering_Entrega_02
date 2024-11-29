@@ -1,27 +1,30 @@
 # Backward From
 
-
 ## Introdução
 
- <div align="justify">&emsp;&emsp;
+<div align="justify">&emsp;&emsp;
 Uma parte essencial da Engenharia de Requisitos é conseguir manter o rastreamento de todos os requisitos levantados, sabendo, a todo momento, não apenas de onde surgiram, mas também onde estão implementados, garantindo que foram atendidos e estão devidamente alinhados com as necessidades dos stakeholders. Nesse contexto, o conceito do Backward From desempenha um papel fundamental ao possibilitar a análise reversa de dependências. Ele permite rastrear a origem de um requisito, tarefa ou objetivo, facilitando a compreensão de como cada elemento do sistema foi derivado e sua importância dentro do escopo geral do projeto.
- 
+
 &emsp;&emsp;Essa abordagem é particularmente relevante em projetos de mods para jogos como Minecraft, onde as demandas criativas e técnicas precisam ser cuidadosamente alinhadas. Por meio do Backward From, a equipe pode garantir que cada funcionalidade ou objetivo planejado tenha uma origem clara, esteja conectado às necessidades dos stakeholders e seja implementado de forma eficiente e alinhada ao escopo definido.
+
 </div>
-  
+
 ## Objetivo
- <div align="justify">&emsp;&emsp;
+
+<div align="justify">&emsp;&emsp;
 O objetivo do Backward From para a equipe, além de manter a rastreabilidade dos requisitos levantados, é de consolidar o escopo do projeto, garantindo que a equipe esteja alinhada com o que será implementado e quais tópicos serão descartados. Ademais, o documento visa também simplificar o processo de verificação durante o desenvolvimento, garantindo que a implementação esteja alinhada com os requisitos elicitados.
 
 &emsp;&emsp;Além disso, o documento minimiza ambiguidades durante o desenvolvimento, permitindo identificar rapidamente quais itens foram implementados, estão pendentes ou precisam de revisão. Portanto, espera-se aumentar a eficácia no rastreamento e alinhamento dos requisitos com os objetivos do projeto.
+
 </div>
-  
+
 ## Metodologia
 
 <div align="justify">&emsp;&emsp;
 Para a confecção do Backward From, definimos que cada autor - presente em uma reunião extraordinária do dia 18 de novembro - do seu respectivo documento - elaborados na primeira etapa da disciplina - seria responsável por apresentar os requisitos levantados relacionados aos artefatos que produziu. Em seguida, utilizamos uma matriz de rastreabilidade, conectando os requisitos às respectivas elicitações de forma estruturada e coerente. Posteriormente, validamos o documento em uma reunião geral da equipe para debater os requisitos e garantir o alinhamento de todo o time de desenvolvedores com o tema, antes de iniciarmos o processo de modelagem.
 
 &emsp;&emsp;Além disso, ferramentas como GitHub Issues e Pull Requests serão empregadas para gerenciar as tarefas e garantir o rastreamento contínuo dos requisitos.
+
 </div>
 
 ## Resultados
@@ -33,9 +36,9 @@ Os requisitos funcionais e não funcionais coletados no processo de desenho e el
 <center>
  <b>Quadro 1 -</b> Requisitos Funcionais
 </center>
-  
+
 | ID   | Descrição                                                                                                                        | Origem                                                                      | Implementado | Prioridade |
-|------|----------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------|--------------|------------|
+| ---- | -------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------- | ------------ | ---------- |
 | RF01 | Adicionar três novos minérios (ametista reforçada, esmeralda reforçada e cobre reforçado)                                        | BS1, Rich Picture, Análise de SWOT                                          | Não          | Alta       |
 | RF02 | Permitir o uso desses minérios para criar armaduras e ferramentas                                                                | BS1, Rich Picture, Persona 5, Persona 6, Análise de SWOT                    | Não          | Alta       |
 | RF03 | Implementar uma mecânica (carga) que conecte as funcionalidades das novas armaduras com as ferramentas feitas dos novos minérios | BS1, Persona 6, Análise de SWOT                                             | Não          | Alta       |
@@ -61,7 +64,7 @@ Os requisitos funcionais e não funcionais coletados no processo de desenho e el
 | RF23 | Disponibilizar quizzes com recompensas                                                                                           | NFR001                                                                      | Não          | Baixíssima |
 | RF24 | Adicionar um minimapa                                                                                                            |                                                                             | Não          | Baixíssima |
 
- <center>
+<center>
  <b>Fonte:</b> Autoria própria, 2024.
 </center>
 
@@ -70,7 +73,7 @@ Os requisitos funcionais e não funcionais coletados no processo de desenho e el
 </center>
 
 | ID    | Descrição                                                                                                                                            | Origem                                                                    | Implementado | Prioridade |
-|-------|------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------|--------------|------------|
+| ----- | ---------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------- | ------------ | ---------- |
 | RNF01 | As funcionalidades e mecânicas devem ser intuitivas para jogadores de qualquer nível de experiência                                                  | BS1, Análise de SWOT, Diagrama de Ishikawa (adaptação), Persona 2         | Não          | Alta       |
 | RNF02 | As novas mecânicas e blocos não devem impactar significativamente o desempenho do jogo, mesmo em servidores com muitos jogadores                     | BS1, Análise de SWOT, Persona 3                                           | Não          | Alta       |
 | RNF03 | O conteúdo educativo no livro deve ser claro e adequado para iniciantes, promovendo o aprendizado de eletrônica de forma prática e integrada ao jogo | BS1, Análise de SWOT, Diagrama de Ishikawa (adaptação), Persona 5, NFR002 | Não          | Alta       |
@@ -96,8 +99,8 @@ Como o foco inicial está voltado para a organização interna e o planejamento 
 
 &emsp;&emsp;
 Através da divisão de diretórios que dividem código, documentação e recursos, o código fonte do mod é organizado para incluir classes da orientação a objetos e pacotes para cada requisito funcional listado acima, garantindo a organização do projeto.
+
 </div>
-  
 
 ## Bibliografia
 
@@ -114,7 +117,7 @@ Através da divisão de diretórios que dividem código, documentação e recurs
 <div style="margin: 0 auto; width: fit-content;">
 
 | Matrícula | Aluno                             | Git                                                           |
-|-----------|-----------------------------------|---------------------------------------------------------------|
+| --------- | --------------------------------- | ------------------------------------------------------------- |
 | 221007869 | Artur Henrique Holz Bartz         | [H0lzz](https://github.com/H0lzz)                             |
 | 221931265 | Carlos Eduardo Rodrigues          | [carlos-kadu](https://github.com/carlos-kadu)                 |
 | 221008024 | Eduardo Matheus dos Santos Sandes | [DiceRunner714](https://github.com/DiceRunner714)             |
@@ -123,6 +126,7 @@ Através da divisão de diretórios que dividem código, documentação e recurs
 | 221037993 | Patrícia Helena Macedo da Silva   | [patyhelenaa](https://github.com/patyhelenaa)                 |
 | 211062526 | Thomas Queiroz Souza Alves        | [thmasq](https://github.com/thmasq)                           |
 | 202017263 | Vinicius de Oliveira Santos       | [ViniciussdeOliveira](https://github.com/ViniciussdeOliveira) |
+
 </div>
 
 ---
@@ -137,16 +141,16 @@ Através da divisão de diretórios que dividem código, documentação e recurs
 
 <div style="margin: 0 auto; width: fit-content;">
 
-| Versão | Data da alteração |                                Alteração                                |                                                                                                                                                                           Responsável                                                                                                                                                                            |                    Revisor                     | Data de revisão |
-|:------:|:-----------------:|:-----------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:----------------------------------------------:|:---------------:|
+| Versão | Data da alteração |                                Alteração                                |                                                                                                                                                                            Responsável                                                                                                                                                                             |                    Revisor                     | Data de revisão |
+| :----: | :---------------: | :---------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------: | :-------------: |
 |  1.0   |       19/11       |          Criação do documento, adição de Introdução, Objetivos          | [Eduardo Sandes](https://github.com/DiceRunner714), [Gabriela Lemos](https://github.com/heylisten64), [João Carvalho](https://github.com/joaoseisei), [Vinicius Santos](https://github.com/ViniciussdeOliveira), [Carlos Rodrigues](https://github.com/carlos-kadu), [Patrícia Silva](https://github.com/patyhelenaa), [Thomas Queiroz](https://github.com/thmasq) |    [Artur Bartz](https://github.com/H0lzz)     |   19/11/2024    |
-|  1.1   |       19/11       | Criação do tópico de Estrutura do Projeto, criou o RF19, criou o RNF06, |                                                                                                                                                             [Artur Bartz](https://github.com/H0lzz)                                                                                                                                                              | [João Carvalho](https://github.com/joaoseisei) |   28/11/2024    |    
+|  1.1   |       19/11       | Criação do tópico de Estrutura do Projeto, criou o RF19, criou o RNF06, |                                                                                                                                                              [Artur Bartz](https://github.com/H0lzz)                                                                                                                                                               | [João Carvalho](https://github.com/joaoseisei) |   28/11/2024    |
 
 </div>
 
 ## Controle de Revisão
 
-|               Revisor(es)               |                                                                                              O que foi realizado                                                                                               |
-|:---------------------------------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| [Artur Bartz](https://github.com/H0lzz) | Adicionou informações adicionais nos tópicos de Introduçao, Objetivos e Metodologia, adicionou uma nova coluna “Prioridade” nas tabelas dos requisitos funcionais e não funcionais, adicionou uma bibliografia |
-| [João Carvalho](https://github.com/joaoseisei)                                        |                                                        Corrige nome dos participantes e remove duplicações e adiciona identação na estrutura do projeto                                                        |
+|                  Revisor(es)                   |                                                                                              O que foi realizado                                                                                               |
+| :--------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|    [Artur Bartz](https://github.com/H0lzz)     | Adicionou informações adicionais nos tópicos de Introduçao, Objetivos e Metodologia, adicionou uma nova coluna “Prioridade” nas tabelas dos requisitos funcionais e não funcionais, adicionou uma bibliografia |
+| [João Carvalho](https://github.com/joaoseisei) |                                                        Corrige nome dos participantes e remove duplicações e adiciona identação na estrutura do projeto                                                        |

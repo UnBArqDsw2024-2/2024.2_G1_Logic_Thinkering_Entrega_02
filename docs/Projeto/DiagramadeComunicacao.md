@@ -1,7 +1,8 @@
 # Diagrama de Comunicação/Colaboração
 
 ## Introdução
-<!--  
+
+<!--
 - *Apresente o tema do projeto ou estudo;*
 - *Busque trazer referências no decorrer do texto;*
 - Destaque a relevância do diagrama ou abordagem para a área de aplicação.
@@ -11,11 +12,12 @@
 <div align="justify">
 &emsp;&emsp;
 O <b>Diagrama de Comunicação</b>, também conhecido como Diagrama de Colaboração, faz parte do grupo de diagramas dinâmicos da notação UML. É um diagrama dinâmico que mostra a interação entre objetos e/ou partes, usando mensagens sequenciais. Dá ênfase à ordem das mensagens, normalmente com foco em um cenário de uso. (SERRANO, 2020)
- 
+
 </div>
 
 ## Objetivo
-<!--  
+
+<!--
 - *Declare o que se pretende alcançar com o diagrama em projetos no geral; Busque referenciar!*
 - *Declare o que se pretende alcançar com o diagrama para equipe neste contexto;*
 - *Destaque os resultados esperados, como soluções para problemas, melhorias no entendimento ou suporte à tomada de decisões.*
@@ -27,7 +29,8 @@ O diagrama de comunicação em UML tem como objetivo representar a interação e
 </div>
 
 ## Metodologia
-<!--  
+
+<!--
 - *Explique o processo utilizado para desenvolver o trabalho. COMO foi feito?*
 - *Descreva as ferramentas, técnicas ou referências utilizadas na construção do diagrama ou solução. Se houver alguma ferramenta específica determinada pela professora, a sugestão é usá-la sendo em qualquer etapa do processo. Podem começar com uma ferramenta que já são familiarizados e depois explorar outras ferramentas.*
 - Se desejarem, podem citar os desafios encontrados seguindo a metodologia, propostas de melhoria, etc.
@@ -50,8 +53,9 @@ Nos baseamos na bibliografia encontrada UML2 - Uma Abordagem Prática
 </div>
 
 ## Resultados
-<!--  
-- *Apresente o produto final, como o diagrama ou solução desenvolvida.* 
+
+<!--
+- *Apresente o produto final, como o diagrama ou solução desenvolvida.*
 - *Desenvolva ao menos um parágrafo referenciando a figura*
 - *Adicione "Figura 1 - Título da Figura/Quadro/Tabela" acima e "Fonte: " abaixo dela*
 - Destaque os pontos principais ou insights obtidos durante o processo.
@@ -78,6 +82,7 @@ A Figura 1 apresenta a versão 1.2 do diagrama de comunicação, que está repre
 ### Versão 1.1
 
 <!-- Aqui documente as mudanças de uma versão para a outra -->
+
 A Figura 2 apresenta a versão 1.1 do diagrama de comunicação.
 
 <center><b>Figura 2 -</b> Diagrama comunicação versão 1.1</center>
@@ -88,13 +93,13 @@ A Figura 2 apresenta a versão 1.1 do diagrama de comunicação.
 
 </details>
 
-
 <details>
 <summary>Visualizar versão 1.0</summary>
 
 ### Versão 1.0
 
 <!-- Aqui documente as mudanças de uma versão para a outra -->
+
 A Figura 3 apresenta a versão 1.0 do diagrama de comunicação.
 
 <center><b>Figura 3 -</b> Diagrama comunicação versão 1.0</center>
@@ -105,18 +110,19 @@ A Figura 3 apresenta a versão 1.0 do diagrama de comunicação.
 
 </details>
 
-
 ### Gravações do Diagrama de Comunicação
 
-#### Primeira reunião | Versão 1.0 
+#### Primeira reunião | Versão 1.0
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/e51ww0hznWE?si=GYKQxkJgj7HfDFNK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 #### Segunda reunião | Versão 1.1
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lCqaTQR7EwQ?si=XqObCQ6m8y8M7Wyr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-
 ## Conclusão
-<!--  
+
+<!--
 -   *Resuma os pontos principais do trabalho.*
 -   *Avalie se os objetivos foram alcançados e o impacto do trabalho.*
 -   *Apresente perspectivas para melhorias ou trabalhos futuros.*
@@ -134,7 +140,6 @@ O uso do diagrama de comunicação é fundamental para mapear e visualizar as in
 > [1] SERRANO, Milene. Videoaula: [06b - VideoAula - DSW-Modelagem - Comunicacao - Somente visualização](https://unbbr-my.sharepoint.com/:v:/g/personal/mileneserrano_unb_br/EWMy259ZJ7tGl78GcwMtbFcB75NvMoPphK3LHZ_-5D3-8Q?e=FwwxaL&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D). [Online]. Disponível em: [https://unbbr-my.sharepoint.com/:v:/g/personal/mileneserrano_unb_br/EWMy259ZJ7tGl78GcwMtbFcB75NvMoPphK3LHZ_-5D3-8Q?e=FwwxaL&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D](https://unbbr-my.sharepoint.com/:v:/g/personal/mileneserrano_unb_br/EWMy259ZJ7tGl78GcwMtbFcB75NvMoPphK3LHZ_-5D3-8Q?e=FwwxaL&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D) . Acesso em: 26 nov. 2024.
 
 > [2] UML Communication Diagrams. Disponível em: https://www.uml-diagrams.org/communication-diagrams.html. Acesso em: 26 nov. 2024.
-
 
 <center>
 

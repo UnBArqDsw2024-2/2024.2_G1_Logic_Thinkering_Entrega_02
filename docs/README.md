@@ -1,24 +1,3 @@
-[//]: # (# 2024.2_G1_ModMine_Entrega_02)
-
-[//]: # ()
-[//]: # (Esse repositório é para ser utilizado pelos grupos como um template inicial.)
-
-[//]: # (As seções do Template NÃO DEVEM SER OMITIDAS, sendo TODAS RELEVANTES.)
-
-[//]: # (Demais diretrizes constam no Moodle.)
-
-[//]: # ()
-[//]: # (**!! Atenção: Renomeie o seu repositório para &#40;Ano.Semestre&#41;_&#40;Grupo&#41;_&#40;NomeDoProjeto&#41;_&#40;Entrega_01&#41;*. !!**)
-
-[//]: # ()
-[//]: # (**!! _Não coloque os nomes dos alunos no título do repositório_. !!**)
-
-[//]: # ()
-[//]: # (**!! _Exemplo de título correto: 2024.2_G1_Jogo_Entrega_01_. !!**)
-
-[//]: # ()
-[//]: # (&#40;Apague esses comentários&#41;)
-
 # Logic Thinkering
 
 **Código da Disciplina**: FGA0208<br>
@@ -43,7 +22,6 @@
 | 211062526 | Thomas Queiroz Souza Alves            | [thmasq](https://github.com/thmasq)                           |
 | 202017263 | Vinicius de Oliveira Santos           | [ViniciussdeOliveira](https://github.com/ViniciussdeOliveira) |
 
-
 ## Sobre
 
 Logic Thinkering é um mod para Minecraft que possui o objetivo de introduzir mecânicas simples e fáceis de aprender para aprimorar o uso da redstone no jogo.
@@ -53,24 +31,30 @@ Logic Thinkering é um mod para Minecraft que possui o objetivo de introduzir me
 ## Screenshots da Segunda Entrega
 
 ![Diagrama de Classes](https://raw.githubusercontent.com/UnBArqDsw2024-2/2024.2_G1_Logic_Thinkering_Entrega_02/refs/heads/main/assets/diagramaClasse/DCv3.0.png)
+
 <p style="text-align: center">Figura 1: Diagrama de Classes</p>
 
 ![Diagrama de Componente](https://raw.githubusercontent.com/UnBArqDsw2024-2/2024.2_G1_Logic_Thinkering_Entrega_02/refs/heads/main/assets/componentes2.png)
+
 <p style="text-align: center">Figura 2: Diagrama de Componente</p>
 
 ![Diagrama de Implantação](https://raw.githubusercontent.com/UnBArqDsw2024-2/2024.2_G1_Logic_Thinkering_Entrega_02/refs/heads/main/assets/diagramaImplantacao/DIv2.png)
+
 <p style="text-align: center">Figura 3: Diagrama de Implantação</p>
 
 ![Diagrama de Atividades](https://raw.githubusercontent.com/UnBArqDsw2024-2/2024.2_G1_Logic_Thinkering_Entrega_02/refs/heads/main/assets/diagramaAtividades/screenshot.png)
+
 <p style="text-align: center">Figura 4: Diagrama de Atividades</p>
 
 ![Diagrama de Comunicação/Colaboração](https://raw.githubusercontent.com/UnBArqDsw2024-2/2024.2_G1_Logic_Thinkering_Entrega_02/refs/heads/main/assets/DiagramaComunicacao/comunicacaoV3.png)
+
 <p style="text-align: center">Figura 5: Diagrama de Comunicação/Colaboração</p>
 
 <!-- ![Diagrama de Sequência]()
 <p style="text-align: center">Figura 6: Diagrama de Sequência</p> -->
 
 ![Diagrama de Casos de Uso](https://raw.githubusercontent.com/UnBArqDsw2024-2/2024.2_G1_Logic_Thinkering_Entrega_02/refs/heads/main/assets/diagramaCasoUso/DCUv2.png)
+
 <p style="text-align: center">Figura 6: Diagrama de Casos de Uso</p>
 
 ## Há algo a ser executado?
