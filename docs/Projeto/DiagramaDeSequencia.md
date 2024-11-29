@@ -1,3 +1,5 @@
+# Diagrama de Sequência
+
 ## Introdução 
 <!--  
 - **Apresente o tema do projeto ou estudo;**
@@ -6,7 +8,11 @@
 - Mencione brevemente os principais aspectos que serão abordados no documento.
 -->
 
+<div align="justify">
+
+&emsp;&emsp;
 O diagrama de sequência é uma ferramenta essencial em engenharia de software, onde diferentes módulos interagem constantemente. No contexto do mod desenvolvido, o diagrama de sequência mapeia interações entre classes e objetos para atender aos requisitos. Este recurso permite que os desenvolvedores visualizem o fluxo de mensagens entre entidades do sistema em cenários específicos, promovendo entendimento compartilhado e facilitando a depuração. A importância dessa abordagem está alinhada com os princípios de desenvolvimento orientado a objetos, que destacam os benefícios da documentação clara de comportamentos dinâmicos.
+</div>
 
 ## Objetivo
 <!--  
@@ -15,7 +21,11 @@ O diagrama de sequência é uma ferramenta essencial em engenharia de software, 
 - **Destaque os resultados esperados, como soluções para problemas, melhorias no entendimento ou suporte à tomada de decisões.**
 -->
 
+<div align="justify">
+
+&emsp;&emsp;
 O principal objetivo do diagrama de sequência é detalhar as interações entre as classes do mod durante a execução de funcionalidades chave. Este nível de detalhamento busca garantir que o comportamento dinâmico do sistema atenda aos requisitos e seja compatível com a lógica do jogo original. Para a equipe, o diagrama serve como referência para alinhar implementações e detectar possíveis gargalos ou falhas de comunicação entre componentes.
+</div>
 
 ## Metodologia
 <!--  
@@ -24,7 +34,18 @@ O principal objetivo do diagrama de sequência é detalhar as interações entre
 - Se desejarem, podem citar os desafios encontrados seguindo a metodologia, propostas de melhoria, etc.
 -->
 
+<div align="justify">
+
+&emsp;&emsp;
 O diagrama é construído com base nos casos de uso mais críticos definidos pela equipe. As mensagens entre objetos são mapeadas considerando os métodos e atributos modelados no diagrama de classes. Ferramentas UML foram utilizadas para representar graficamente os fluxos de interação. A validação do diagrama inclui revisões colaborativas e simulações manuais para assegurar que os fluxos representem as operações esperadas no sistema de maneira fiel.
+Foram feitos 6 fluxos no total:
+- Bloco da maquina de mineração 
+- Minimapa
+- Logic Gate
+- Itens reforçados
+- Redstone +
+- Livro
+</div>
 
 ## Resultados
 <!--  
@@ -35,12 +56,11 @@ O diagrama é construído com base nos casos de uso mais críticos definidos pel
 - **APRESENTE AS VERSÕES DO DIAGRAMA!! Podem usar o formato abaixo para poluir menos a página**
 -->
 
+<div align="justify">
+
+&emsp;&emsp;
 O diagrama de sequência apresenta cenários como a ativação de uma porta lógica ao receber sinais, detalhando a interação com sua entidade associada para calcular e propagar o resultado. Ele também descreve a comunicação entre um robô de mineração e o gerenciador de robôs durante a execução de tarefas de mineração, enfatizando o gerenciamento eficiente de filas de tarefas e níveis de bateria. Além disso, o minimapa é modelado para mostrar a atualização de sinais detectados em sincronia com a rede de redstone, destacando o papel da classe Signal e suas interações com o jogador.
-
-### Versões Anteriores
-
-<details>
-<summary>Visualizar versão 1.2</summary>
+</div>
 
 ### Versão 1.2
 <!-- Alterar para o Diagrama de Sequência>
@@ -51,37 +71,9 @@ A Figura 1 apresenta não só o BPMN revisado como também alguns materiais util
 
 ![Versao 1.2](../assets/BPMN/bpmn2.png)
 
-<center><b>Fonte:</b> Lemos, 2024.</center>
+<center><b>Fonte:</b> Silva,Bartz,Rodrigues,Melo,Silva,Santos, 2024.</center>
 
 </details>
-
-<details>
-<summary>Visualizar versão 1.1</summary>
-
-### Versão 1.1
-
-A Figura 2 apresenta não só o BPMN revisado como também alguns materiais utilizados durante sua confecção.
-
-<center><b>Figura 2 -</b> BPMN revisado versão 1.1</center>
-
-![Versao 1.1](../assets/BPMN/bpmnRevisado.jpg)
-
-<center><b>Fonte:</b> Silva, Lemos, Sandes, Carvalho, 2024.</center>
-
-</details>
-
-<details>
-<summary>Visualizar versão 1.0</summary>
-
-### Versão 1.0
-
-Primeiro rascunho do Diagrama de Classes pode ser vista na Figura 3.
-
-<center><b>Figura 3 -</b> Diagrama de Classes versão 1.0</center>
-
-![Versão 1.0](../assets/diagramadeclasses.drawio.png)
-
-<center><b>Fonte:</b> Silva, Bartz, Sandes, Lemos,  Carvalho, Santos, Alves, 2024.</center>
 
 </details>
 
@@ -141,8 +133,9 @@ Gravação do segundo encontro:
 
 | Versão | Data da alteração |            Alteração            |                  Responsável                  |                      Revisor                       | Data de revisão |
 | :----: | :---------------: | :-----------------------------: | :-------------------------------------------: | :------------------------------------------------: | :-------------: |
-|  1.0   |       23/11       |      Criação do documento       | [H0lzz](https://github.com/H0lzz)             |                                                    |                 |
-| 1.1 | 27/11 | Adição das gravações das reuniões | [carlos-kadu](https://github.com/carlos-kadu) | |  |
+|  1.0   |       23/11       |      Criação do documento       | [Artur Henrique](https://github.com/H0lzz)             |                                                    |                 |
+| 1.1 | 27/11 | Adição das gravações das reuniões | [Carlos Eduardo](https://github.com/carlos-kadu) | |  |
+| 1.2 | 28/11 | Adição dos diagramas, correção no nome dos responsaveis e complemento na metodologia | [Carlos Eduardo](https://github.com/carlos-kadu) | |  |
 
 
 </div>
