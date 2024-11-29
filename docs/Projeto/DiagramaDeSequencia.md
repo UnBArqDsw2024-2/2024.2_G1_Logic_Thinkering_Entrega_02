@@ -185,7 +185,7 @@ Gravação do segundo encontro:
 | :----: | :---------------: | :-----------------------------: | :-------------------------------------------: | :------------------------------------------------: | :-------------: |
 |  1.0   |       23/11       |      Criação do documento       | [Artur Henrique](https://github.com/H0lzz)             |                                                    |                 |
 | 1.1 | 27/11 | Adição das gravações das reuniões | [Carlos Eduardo](https://github.com/carlos-kadu) | |  |
-| 1.2 | 28/11 | Adição dos diagramas, correção no nome dos responsaveis e complemento na metodologia | [Carlos Eduardo](https://github.com/carlos-kadu) | |  |
+| 1.2 | 28/11 | Adição dos diagramas, correção no nome dos responsaveis e complemento na metodologia | [Patricia Helena](https://github.com/patyhelenaa) | |  |
 
 
 </div>
