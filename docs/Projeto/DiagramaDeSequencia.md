@@ -69,7 +69,7 @@ A Figura 1 apresenta Diagrama de Sequência do LogicGate
 
 <center><b>Figura 1 -</b> LogicGate</center>
 
-![LogicGate](https://raw.githubusercontent.com/UnBArqDsw2024-2/2024.2_G1_Logic_Thinkering_Entrega_02/refs/heads/main/assets/diagramaSequencia/LogicGate.png)
+![LogicGate](https://raw.githubusercontent.com/UnBArqDsw2024-2/2024.2_G1_Logic_Thinkering_Entrega_02/refs/heads/main/assets/DiagramaSequencia/LogicGate.png)
 
 <center><b>Fonte:</b> Silva,Bartz,Rodrigues,Melo,Silva,Santos, 2024.</center>
 
@@ -79,7 +79,7 @@ A Figura 1 apresenta Diagrama de Sequência do LogicGate
 A Figura 2 apresenta Diagrama de Sequência do Redstone + .
 <center><b>Figura 2 -</b> Redstone +</center>
 
-![Redstone + ](https://raw.githubusercontent.com/UnBArqDsw2024-2/2024.2_G1_Logic_Thinkering_Entrega_02/refs/heads/main/assets/diagramaSequencia/Redstone.png)
+![Redstone + ](https://raw.githubusercontent.com/UnBArqDsw2024-2/2024.2_G1_Logic_Thinkering_Entrega_02/refs/heads/main/assets/DiagramaSequencia/Redstone.png)
 
 <center><b>Fonte:</b> Silva,Bartz,Rodrigues,Melo,Silva,Santos, 2024.</center>
 
@@ -90,7 +90,7 @@ A Figura 3 apresenta Diagrama de Sequência do itens reforçados
 
 <center><b>Figura 3 -</b> itens reforçados</center>
 
-![itens reforçados](https://raw.githubusercontent.com/UnBArqDsw2024-2/2024.2_G1_Logic_Thinkering_Entrega_02/refs/heads/main/assets/diagramaSequencia/Reinforceditems.png)
+![itens reforçados](https://raw.githubusercontent.com/UnBArqDsw2024-2/2024.2_G1_Logic_Thinkering_Entrega_02/refs/heads/main/assets/DiagramaSequencia/ReinforcedItems.png)
 
 <center><b>Fonte:</b> Silva,Bartz,Rodrigues,Melo,Silva,Santos, 2024.</center>
 
@@ -101,7 +101,7 @@ A Figura 4 apresenta Diagrama de Sequência do Livro guia
 
 <center><b>Figura 4 -</b> Livro guia</center>
 
-![Livro guia](https://raw.githubusercontent.com/UnBArqDsw2024-2/2024.2_G1_Logic_Thinkering_Entrega_02/refs/heads/main/assets/diagramaSequencia/Book.png)
+![Livro guia](https://raw.githubusercontent.com/UnBArqDsw2024-2/2024.2_G1_Logic_Thinkering_Entrega_02/refs/heads/main/assets/DiagramaSequencia/Book.png)
 
 <center><b>Fonte:</b> Silva,Bartz,Rodrigues,Melo,Silva,Santos, 2024.</center>
 
@@ -112,7 +112,7 @@ A Figura 5 apresenta Diagrama de Sequência do bloco de maquina mineradora.
 
 <center><b>Figura 5 -</b> bloco de maquina mineradora</center>
 
-![bloco de maquina mineradora](https://raw.githubusercontent.com/UnBArqDsw2024-2/2024.2_G1_Logic_Thinkering_Entrega_02/refs/heads/main/assets/diagramaSequencia/Miningmachine.png)
+![bloco de maquina mineradora](https://raw.githubusercontent.com/UnBArqDsw2024-2/2024.2_G1_Logic_Thinkering_Entrega_02/refs/heads/main/assets/DiagramaSequencia/Miningmachine.png)
 
 <center><b>Fonte:</b> Silva,Bartz,Rodrigues,Melo,Silva,Santos, 2024.</center>
 
@@ -187,3 +187,4 @@ Gravação do segundo encontro:
 |                  Revisor(es)                   |                                   O que foi realizado                                   |
 |:----------------------------------------------:|:---------------------------------------------------------------------------------------:|
 | [João Carvalho](https://github.com/joaoseisei) | Corrige conclusão com incoêrencias e erros no html e corrige nome das figuras repetidas |
+| [ViniciussdeOliveira](https://github.com/ViniciussdeOliveira) | Correção de imagens |
