@@ -1,6 +1,6 @@
 # Diagrama de Sequência
 
-## Introdução 
+## Introdução
 <!--  
 - **Apresente o tema do projeto ou estudo;**
 - **Busque trazer referências no decorrer do texto;**
@@ -83,7 +83,7 @@ A Figura 2 apresenta Diagrama de Sequência do Redstone + .
 
 <center><b>Fonte:</b> Silva,Bartz,Rodrigues,Melo,Silva,Santos, 2024.</center>
 
-### REINFORCED ITEMS 
+### REINFORCED ITEMS
 <!-- Alterar para o Diagrama de Sequência> -->
 <!-- Aqui documente as mudanças de uma versão para a outra -->
 A Figura 3 apresenta Diagrama de Sequência do itens reforçados
@@ -138,7 +138,7 @@ Gravação do primeiro encontro:
 Gravação do segundo encontro:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MgMsD9NzqHs?si=PZpsgVO8eTvjYrGw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## Bibliografia 
+## Bibliografia
 
 > [1] SERRANO, Milene. Videoaula: [06a - VideoAula - DSW - Modelagem - Diagrama de Sequência](https://unbbr-my.sharepoint.com/personal/mileneserrano_unb_br/_layouts/15/stream.aspx?id=%2Fpersonal%2Fmileneserrano%5Funb%5Fbr%2FDocuments%2FArqDSW%20%2D%20V%C3%ADdeosOriginais%2F06a%20%2D%20VideoAula%20%2D%20DSW%2DModelagem%20%2D%20Sequencia%2Emp4&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E38edf876%2D6926%2D48a6%2Db2e2%2Da2d94557d96e). [Online]. Disponível em: [https://unbbr-my.sharepoint.com/personal/mileneserrano_unb_br/_layouts/15/stream.aspx?id=%2Fpersonal%2Fmileneserrano%5Funb%5Fbr%2FDocuments%2FArqDSW%20%2D%20V%C3%ADdeosOriginais%2F06a%20%2D%20VideoAula%20%2D%20DSW%2DModelagem%20%2D%20Sequencia%2Emp4&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E38edf876%2D6926%2D48a6%2Db2e2%2Da2d94557d96e](https://unbbr-my.sharepoint.com/personal/mileneserrano_unb_br/_layouts/15/stream.aspx?id=%2Fpersonal%2Fmileneserrano%5Funb%5Fbr%2FDocuments%2FArqDSW%20%2D%20V%C3%ADdeosOriginais%2F06a%20%2D%20VideoAula%20%2D%20DSW%2DModelagem%20%2D%20Sequencia%2Emp4&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E38edf876%2D6926%2D48a6%2Db2e2%2Da2d94557d96e) . Acesso em: 23 nov. 2024.
 
