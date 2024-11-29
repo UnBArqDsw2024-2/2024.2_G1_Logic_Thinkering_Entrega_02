@@ -176,3 +176,4 @@ O diagrama de casos de uso proporciona uma visão abrangente das interações es
 |:----------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------:|
 |    [Artur Bartz](https://github.com/H0lzz)     | Revisão da Introdução e adição de informações de que o diagrama expõe como os jogadores e administradores interagem com as novas funcionalidades. |
 | [João Carvalho](https://github.com/joaoseisei) |                                Adição das tabelas de participantes corrigidas correção nos resultados e identação.                                |
+| [Sunamita Santos](https://github.com/Sunamit) | Revisão do diagrama de casos de uso                               |
