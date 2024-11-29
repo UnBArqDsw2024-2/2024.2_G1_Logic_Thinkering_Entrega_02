@@ -58,7 +58,7 @@ Logic Thinkering é um mod para Minecraft que possui o objetivo de introduzir me
 ![Diagrama de Componente](https://raw.githubusercontent.com/UnBArqDsw2024-2/2024.2_G1_Logic_Thinkering_Entrega_02/refs/heads/main/assets/componentes2.png)
 <p style="text-align: center">Figura 2: Diagrama de Componente</p>
 
-![Diagrama de Implantação](https://raw.githubusercontent.com/UnBArqDsw2024-2/2024.2_G1_Logic_Thinkering_Entrega_02/refs/heads/main/assets/diagramaImplantacao/Div2.png)
+![Diagrama de Implantação](https://raw.githubusercontent.com/UnBArqDsw2024-2/2024.2_G1_Logic_Thinkering_Entrega_02/refs/heads/main/assets/diagramaImplantacao/DIv2.png)
 <p style="text-align: center">Figura 3: Diagrama de Implantação</p>
 
 ![Diagrama de Atividades](https://raw.githubusercontent.com/UnBArqDsw2024-2/2024.2_G1_Logic_Thinkering_Entrega_02/refs/heads/main/assets/diagramaAtividades/screenshot.png)
