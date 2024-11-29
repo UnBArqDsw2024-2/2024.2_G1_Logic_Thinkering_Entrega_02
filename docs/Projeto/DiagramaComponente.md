@@ -113,7 +113,7 @@ O **diagrama de componentes** permite visualizar e organizar as partes estrutura
 <div style="margin: 0 auto; width: fit-content;">
 
 | Matrícula | Aluno                                 | Git                                                           |
-| --------- | ------------------------------------- | ------------------------------------------------------------- |
+|-----------|---------------------------------------|---------------------------------------------------------------|
 | 221931265 | Carlos Eduardo Rodrigues              | [carlos-kadu](https://github.com/carlos-kadu)                 |
 | 221021886 | Cássio Sousa dos Reis                 | [csreis72](https://github.com/csreis72)                       |
 | 221031149 | Danilo César Tertuliano Melo          | [DaniloCTM](https://github.com/DaniloCTM)                     |
@@ -137,17 +137,18 @@ O **diagrama de componentes** permite visualizar e organizar as partes estrutura
 
 <div style="margin: 0 auto; width: fit-content;">
 
-| Versão | Data da alteração |            Alteração            |                  Responsável                  |                      Revisor                       | Data de revisão |
-| :----: | :---------------: | :-----------------------------: | :-------------------------------------------: | :------------------------------------------------: | :-------------: |
-|  1.0   |       26/11       |      Criação do documento       | [Vinicius de Oliveira](https://github.com/ViniciussdeOliveira)  |      
-|  1.1   |       27/11       |          Add versão 1.0         | [Samara Letícia](https://github.com/samarawwleticia) |
-|  1.2   |       28/11       |      Adição da versão 1.1 e conclusão       | [Vinicius de Oliveira](https://github.com/ViniciussdeOliveira)  |      
-|  1.3   |       28/11       |      Adição do vídeo da reunião 1.0       | [Vinicius de Oliveira](https://github.com/ViniciussdeOliveira)  | 
-|  1.4   |       28/11       |      Adição do vídeo da reunião 1.1, correção do link das imagens e correção no nome dos responsavéis      | [Patrícia Helena](https://github.com/Patyhelenaa)  |    
+| Versão | Data da alteração |                                            Alteração                                             |                          Responsável                           |                    Revisor                     | Data de revisão |
+|:------:|:-----------------:|:------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------:|:----------------------------------------------:|:---------------:|
+|  1.0   |       26/11       |                                       Criação do documento                                       | [Vinicius de Oliveira](https://github.com/ViniciussdeOliveira) | [João Carvalho](https://github.com/joaoseisei) |      28/11      |
+|  1.1   |       27/11       |                                          Add versão 1.0                                          |      [Samara Letícia](https://github.com/samarawwleticia)      | [João Carvalho](https://github.com/joaoseisei) |      28/11      |
+|  1.2   |       28/11       |                                 Adição da versão 1.1 e conclusão                                 | [Vinicius de Oliveira](https://github.com/ViniciussdeOliveira) | [João Carvalho](https://github.com/joaoseisei) |      28/11      |
+|  1.3   |       28/11       |                                  Adição do vídeo da reunião 1.0                                  | [Vinicius de Oliveira](https://github.com/ViniciussdeOliveira) | [João Carvalho](https://github.com/joaoseisei) |      28/11      |
+|  1.4   |       28/11       | Adição do vídeo da reunião 1.1, correção do link das imagens e correção no nome dos responsavéis |       [Patrícia Helena](https://github.com/Patyhelenaa)        | [João Carvalho](https://github.com/joaoseisei) |      28/11      |
+
 </div>
 
 ## Controle de Revisão
 
-|                        Revisor(es)                        |                                             O que foi realizado                                             |
-|:---------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------:|
-| --- | --- |
+|                   Revisor(es)                   |                                                 O que foi realizado                                                 |
+|:-----------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------:|
+| [João Carvalho](https://github.com/joaoseisei)  | Corrigi as versões anteriores do projeto e adequei as identações e parágrafos além de alinhar objetivo e introdução |
