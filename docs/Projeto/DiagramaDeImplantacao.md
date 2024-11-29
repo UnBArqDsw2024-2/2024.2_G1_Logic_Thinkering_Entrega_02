@@ -162,9 +162,9 @@ Portanto, O diagrama garante que a arquitetura física do projeto é compatível
 
 | Versão | Data da alteração |                         Alteração                          |                                                               Responsável                                                               |                      Revisor                       | Data de revisão |
 | :----: | :---------------: | :--------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------: | :-------------: |
-|  1.0   |       21/11       | Criação do documento e adição de Introdução e Bibliografia |                                            [Gabriela Lemos](https://github.com/heylisten64)                                             |      [Artur Bartz](https://github.com/H0lzz)       |   25/11/2024    |
-|  2.0   |       25/11       |  Adição de Objetivos, Metodologia, Resultados e Conclusão  |                                                 [Artur Bartz](https://github.com/H0lzz)                                                 |    [joaoseisei](https://github.com/joaoseisei)     |   27/11/2024    |
-|  2.1   |       25/11       |           Adiciona versão melhorada do diagrama            | [Gabriela Lemos](https://github.com/heylisten64), [Thomas Q](https://github.com/thmasq), [João Carvalho](https://github.com/joaoseisei) | [Eduardo Sandes](https://github.com/DiceRunner714) | 27/11/2024                |
+|  1.0   |       21/11       | Criação do documento e adição de Introdução e Bibliografia |                                            [Gabriela Lemos](https://github.com/heylisten64)                                             |      [Artur Bartz](https://github.com/H0lzz)       |   25/11    |
+|  2.0   |       25/11       |  Adição de Objetivos, Metodologia, Resultados e Conclusão  |                                                 [Artur Bartz](https://github.com/H0lzz)                                                 |    [joaoseisei](https://github.com/joaoseisei)     |   27/11    |
+|  2.1   |       25/11       |           Adiciona versão melhorada do diagrama            | [Gabriela Lemos](https://github.com/heylisten64), [Thomas Q](https://github.com/thmasq), [João Carvalho](https://github.com/joaoseisei) | [Eduardo Sandes](https://github.com/DiceRunner714) | 27/11               |
 
 </div>
 
