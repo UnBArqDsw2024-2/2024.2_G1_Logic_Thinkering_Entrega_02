@@ -62,20 +62,70 @@ Foram feitos 6 fluxos no total:
 O diagrama de sequência apresenta cenários como a ativação de uma porta lógica ao receber sinais, detalhando a interação com sua entidade associada para calcular e propagar o resultado. Ele também descreve a comunicação entre um robô de mineração e o gerenciador de robôs durante a execução de tarefas de mineração, enfatizando o gerenciamento eficiente de filas de tarefas e níveis de bateria. Além disso, o minimapa é modelado para mostrar a atualização de sinais detectados em sincronia com a rede de redstone, destacando o papel da classe Signal e suas interações com o jogador.
 </div>
 
-### Versão 1.2
+### LOGIC GATE
 <!-- Alterar para o Diagrama de Sequência>
 <!-- Aqui documente as mudanças de uma versão para a outra -->
-A Figura 1 apresenta não só o BPMN revisado como também alguns materiais utilizados durante sua confecção.
+A Figura 1 apresenta Diagrama de Sequência do LogicGate
 
-<center><b>Figura 1 -</b> BPMN revisado versão 1.2</center>
+<center><b>Figura 1 -</b> LogicGate</center>
 
-![Versao 1.2](../assets/BPMN/bpmn2.png)
+![LogicGate](https://raw.githubusercontent.com/UnBArqDsw2024-2/2024.2_G1_Logic_Thinkering_Entrega_02/refs/heads/main/assets/diagramaSequencia/LogicGate.png)
 
 <center><b>Fonte:</b> Silva,Bartz,Rodrigues,Melo,Silva,Santos, 2024.</center>
-
 </details>
 
+### REDSTONE +
+<!-- Alterar para o Diagrama de Sequência>
+<!-- Aqui documente as mudanças de uma versão para a outra -->
+A Figura 1 apresenta Diagrama de Sequência do Redstone + .
+<center><b>Figura 2 -</b> Redstone +</center>
+
+![Redstone + ](https://raw.githubusercontent.com/UnBArqDsw2024-2/2024.2_G1_Logic_Thinkering_Entrega_02/refs/heads/main/assets/diagramaSequencia/Redstone.png)
+
+<center><b>Fonte:</b> Silva,Bartz,Rodrigues,Melo,Silva,Santos, 2024.</center>
 </details>
+
+### REINFORCED ITEMS
+<!-- Alterar para o Diagrama de Sequência>
+<!-- Aqui documente as mudanças de uma versão para a outra -->
+A Figura 1 apresenta Diagrama de Sequência do itens reforçados
+
+<center><b>Figura 1 -</b> itens reforçados</center>
+
+![itens reforçados](https://raw.githubusercontent.com/UnBArqDsw2024-2/2024.2_G1_Logic_Thinkering_Entrega_02/refs/heads/main/assets/diagramaSequencia/Reinforceditems.png)
+
+<center><b>Fonte:</b> Silva,Bartz,Rodrigues,Melo,Silva,Santos, 2024.</center>
+</details>
+
+### GUIDE BOOK
+<!-- Alterar para o Diagrama de Sequência>
+<!-- Aqui documente as mudanças de uma versão para a outra -->
+A Figura 1 apresenta Diagrama de Sequência do Livro guia
+
+<center><b>Figura 1 -</b> Livro guia</center>
+
+![Livro guia](https://raw.githubusercontent.com/UnBArqDsw2024-2/2024.2_G1_Logic_Thinkering_Entrega_02/refs/heads/main/assets/diagramaSequencia/Book.png)
+
+<center><b>Fonte:</b> Silva,Bartz,Rodrigues,Melo,Silva,Santos, 2024.</center>
+</details>
+
+### MINING MACHINE BLOCK
+<!-- Alterar para o Diagrama de Sequência>
+<!-- Aqui documente as mudanças de uma versão para a outra -->
+A Figura 1 apresenta Diagrama de Sequência do bloco de maquina mineradora.
+
+<center><b>Figura 1 -</b> bloco de maquina mineradora</center>
+
+![bloco de maquina mineradora](https://raw.githubusercontent.com/UnBArqDsw2024-2/2024.2_G1_Logic_Thinkering_Entrega_02/refs/heads/main/assets/diagramaSequencia/Miningmachine.png)
+
+<center><b>Fonte:</b> Silva,Bartz,Rodrigues,Melo,Silva,Santos, 2024.</center>
+</details>
+
+
+
+
+
+
 
 ## Conclusão
 <!--  
