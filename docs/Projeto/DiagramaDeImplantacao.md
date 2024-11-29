@@ -83,7 +83,7 @@ A última versão do Diagrama de Implantação pode ser vista na Figura 1.
 ![versão_final](https://raw.githubusercontent.com/UnBArqDsw2024-2/2024.2_G1_Logic_Thinkering_Entrega_02/refs/heads/main/assets/diagramaImplantacao/DIv2.png)
 
 </center>
-<center><b>Fonte: Queioz, Carvalho, Lemos, 2024</b></center>
+<center><b>Fonte: </b> Queioz, Carvalho, Lemos, 2024</center>
 
 ### Versões Anteriores
 
@@ -101,7 +101,7 @@ Primeira versão do Diagrama de Implantação pode ser vista na Figura 2.
 ![versão_1.0](https://raw.githubusercontent.com/UnBArqDsw2024-2/2024.2_G1_Logic_Thinkering_Entrega_02/refs/heads/main/assets/diagramaImplantacao/DIv1.png)
 
 </center>
-<center><b>Fonte: Lemos, 2024</b></center>
+<center><b>Fonte: </b>Lemos, 2024</center>
 
 </details>
 
