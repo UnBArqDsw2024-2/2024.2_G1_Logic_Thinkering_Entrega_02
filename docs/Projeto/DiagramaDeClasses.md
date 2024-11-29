@@ -1,4 +1,4 @@
-## Introdução 
+## Introdução
 <!--  
 - **Apresente o tema do projeto ou estudo;**
 - **Busque trazer referências no decorrer do texto;**
@@ -127,7 +127,7 @@ Primeiro rascunho do Diagrama de Classes pode ser vista na Figura 4.
 O diagrama de classes atinge o objetivo de estruturar os requisitos do mod, promovendo clareza e integração com o código original do Minecraft. Ele é essencial para alinhar a visão da equipe, identificando dependências e promovendo a modularidade do sistema. Melhorias podem ser feitas para garantir maior consistência durante as implementações subsequentes.
 </div>
 
-## Bibliografia 
+## Bibliografia
 
 > [1] SERRANO, Milene. Videoaula: [05b - VideoAula - DSW - Modelagem - Diagrama de Classe](https://unbbr-my.sharepoint.com/:v:/g/personal/mileneserrano_unb_br/EZPNTlqmVjNOqXT1Bm2uUrcBsfMyv68qkyEL_rFMNSEy0g?e=lhFYa3). [Online]. Disponível em: [https://unbbr-my.sharepoint.com/:v:/g/personal/mileneserrano_unb_br/EZPNTlqmVjNOqXT1Bm2uUrcBsfMyv68qkyEL_rFMNSEy0g?e=lhFYa3) . Acesso em: 21 nov. 2024.
 
