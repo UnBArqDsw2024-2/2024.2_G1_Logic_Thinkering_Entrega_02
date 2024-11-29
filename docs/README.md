@@ -52,49 +52,26 @@ Logic Thinkering é um mod para Minecraft que possui o objetivo de introduzir me
 
 ## Screenshots da Segunda Entrega
 
-[//]: # (![5W2H]&#40;assets/5W2H/5w2hLogicRevisado.png&#41;)
+![Diagrama de Classes](https://raw.githubusercontent.com/UnBArqDsw2024-2/2024.2_G1_Logic_Thinkering_Entrega_02/refs/heads/main/assets/diagramaClasse/DCv3.0.png)
+<p style="text-align: center">Figura 1: Diagrama de Classes</p>
 
-[//]: # (<p style="text-align: center">Figura 1: 5W2H</p>)
+![Diagrama de Componente](https://raw.githubusercontent.com/UnBArqDsw2024-2/2024.2_G1_Logic_Thinkering_Entrega_02/refs/heads/main/assets/componentes2.png)
+<p style="text-align: center">Figura 2: Diagrama de Componente</p>
 
-[//]: # ()
-[//]: # (![Diagrama de peixe]&#40;assets/diagrama-causa-e-efeito.png&#41;)
+![Diagrama de Implantação](https://raw.githubusercontent.com/UnBArqDsw2024-2/2024.2_G1_Logic_Thinkering_Entrega_02/refs/heads/main/assets/diagramaImplantacao/DIv2.png)
+<p style="text-align: center">Figura 3: Diagrama de Implantação</p>
 
-[//]: # (<p style="text-align: center">Figura 2: Adaptação do Diagrama de Ishikawa</p>)
+![Diagrama de Atividades](https://raw.githubusercontent.com/UnBArqDsw2024-2/2024.2_G1_Logic_Thinkering_Entrega_02/refs/heads/main/assets/diagramaAtividades/screenshot.png)
+<p style="text-align: center">Figura 4: Diagrama de Atividades</p>
 
-[//]: # ()
-[//]: # (![NFR]&#40;assets/nfr/NFRGERAL.png&#41;)
+![Diagrama de Comunicação/Colaboração](https://raw.githubusercontent.com/UnBArqDsw2024-2/2024.2_G1_Logic_Thinkering_Entrega_02/refs/heads/main/assets/DiagramaComunicacao/comunicacaoV3.png)
+<p style="text-align: center">Figura 5: Diagrama de Comunicação/Colaboração</p>
 
-[//]: # (<p style="text-align: center">Figura 3: NFR</p>)
+<!-- ![Diagrama de Sequência]()
+<p style="text-align: center">Figura 6: Diagrama de Sequência</p> -->
 
-[//]: # ()
-[//]: # (![SWOT]&#40;assets/swot.png&#41;)
-
-[//]: # (<p style="text-align: center">Figura 4: Análise SWOT</p>)
-
-[//]: # ()
-[//]: # (![US]&#40;assets/historias-de-usuarios.png&#41;)
-
-[//]: # (<p style="text-align: center">Figura 5: História de Usuário</p>)
-
-[//]: # ()
-[//]: # (![Lexico]&#40;assets/lexico.png&#41;)
-
-[//]: # (<p style="text-align: center">Figura 6: Léxicos</p>)
-
-[//]: # ()
-[//]: # (![MoSCoW]&#40;assets/lexico.png&#41;)
-
-[//]: # (<p style="text-align: center">Figura 7: MoSCoW</p>)
-
-[//]: # ()
-[//]: # (![Personas]&#40;assets/personas.png&#41;)
-
-[//]: # (<p style="text-align: center">Figura 8: Personas</p>)
-
-[//]: # ()
-[//]: # (![Planejamento de Riscos]&#40;assets/riscos.png&#41;)
-
-[//]: # (<p style="text-align: center">Figura 9: Planejamento de Riscos</p>)
+![Diagrama de Casos de Uso](https://raw.githubusercontent.com/UnBArqDsw2024-2/2024.2_G1_Logic_Thinkering_Entrega_02/refs/heads/main/assets/diagramaCasoUso/DCUv2.png)
+<p style="text-align: center">Figura 6: Diagrama de Casos de Uso</p>
 
 ## Há algo a ser executado?
 
