@@ -83,7 +83,7 @@ A última versão do Diagrama de Implantação pode ser vista na Figura 1.
 ![versão_final](https://raw.githubusercontent.com/UnBArqDsw2024-2/2024.2_G1_Logic_Thinkering_Entrega_02/refs/heads/main/assets/diagramaImplantacao/DIv2.png)
 
 </center>
-<center><b>Fonte: Queioz, Carvalho, Lemos, 2024</b></center>
+<center><b>Fonte: </b> Queioz, Carvalho, Lemos, 2024</center>
 
 ### Versões Anteriores
 
@@ -101,7 +101,7 @@ Primeira versão do Diagrama de Implantação pode ser vista na Figura 2.
 ![versão_1.0](https://raw.githubusercontent.com/UnBArqDsw2024-2/2024.2_G1_Logic_Thinkering_Entrega_02/refs/heads/main/assets/diagramaImplantacao/DIv1.png)
 
 </center>
-<center><b>Fonte: Lemos, 2024</b></center>
+<center><b>Fonte: </b>Lemos, 2024</center>
 
 </details>
 
@@ -162,9 +162,9 @@ Portanto, O diagrama garante que a arquitetura física do projeto é compatível
 
 | Versão | Data da alteração |                         Alteração                          |                                                               Responsável                                                               |                      Revisor                       | Data de revisão |
 | :----: | :---------------: | :--------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------: | :-------------: |
-|  1.0   |       21/11       | Criação do documento e adição de Introdução e Bibliografia |                                            [Gabriela Lemos](https://github.com/heylisten64)                                             |      [Artur Bartz](https://github.com/H0lzz)       |   25/11/2024    |
-|  2.0   |       25/11       |  Adição de Objetivos, Metodologia, Resultados e Conclusão  |                                                 [Artur Bartz](https://github.com/H0lzz)                                                 |    [joaoseisei](https://github.com/joaoseisei)     |   27/11/2024    |
-|  2.1   |       25/11       |           Adiciona versão melhorada do diagrama            | [Gabriela Lemos](https://github.com/heylisten64), [Thomas Q](https://github.com/thmasq), [João Carvalho](https://github.com/joaoseisei) | [Eduardo Sandes](https://github.com/DiceRunner714) | 27/11/2024                |
+|  1.0   |       21/11       | Criação do documento e adição de Introdução e Bibliografia |                                            [Gabriela Lemos](https://github.com/heylisten64)                                             |      [Artur Bartz](https://github.com/H0lzz)       |   25/11    |
+|  2.0   |       25/11       |  Adição de Objetivos, Metodologia, Resultados e Conclusão  |                                                 [Artur Bartz](https://github.com/H0lzz)                                                 |    [joaoseisei](https://github.com/joaoseisei)     |   27/11    |
+|  2.1   |       25/11       |           Adiciona versão melhorada do diagrama            | [Gabriela Lemos](https://github.com/heylisten64), [Thomas Q](https://github.com/thmasq), [João Carvalho](https://github.com/joaoseisei) | [Eduardo Sandes](https://github.com/DiceRunner714) | 27/11               |
 
 </div>
 
